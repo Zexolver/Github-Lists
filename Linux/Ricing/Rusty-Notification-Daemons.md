@@ -9,3 +9,5 @@
     - Wayland
 - https://github.com/SergioRibera/soft_osd
     - Both X11 and Wayland
+- https://github.com/mox-desktop/moxnotify
+    - Wayland
