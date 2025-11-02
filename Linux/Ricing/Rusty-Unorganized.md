@@ -3,3 +3,6 @@
 - https://codeberg.org/LGFae/awww
     - Alternative to swww? 
     - Should be free of any GTK dependencies (I hope)
+- https://codeberg.org/cyuria/barless
+    - Should not contain GTK needs
+    - Seems interesting
