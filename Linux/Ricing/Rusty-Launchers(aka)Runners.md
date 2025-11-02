@@ -22,3 +22,5 @@
     - ...uses fuzzy searcher??
 - https://github.com/SamPertWasTaken/Sprint
     - uses web-browser crate, so might depend on GTK
+- https://github.com/Gingeh/uff
+    - Relies on [Fuzzel](https://codeberg.org/dnkl/fuzzel)
