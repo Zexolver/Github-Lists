@@ -16,3 +16,5 @@
 - https://codeberg.org/ryanabx/rbshell
     - Iced-rs
     - Will be very similar to Cosmic however
+- https://codeberg.org/municorn/cadenza-nd
+    - Possible Notification Daemon
