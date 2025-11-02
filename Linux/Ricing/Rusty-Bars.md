@@ -14,3 +14,5 @@
     - ### THIS POSSIBLY THE ONE!
 - https://github.com/asedii/hyprtitle
     - Made with ??
+- https://github.com/gjabell/ingot
+    - Made with ??
