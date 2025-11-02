@@ -4,3 +4,6 @@
     - Made with Iced-rs
 - https://github.com/MaxVerevkin/i3bar-river
     - Made with ??
+- https://github.com/faervan/bar-rs
+    - Made with Iced-rs
+    - ### THIS PROB THE ONE!!
