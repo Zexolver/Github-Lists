@@ -11,3 +11,5 @@
     - Both X11 and Wayland
 - https://github.com/mox-desktop/moxnotify
     - Wayland
+- https://github.com/Laeri/powernotd
+    - Both*?*
