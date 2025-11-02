@@ -20,3 +20,5 @@
 - https://github.com/canberkkoc/Lnc-RS
     - Made using Iced-rs
     - ...uses fuzzy searcher??
+- https://github.com/SamPertWasTaken/Sprint
+    - uses web-browser crate, so might depend on GTK
