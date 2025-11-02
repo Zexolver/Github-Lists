@@ -15,3 +15,5 @@
     - Both*?*
 - https://github.com/theduke/panorama
     - Both*?*
+- https://github.com/nullsystem/scnd
+    - Both*?*
