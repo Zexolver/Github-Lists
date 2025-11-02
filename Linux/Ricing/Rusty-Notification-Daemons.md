@@ -26,3 +26,5 @@
     - *Sounds good??
 - https://github.com/hnoir/uptimed 
     - meh?
+- https://github.com/d-e-s-o/goggled
+    - No notes
