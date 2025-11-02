@@ -9,3 +9,6 @@
     - ### THIS PROB THE ONE!!
 - https://github.com/netfri25/bread
     - Made with 'stdin'
+- https://github.com/Ind-E/FrostBar
+    - Made with Iced-rs
+    - ### THIS POSSIBLY THE ONE!
