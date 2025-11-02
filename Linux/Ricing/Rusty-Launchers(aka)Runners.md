@@ -7,4 +7,5 @@
     - Basically only text Launcher
 - https://github.com/onagre-launcher/onagre
     - Both X11 and Wayland
-
+- https://github.com/chmouel/raffi
+    - Tried before, something off about it
