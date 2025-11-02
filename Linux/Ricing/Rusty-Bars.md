@@ -12,3 +12,5 @@
 - https://github.com/Ind-E/FrostBar
     - Made with Iced-rs
     - ### THIS POSSIBLY THE ONE!
+- https://github.com/asedii/hyprtitle
+    - Made with ??
