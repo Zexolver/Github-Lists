@@ -17,3 +17,6 @@
     - Dioxus uses web browser stuff, which therefore relies on GTK
 - https://github.com/mdillondc/kickoff
     - GUI compared to j0ru's Launcher??
+- https://github.com/canberkkoc/Lnc-RS
+    - Made using Iced-rs
+    - ...uses fuzzy searcher??
