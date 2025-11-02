@@ -3,3 +3,6 @@
 
 - https://github.com/Toqozz/wired-notify
     - X11 only
+- https://github.com/orhun/runst
+    - X11 only
+    
