@@ -9,3 +9,6 @@
     - Both X11 and Wayland
 - https://github.com/chmouel/raffi
     - Uses [Fuzzel](https://codeberg.org/dnkl/fuzzel) which is written in C
+- https://github.com/Beinsezii/linch
+    - Uses egui
+    - UI looks *super* bad
