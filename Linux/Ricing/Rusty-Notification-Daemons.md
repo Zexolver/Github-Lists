@@ -13,3 +13,5 @@
     - Wayland
 - https://github.com/Laeri/powernotd
     - Both*?*
+- https://github.com/theduke/panorama
+    - Both*?*
