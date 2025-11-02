@@ -5,4 +5,5 @@
     - X11 only
 - https://github.com/orhun/runst
     - X11 only
-    
+- https://github.com/noti-rs/noti
+    - Wayland
