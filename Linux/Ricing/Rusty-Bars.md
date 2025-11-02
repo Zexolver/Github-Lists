@@ -7,3 +7,5 @@
 - https://github.com/faervan/bar-rs
     - Made with Iced-rs
     - ### THIS PROB THE ONE!!
+- https://github.com/netfri25/bread
+    - Made with 'stdin'
