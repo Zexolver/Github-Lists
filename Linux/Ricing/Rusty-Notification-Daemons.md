@@ -19,3 +19,5 @@
     - Both*?*
 - https://github.com/yantonov/ntfd
     - ???
+- https://github.com/emptyfield/powernotify
+    - Both*?*
