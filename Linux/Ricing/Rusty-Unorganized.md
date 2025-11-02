@@ -18,3 +18,5 @@
     - Will be very similar to Cosmic however
 - https://codeberg.org/municorn/cadenza-nd
     - Possible Notification Daemon
+- https://codeberg.org/municorn/cadenza-lock
+    - Could be a nice screen lock who knows
