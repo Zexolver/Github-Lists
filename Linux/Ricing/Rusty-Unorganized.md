@@ -13,3 +13,6 @@
     - Perfect, except no rounded corner radius :c
 - https://codeberg.org/naomi/nanel
     - Uses Iced-rs
+- https://codeberg.org/ryanabx/rbshell
+    - Iced-rs
+    - Will be very similar to Cosmic however
