@@ -9,3 +9,5 @@
 - https://codeberg.org/aakamenov/mibar
     - Could be a nice bar
     - Looks like no GTK stuff
+- https://codeberg.org/AnimoUtils/animolauncher
+    - Perfect, except no rounded corner radius :c
