@@ -2,3 +2,5 @@
 
 - https://github.com/MalpenZibo/ashell
     - Made with Iced-rs
+- https://github.com/MaxVerevkin/i3bar-river
+    - Made with ??
