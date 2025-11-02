@@ -21,3 +21,6 @@
     - ???
 - https://github.com/emptyfield/powernotify
     - Both*?*
+- https://github.com/abellaismail7/rosl
+    - Both*?*
+    - *Sounds good??
