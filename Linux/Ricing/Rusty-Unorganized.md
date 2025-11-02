@@ -6,3 +6,6 @@
 - https://codeberg.org/cyuria/barless
     - Should not contain GTK needs
     - Seems interesting
+- https://codeberg.org/aakamenov/mibar
+    - Could be a nice bar
+    - Looks like no GTK stuff
