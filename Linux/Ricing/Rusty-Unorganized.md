@@ -11,3 +11,5 @@
     - Looks like no GTK stuff
 - https://codeberg.org/AnimoUtils/animolauncher
     - Perfect, except no rounded corner radius :c
+- https://codeberg.org/naomi/nanel
+    - Uses Iced-rs
