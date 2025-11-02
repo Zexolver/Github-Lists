@@ -5,3 +5,6 @@
 - https://github.com/j0ru/kickoff
     - Not very pretty
     - Basically only text Launcher
+- https://github.com/onagre-launcher/onagre
+    - Both X11 and Wayland
+
