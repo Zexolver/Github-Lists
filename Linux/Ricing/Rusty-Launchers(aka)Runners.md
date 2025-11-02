@@ -12,3 +12,5 @@
 - https://github.com/Beinsezii/linch
     - Uses egui
     - UI looks *super* bad
+- https://github.com/imgurbot12/rmenu
+    - *Uses Dioxus for UI, so could be good!
