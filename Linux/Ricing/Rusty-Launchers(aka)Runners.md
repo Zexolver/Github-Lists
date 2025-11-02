@@ -15,3 +15,5 @@
 - ~~https://github.com/imgurbot12/rmenu~~
     - ~~*Uses Dioxus for UI, so could be good!~~
     - Dioxus uses web browser stuff, which therefore relies on GTK
+- https://github.com/mdillondc/kickoff
+    - GUI compared to j0ru's Launcher??
