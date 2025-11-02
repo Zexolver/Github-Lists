@@ -7,3 +7,5 @@
     - X11 only
 - https://github.com/noti-rs/noti
     - Wayland
+- https://github.com/SergioRibera/soft_osd
+    - Both X11 and Wayland
