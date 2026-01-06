@@ -21,3 +21,5 @@
     - More like something to use in Roblox Studio, but since it is open source it could be useful
 - https://github.com/edgingandgooningandlearningtomunt/Open-Source-Scripts/blob/main/Bypass%20Roblox%20Chat%20Open%20Source
     - Some Open source roblox scripts, could maybe help understand how to re-engineer roblox
+- https://github.com/Cosmental/Social-Chat-v1
+    Could be used to help make the new RibreChat look more polished
