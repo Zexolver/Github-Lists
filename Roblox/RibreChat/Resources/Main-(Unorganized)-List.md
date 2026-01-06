@@ -13,3 +13,5 @@
     - Just a list
 - https://github.com/matthewdean/roblox-web-apis
     - JS; 2 Years old
+- https://oqarshi.github.io/Invite/rolocate/index.html
+    - Unsure what this is, but could be useful
