@@ -17,3 +17,5 @@
     - Unsure what this is, but could be useful
 - https://github.com/SSMG4/RoClients
     - A List of different varieties of launchers for Roblox
+- https://github.com/RyanLua/Satchel
+    - More like something to use in Roblox Studio, but since it is open source it could be useful
