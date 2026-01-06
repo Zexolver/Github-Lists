@@ -9,3 +9,5 @@
     - All Lua
 - https://github.com/officialmmt/OpenRoblox
     - More just list than anything else
+- https://github.com/loominatrx/useful-roblox-resources
+    - Just a list
