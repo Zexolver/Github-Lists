@@ -15,3 +15,5 @@
     - JS; 2 Years old
 - https://oqarshi.github.io/Invite/rolocate/index.html
     - Unsure what this is, but could be useful
+- https://github.com/SSMG4/RoClients
+    - A List of different varieties of launchers for Roblox
