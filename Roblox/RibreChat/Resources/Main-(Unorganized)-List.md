@@ -11,3 +11,5 @@
     - More just list than anything else
 - https://github.com/loominatrx/useful-roblox-resources
     - Just a list
+- https://github.com/matthewdean/roblox-web-apis
+    - JS; 2 Years old
