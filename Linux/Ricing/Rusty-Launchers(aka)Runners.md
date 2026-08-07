@@ -26,3 +26,5 @@
     - Relies on [Fuzzel](https://codeberg.org/dnkl/fuzzel)
 - https://github.com/megakode/mkrunner
     - Made with one commit, so was made closed sourced and then pushed to Github once done
+- https://github.com/zortax/zlaunch
+    - Fast application launcher & window switcher for Wayland
