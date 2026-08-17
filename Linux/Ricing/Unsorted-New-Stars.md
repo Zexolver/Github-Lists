@@ -7267,3 +7267,818 @@
 - https://github.com/yixuan-rs/yixuan-rs
     - Language: Rust
     - Experimental server emulator for the game Zenless Zone Zero
+
+- https://github.com/cake-tech/cake_wallet
+    - Language: Dart
+    - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
+
+- https://github.com/Abishek-Pechiappan/status_Bar
+    - Language: Rust
+    - A highly customizable Wayland status bar for Hyprland built in Rust featuring a modular widget system, deep IPC integration, advanced ricing, power-user system monitoring, and a future visual layout editor.  Vibe-coded with AI assistance, engineered for performance, extensibility, and the modern Arch Linux workflow.
+
+- https://github.com/Itz-Agasta/breez
+    - Language: Rust
+    - Lightweight screen recorder and demo editor for developers. Record your product, add zooms and styled backgrounds, ship the demo. Pure Rust, no Electron.
+
+- https://github.com/CPT-Dawn/VoidLink
+    - Language: Rust
+    - Memory-safe, keyboard-first Bluetooth TUI for Linux that talks directly to BlueZ over D-Bus with an async Rust architecture and zero subprocess bloat.
+
+- https://github.com/namikofficial/hypr-phone
+    - Language: Rust
+    - Built `hypr-phone`, an open-source Wayland-native Android companion for Hyprland that unifies ADB device management, wireless pairing, scrcpy screen mirroring, special workspace integration, status module output, and rofi/wofi quick actions into a polished Linux workflow.
+
+- https://github.com/lucasly-ba/mole
+    - Language: Rust
+    - Teleport your cursor anywhere on your screen.
+
+- https://github.com/AsmrCodeZ-YT/Splinter-Net
+    - Language: Rust
+    - Splinter Net is best app for linux user for split internet when u connect 2+ or more interface to ur pc and want to use each one for diffrent work. first for download and sec.. for watching video etc.. .
+
+- https://github.com/limahigor/hyprvault
+    - Language: Rust
+    - A terminal-first secret manager for Linux, built to keep your passwords, tokens, and keyrings close to your workflow.
+
+- https://github.com/CPT-Dawn/Nexus
+    - Language: Rust
+    - A blazing-fast, Wayland-native TUI WiFi manager built in Rust. Talks directly to NetworkManager over D-Bus via zbus — no polling, no subprocesses, no bloat.
+
+- https://github.com/sebyx07/deskd
+    - Language: Rust
+
+- https://github.com/KyaroruKYO/hyprland-settings
+    - Language: Rust
+    - Rust + GTK4/libadwaita settings app for Hyprland with 341/341 official scalar settings modeled and gated high-risk config-write support.
+
+- https://github.com/Liktomee/NetworkManager-GUI-Rust
+    - Language: Rust
+    - A network manager for Linux written in Rust using NetworkManager (nmcli). A small exercise in building a GUI in Rust that can be integrated into window managers like i3, Hyprland, or Wayland.
+
+- https://github.com/psygreg/linuxtoys
+    - Language: Python
+    - The user-friendly collection of tools for Linux.
+
+- https://github.com/Sigmachan/loadout
+    - Language: Rust
+    - Cross-desktop gaming control panel + software catalog — COSMIC / KDE / GNOME, cross-distro installs via LinuxToys (Rust/libcosmic)
+
+- https://github.com/stelleritehq/shell
+    - Language: Rust
+    - The Stellerite Shell, Made in Rust, Slint & OpenGL.
+
+- https://github.com/PooDoge/oxidemx
+    - Language: Rust
+    - Radial menu, DPI control and haptics for Logitech MX Master mice on Linux — all-Rust, Wayland-native. Began as a fork of JuhLabs/juhradial-mx.
+
+- https://github.com/TripleJumpStudios/HeadtrackRS
+    - Language: Rust
+    - Native Headtracking for Linux
+
+- https://github.com/wirdani84/project-mirage
+    - Language: Rust
+    - Cross-OS distributed window interaction system - Drag windows between Linux and Windows laptops
+
+- https://github.com/CPT-Dawn/BaryCenter
+    - Language: Rust
+    - Fast, Wayland-native Rust launcher and command hub with modular runners for application search, calculations, and system actions.
+
+- https://github.com/deliriouspork/DePk-Sensitivity-Matcher-Rust
+    - Language: Rust
+    - A Rust-based tool for matching mouse sensitivity between 3D games on Linux using evdev and uinput. Works on both X11 and Wayland.
+
+- https://github.com/rijverse/meowverlay
+    - Language: Rust
+    - 🐱 Fast, native Bongo Cat input overlay for osu! in Rust. Transparent, always-on-top, GPU-accelerated. Windows, macOS, Linux (X11 & Wayland).
+
+- https://github.com/Eyalm321/hyperpanes
+    - Language: Rust
+    - A native, cross-platform tiling terminal workspace for AI agents — real native terminals (ConPTY / Unix PTYs) in named, color-framed panes you can tear into windows, with idle-agent glow and an opt-in MCP control plane. Built in Rust + Slint; Windows, Linux & macOS.
+
+- https://github.com/0xPD33/attn
+    - Language: Rust
+    - A local attention ledger for Niri + Quickshell. Track where focus actually goes.
+
+- https://github.com/ashp0/SonicOS
+    - Language: Rust
+    - An attention-respecting operating system. SonicOS locks you into one intentional, time-boxed task at a time — no feeds, no notifications, no infinite scroll. Focus-first computing inspired by the Light Phone philosophy.
+
+- https://github.com/ChenMiaoi/llm-meter
+    - Language: Rust
+    - Local-first LLM usage, cost, and quota monitor for OpenAI and Codex, with Hyprland and Noctalia integration.
+
+- https://github.com/4q4r/Ferrite
+    - Language: Rust
+    - Ferrite — a magnetically attractive sway bar. Near-zero CPU, fully TOML-configurable, written in Rust.
+
+- https://github.com/nolindnaidoo/pixelcoords
+    - Language: Rust
+    - Freeze your screen, mark regions, and get pixel-exact coordinates machines can use — versioned JSON, labeled crops, click code, and self-healing re-location. macOS · Windows · Linux.
+
+- https://github.com/KannarFr/glab-desktop-ui
+    - Language: Rust
+    - A glanceable desktop inbox for GitLab threads that need your reply — answer reviews, mentions and comments without opening GitLab. Built with Tauri + glab.
+
+- https://github.com/JaberChowdhury/wallmod
+    - Language: Rust
+    - Wallmod is a comprehensive, blazing-fast desktop wallpaper management, image processing, and color-grading suite built in Rust. Built on top of GPUI (the high-performance GPU-accelerated UI framework from Zed) and gpui-component, Wallmod delivers a silky-smooth, modern desktop experience for Linux power users, ricing enthusiasts, and developers.
+
+- https://github.com/tidynest/gitbye
+    - Language: Rust
+    - Notices the accounts that follow you, collect the follow-back, then quietly leave. Takes your follow back so their numbers stop counting you.
+
+- https://github.com/stuckj/nixos-update-notifier
+    - Language: Rust
+    - System-tray update notifier for flake-based NixOS — shows pending flake input updates as a package diff without downloading anything, then applies them via nixos-rebuild. Built for KDE Plasma 6 on Wayland.
+
+- https://github.com/cityji/pawpause
+    - Language: Rust
+    - 🐾 A Pomodoro timer for the COSMIC desktop (Pop!_OS/Linux) with an animated cat break-video overlay, task tracking, and focus statistics.
+
+- https://github.com/mryll/printbar
+    - Language: Rust
+    - A generic printer monitor for Waybar — status, supply levels, trays, jobs and the printer's own panel messages, for any printer over IPP, SNMP or CUPS (USB). Themed column-aligned tooltip, instant push on print, click-to-EWS, Omarchy theming, AUR.
+
+- https://github.com/guitaripod/recview
+    - Language: Rust
+    - GPU-accelerated review window for screen recordings
+
+- https://github.com/mika2go/Wreath
+    - Language: Rust
+    - Local instant  replay recorder for Windows and Arch Linux, GPU-encoded and held in memory
+
+- https://github.com/zvchei/hourglass
+    - Language: Rust
+    - A Linux screen time limiter daemon written in Rust. Hourglass enforces daily screen time limits for users on graphical sessions (X11/Wayland), with configurable warnings and automatic session termination when time runs out.
+
+- https://github.com/parker-brown-family/terminal-delight
+    - Language: Rust
+    - GPU-native Linux terminal in Rust (gpui + alacritty_terminal): hot-reloadable CRT-flavored themes, tiling multi-pane, per-pane monitor-OSD grading. Source-only.
+
+- https://github.com/BeckhamLabsLLC/LinGlide
+    - Language: Rust
+    - Turn your phone or tablet into a wireless second monitor for Linux. Zero app install - works in any browser. Touch control, low-latency H.264 streaming, secure pairing.
+
+- https://github.com/zer0bav/rustcast
+    - Language: Rust
+    - Raycast-class Linux launcher in Rust with a built-in cybersecurity toolkit — fuzzy apps, native clipboard history, file search, cyber tools (codec/hash/JWT/CIDR/payloads/OSINT). GTK4, Wayland + X11.
+
+- https://github.com/CPT-Dawn/Vellum
+    - Language: Rust
+    - Rust-powered Wayland wallpaper manager with daemon + TUI, playlist automation, favorites, previews, and session-safe startup via systemd or XDG autostart.
+
+- https://github.com/andriidrok1/freeflow
+    - Language: Rust
+    - Hold a key, talk, let go. Local voice dictation with AI cleanup — Linux first, no cloud, no subscription.
+
+- https://github.com/Amitminer/HyprUtility
+    - Language: Rust
+    - Personal Hyprland utilities for my Arch Linux setup — modular Rust workspace, single hyprcli binary
+
+- https://github.com/sxndmxn/circadian-plus
+    - Language: Rust
+    - Solar-aware color temperature scheduler for hyprsunset
+
+- https://github.com/jacquesh82/hyprdmc
+    - Language: Rust
+    - Hypr Dynamic Monitor Configuration — detect, position, rotate and flip your Hyprland displays from a CLI or a browser, with automatic hotplug profiles.
+
+- https://github.com/rajchauhan28/WallLust
+    - Language: Rust
+    - 🎨 A modern, aesthetically pleasing wallpaper daemon and GUI for Wayland/Hyprland. Features smooth transitions, mpv-powered video wallpapers, and seamless Pywal color scheme integration.
+
+- https://github.com/Peterc3-dev/screen-click
+    - Language: Rust
+    - Linux CLI: click on-screen UI from a natural-language target via screenshot + CV heuristics + Qwen2.5-VL grounding + ydotool
+
+- https://github.com/Julio0Cesar/lyricslens
+    - Language: Rust
+    - Synced lyrics overlay for Linux — reads MPRIS, fetches from LRCLIB, floats above any window
+
+- https://github.com/rodolfocamara/battery-widget
+    - Language: Rust
+    - Floating battery widget for earbuds, keyboard and mouse. One small Rust binary, identical on Windows and Linux (Wayland/layer-shell) — 6 MB RSS, no UI framework.
+
+- https://github.com/hamidlabs/LifeSync
+    - Language: Rust
+    - LifeSync — a proactive Linux/Wayland companion that plans your day, tracks time automatically, and keeps your money in an accurate transfer-aware ledger with envelope budgets.
+
+- https://github.com/r1nzd/KydeOS
+    - Language: Rust
+    - A free, open-source Linux OS built on Debian with Material Design 3 language
+
+- https://github.com/sickhate/meh
+    - Language: Rust
+    - GTK4 Wayland status bar and widget system — reactive bindings, inotify subscriptions, system tray, declarative animations (fork of elkowar/eww)
+
+- https://github.com/IoannisNezis/hyprmon
+    - Language: Rust
+    - Hyprland monitor manager — visual drag-and-drop layout editor built with Rust and iced
+
+- https://github.com/ssschadomia/DraftOS
+    - Language: Rust
+    - An Arch-based Linux distribution with a cohesive COSMIC desktop — Desktop and Immutable editions.
+
+- https://github.com/britto64/work-work
+    - Language: Rust
+    - Time tracking that only counts when you're actually working.
+
+- https://github.com/computer-whisperer/prism
+    - Language: Rust
+    - Vulkan-native, HDR-native Wayland compositor with first-class color management, fp16 BT.2020 compositing, multi-GPU scanout, YUV/HDR video, and EDID-keyed display calibration.
+
+- https://github.com/Tymonoman/extraspace
+    - Language: Rust
+    - Use an Android tablet as a real second monitor for GNOME/Wayland, over USB — with touch and camera passthrough
+
+- https://github.com/ShaikhWarsi/free-ai-tools
+    - Language: TypeScript
+    - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps
+
+- https://github.com/hpjansson/chafa
+    - Language: C
+    - 📺🗿 Terminal graphics for the 21st century.
+
+- https://github.com/Rise-zen/astrium
+    - Language: Rust
+    - Wallpaper-driven Material You theming for Linux — instant palettes for kitty, Hyprland, Neovim, cava and Quickshell. Rust + Nix.
+
+- https://github.com/CPT-Dawn/Zenith
+    - Language: Rust
+    - Zenith is a fast, native Wayland status bar for Hyprland, built in Rust with GTK4 and layer-shell.
+
+- https://github.com/my7bropx/SmartType
+    - Language: Rust
+    - System-wide autocomplete and autocorrect for Linux, implemented as an IBus input method engine. As you type
+
+- https://github.com/zeo/termie
+    - Language: Rust
+    - A fast, GPU-rendered terminal multiplexer for Windows and Linux
+
+- https://github.com/zoir-dev/zaytun-os
+    - Language: Rust
+    - A Wayland compositor and desktop shell in Rust. The compositor owns the motion: springs, not durations. Battery is an architectural constraint.
+
+- https://github.com/Vega-0b1/hypr-relay
+    - Language: Rust
+    - Hyprland daemon that bridges system events to your notification daemon
+
+- https://github.com/DavidLiedle/Ferrix
+    - Language: Rust
+    - Ferrix: A Terminal Multiplexer in Rust
+
+- https://github.com/recelilious/nkdhr
+    - Language: Rust
+    - A self-contained Linux desktop environment built around a custom Wayland compositor where windows live on an infinite pannable, zoomable canvas.
+
+- https://github.com/supermarsx/liquide
+    - Language: Rust
+    - LiquiDE a remote-first Desktop Environment
+
+- https://github.com/zackham/wisp
+    - Language: Rust
+    - A hotkey command palette for firing quick payloads at things — native Linux/Wayland, Rust + GPUI. Pick a target, type, Enter.
+
+- https://github.com/SempreBurrasca/agent-os
+    - Language: Rust
+    - AgentOS — Agentic Linux desktop OS. Rust workspace: agentd (AI daemon), agent-shell (Wayland compositor), agent-fs (semantic filesystem). 188 tests.
+
+- https://github.com/TheHolyVeil/veilTDC
+    - Language: Rust
+    - lightweight compositor on wayland for running nested compositors and being nested. lightweight on 30mb of ram.
+
+- https://github.com/Gigas002/trayd
+    - Language: Rust
+    - minimalistic wayland tray daemon wrapper around dbus for usage in tray-related applications, like bars
+
+- https://github.com/oldnordic/aethermap
+    - Language: Rust
+    - Low-level Linux evdev input remapper + macro engine — human-speed macros, analog-stick response curves, layer system, COSMIC/Wayland. Iced GUI.
+
+- https://github.com/Peterc3-dev/eye-tracker-rust
+    - Language: Rust
+    - Realtime CNN-based binocular pupil/gaze tracker driving the Wayland cursor on Linux. Pure Rust + Vulkan via wgpu/burn.
+
+- https://github.com/creonuae/matea-switcher
+    - Language: Rust
+    - AI-powered keyboard layout switcher для билингвов RU↔EN. Linux Wayland-first, с локальной LLM для контекстной коррекции.
+
+- https://github.com/arlenos/compositor
+    - Language: Rust
+    - Arlen compositor: a cosmic-comp fork wired into the Arlen event bus and shell overlay protocol
+
+- https://github.com/omaku2006/vivid-engine
+    - Language: Rust
+    - A Wallpaper Engine for Wayland in Linux that can set Images & Video as wallpaper & it's very Lightweight!
+
+- https://github.com/iCrewZero/COGNOS
+    - Language: Rust
+    - An intent-native Linux OS where AI governs instead of operates.  Local-first, privacy-first, human-in-control.
+
+- https://github.com/MiguelLopesDel/nexora
+    - Language: Rust
+    - Featherweight AI overlay assistant for Linux — ask about anything on your screen, from any provider. Wayland-first.
+
+- https://github.com/pub-struct/ashot
+    - Language: Rust
+    - Agentic screenshot tool in Rust — headless JSON CLI for AI agents + CleanShot-style GPUI desktop app (Linux/Wayland)
+
+- https://github.com/dhruvkumar1805/nekopet
+    - Language: Rust
+    - A desktop pet cat for Hyprland and wlr-based Wayland compositors. Sits as a transparent overlay, reacts to keyboard input, and can be dragged anywhere on screen. Built in Rust.
+
+- https://github.com/modelmiser/mm-warp
+    - Language: Rust
+    - Native Wayland remote desktop for COSMIC - 4K H.264 streaming with keyboard/mouse control
+
+- https://github.com/ShevelievS/wpick
+    - Language: Rust
+    - Native Wayland live wallpaper manager for Wallpaper Engine, written in Rust
+
+- https://github.com/clemenscodes/evglow
+    - Language: Rust
+    - Broadcast live keyboard state from the Linux kernel to the browser over WebSocket — no X11/Wayland required
+
+- https://github.com/eondcom/clea
+    - Language: Rust
+    - Claude Listening Ear Assistant — voice-to-typing for Linux/Wayland with Whisper(CUDA)/Clova/Kakao/Google STT
+
+- https://github.com/caueshaze/nilock
+    - Language: Rust
+    - A secure, modern and customizable Wayland session locker written in Rust.
+
+- https://github.com/johnlepikhin/app-powerd
+    - Language: Rust
+    - User-level Linux daemon that saves battery by automatically freezing/throttling unfocused GUI apps via cgroup v2, with X11/Wayland support and configurable per-app rules
+
+- https://github.com/ac5307/roguauto
+    - Language: Rust
+    - A lightweight power menu for Wayland compositors supporting wlr-layer-shell.
+
+- https://github.com/itsdevcoffee/mojovoice
+    - Language: Rust
+    - GPU-accelerated voice dictation for Linux & macOS. Privacy-first, offline, open-source.
+
+- https://github.com/cybershaman666/Shaman-DE
+    - Language: Rust
+    - Shaman Desktop environment
+
+- https://github.com/slhad/yash-app-events
+    - Language: Rust
+    - Linux-first Wayland HUD observation and event service for games without native telemetry APIs
+
+- https://github.com/HaruNashii/Icelauncher
+    - Language: Rust
+    - Icelauncher is a lightweight, Wayland application launcher written in Rust, powered by iced and iced-layer-shell.
+
+- https://github.com/HypaperEngine/hypaper-engine
+    - Language: Rust
+    - Native animated wallpaper engine for Hyprland — Rust, wgpu, Wayland
+
+- https://github.com/l-const/shortcuts-overlay
+    - Language: Rust
+    - A shortcuts overlay for wayland desktops supporting the wlr-layer-shell protocol.
+
+- https://github.com/asidko/kb-panel
+    - Language: Rust
+    - Minimal on-screen keyboard panel for Linux
+
+- https://github.com/knightinfected/stremio-native
+    - Language: Rust
+    - Native Wayland Stremio client for Linux — Rust + iced, no Electron
+
+- https://github.com/albrektsson/warframe-lite
+    - Language: Rust
+    - Linux-native, Overwolf-free Warframe companion (KDE Wayland + Steam Proton)
+
+- https://github.com/slastra/hoja
+    - Language: Rust
+    - GPU-accelerated file manager for Linux, built with GPUI
+
+- https://github.com/Fi3w0/TideWM
+    - Language: Rust
+    - A Wayland desktop that feels like water: windows ripple, sway, and drift, on top of a real tiling window manager. Built in Rust on Smithay.
+
+- https://github.com/nikooozzz/widget-engine
+    - Language: Rust
+    - A minimal, low-overhead Wayland desktop widget engine.
+
+- https://github.com/Elvyria/Caffi
+    - Language: Rust
+    - A simple widget calendar for Linux.
+
+- https://github.com/GhostKellz/nvcontrol
+    - Language: Rust
+    - nvcontrol is a modern, fully featured NVIDIA settings manager for Linux. Think: NVIDIA Control Panel & GeForce Experience, but for Linux + Wayland.
+
+- https://github.com/Gigas002/imgvwr
+    - Language: Rust
+    - a minimal, fast image viewer for Wayland, written in Rust
+
+- https://github.com/vst93/floter
+    - Language: Rust
+    - A floating terminal and app launcher - one hotkey away. macOS, Linux, Windows.
+
+- https://github.com/Agzes/LBS
+    - Language: Rust
+    - 📊 • LBS - Linux Battle Shaper (just BES or Battle Encoder Shirasé for linux) • Software that lets you control per-process CPU usage on linux!
+
+- https://github.com/simonwinther/breakd
+    - Language: Rust
+    - Lightweight Wayland-native break reminder for Hyprland.
+
+- https://github.com/roethlar/vela
+    - Language: Rust
+    - Plex/Jellyfin/Emby front-end that leverages mpv for HDR playback on all OSes with support
+
+- https://github.com/LueApp/translation
+    - Language: Rust
+    - AI Translate — native KDE/Wayland translator for Linux. Landing page + download + Cloudflare deploy.
+
+- https://github.com/jondkinney/vernier
+    - Language: Rust
+    - Cross-platform measurement tool written in Rust (macOS, Windows, Linux X11+Wayland)
+
+- https://github.com/shadow-x78/orbiscreen
+    - Language: Rust
+    - Kernel-level virtual secondary displays for Linux (X11 & Wayland via evdi), streamed natively to Android tablets and phones over MPEG-TS/H.264. ExoPlayer client with reverse touch, Wi-Fi mDNS discovery or USB adb reverse. VAAPI/NVENC hardware encoding, cryptographically signed artifacts.
+
+- https://github.com/ydog12138/liteavd
+    - Language: Rust
+    - Linux/Wayland workspace for running and controlling multiple Android Virtual Devices
+
+- https://github.com/bethropolis/podbox
+    - Language: Rust
+    - Declarative Podman containers with Wayland/GPU/audio passthrough, XDG dir sharing, and GUI app export  [WIP]
+
+- https://github.com/mikahama/GamepadKey
+    - Language: Rust
+    - Map Xbox controller to keyboard and mouse on Linux (Wayland)
+
+- https://github.com/yugaaank/shy
+    - Language: Rust
+    - Auto-hide floating windows for Hyprland — switch to tiled, they vanish; switch back, they're instantly restored
+
+- https://github.com/DCT-Berinyuy/omarchy-hotspot
+    - Language: Rust
+    - An interactive, terminal-based Wi-Fi hotspot manager built in Rust, tailored for Arch Linux configurations (like Omarchy) running minimalist Wayland compositors (like Hyprland).
+
+- https://github.com/NtrpyDev/satur8
+    - Language: Rust
+    - Per-game digital vibrance for Linux
+
+- https://github.com/itsfuad/Bornika
+    - Language: Rust
+    - Bornika is a lightweight, secure, pure-Rust background Input Method Editor (IME) for Linux. Designed natively for modern desktop systems (like Fedora running Wayland and GNOME), it allows typing Bangla phonetically using a standard QWERTY layout.
+
+- https://github.com/Geisterhand-io/linux
+    - Language: Rust
+    - Linux screen automation tool with HTTP API and CLI. Automate any Linux app — click, type, read accessibility trees, capture screenshots. Built on AT-SPI2 for GNOME (X11 & Wayland).
+
+- https://github.com/Gigas002/abar
+    - Language: Rust
+    - minimalistic wayland-native lightweight bar
+
+- https://github.com/TheCodeVerseHub/Codeverse-compositor
+    - Language: Rust
+    - An experimental Wayland compositor written from scratch with a focus on performance, modular architecture, and modern Linux desktop experiences.
+
+- https://github.com/Antosser/KeyResolve
+    - Language: Rust
+    - Snap Tap / SOCD-style keyboard input handling for Linux using evdev + uinput. Last-pressed-wins movement keys. Works on Wayland & games.
+
+- https://github.com/Fanaperana/canvaswm
+    - Language: Rust
+    - An infinite canvas Wayland compositor — arrange windows freely on a zoomable 2D surface
+
+- https://github.com/flowln/bell
+    - Language: Rust
+    - Lightweight wayland notification application
+
+- https://github.com/javif89/waycast
+    - Language: Rust
+    - A wayland native application launcher with file search, calculator, and project launching
+
+- https://github.com/semanavasco/waypane
+    - Language: Rust
+    - A declarative, Lua-configurable desktop shell framework for Wayland.
+
+- https://github.com/Jca56/Lantern-DE
+    - Language: Rust
+    - Linux Arch Wayland  DE
+
+- https://github.com/ghreprimand/odytty
+    - Language: Rust
+    - Linux terminal emulator built around visual identity and in-app menu-driven configuration - theme builder, bloom/CRT/retro effects, GPU rendering.
+
+- https://github.com/MasonRhodesDev/linux-multi-theme-toggle
+    - Language: Rust
+    - High-performance async theme switching for Hyprland/Wayland desktops with Material You color schemes
+
+- https://github.com/wrzonance/HonkHonk
+    - Language: Rust
+    - A modern, Wayland-native soundboard for Linux. Rust + Iced + Pipewire.
+
+- https://github.com/adiimanav/moreland
+    - Language: Rust
+    - Turn an Android tablet into a wired second monitor for Linux/Wayland over USB - zero-copy, hardware-encoded.
+
+- https://github.com/sreevarshan-xenoz/Linux-Link
+    - Language: Rust
+    - Remote desktop for Linux with Wayland streaming + KDE Connect features over Tailscale. Pure Rust, <100ms latency, no port forwarding needed.
+
+- https://github.com/mishl-dev/mouse-debounce
+    - Language: Rust
+    - Software mouse button debounce daemon for Linux (Wayland/X11).
+
+- https://github.com/burlone0/TinyTask-Linux
+    - Language: Rust
+    - Macro recorder for KDE Plasma on Wayland, modelled on TinyTask for Windows
+
+- https://github.com/SavasTanriverdi/PipeShare
+    - Language: Rust
+    - Seamless and event-driven application audio routing for Linux/Wayland during screen sharing.
+
+- https://github.com/vially/flust
+    - Language: Rust
+    - Flutter embedder for desktop Linux
+
+- https://github.com/heng30/wayshot
+    - Language: Rust
+    - Video creation tool: Video editing (with extensive AI-assisted features), screen recording, streaming, and screen sharing.  视频编辑（大量AI辅助功能）、录屏、推流、屏幕共享。
+
+- https://github.com/Ewwii-sh/ewwii
+    - Language: Rust
+    - Eww rewrite with focus on extensibility, simplicity, and power.
+
+- https://github.com/jephersonRD/foxix-terminal
+    - Language: Rust
+    - Fast GPU-accelerated terminal emulator written in Rust (Wayland native, OpenGL renderer)
+
+- https://github.com/szaffarano/rofi-tools
+    - Language: Rust
+    - Rofi extensions
+
+- https://github.com/vremyavnikuda/grim-rs
+    - Language: Rust
+    - screenshot utility for Wayland compositors and Windows
+
+- https://github.com/Just-Code-NET/PolterType
+    - Language: Rust
+    - Detects typing in the wrong keyboard layout, switches it and fixes the word. Tray app for Windows · macOS · Linux (Wayland & X11). Pure Rust, zero telemetry.
+
+- https://github.com/assembledev/edgepad
+    - Language: Rust
+    - Touchpad edge gestures for Linux/Wayland.
+
+- https://github.com/carrot-wm/carrot
+    - Language: Rust
+    - A pure Rust tiling Wayland compositor with zero linked C, all the way down to the kernel. Carrot aims to be a feature-complete, all-in-one compositor with native support for blur, animations, multi-GPU, tearing, and more - no scripting or external tools needed.
+
+- https://github.com/sanohiro/bcon
+    - Language: Rust
+    - GPU-accelerated terminal emulator for Linux console (TTY) — no X11/Wayland required
+
+- https://github.com/Walker-00/sswm
+    - Language: Rust
+    - Minimal, flexible & user-friendly X and Wayland tiling window manager with rust
+
+- https://github.com/devmobasa/wayscriber
+    - Language: Rust
+    - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
+
+- https://github.com/programmersd21/wallr
+    - Language: Rust
+    - gpu accelerated animated wallpaper engine for wayland
+
+- https://github.com/sashetophizika/hyprscratch
+    - Language: Rust
+    - Improved scratchpad functionality for Hyprland
+
+- https://github.com/lepras/bankingAOSP
+    - Language: ?
+    - Run banking apps on Custom Android OS's
+
+- https://github.com/gsekulski/knoxium
+    - Language: Shell
+    - A script that removes and automatically protects against carrier lock on Android devices.
+
+- https://github.com/Khh-vu/wifi-password-manager
+    - Language: Kotlin
+    - Simple app using Shizuku or root access to manage WiFi passwords
+
+- https://github.com/AlirezaParsi/COPG
+    - Language: JavaScript
+    - Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Magisk / APatch.
+
+- https://github.com/FurLC/ZRAM-Module
+    - Language: Shell
+    - A Magisk/KernelSU module that provides ZRAM compression algorithm support for Android devices
+
+- https://github.com/leohearts/AlternativeUnlockXposed
+    - Language: Kotlin
+    - Unlock your Android phone with an alternative PIN. (Xposed)
+
+- https://github.com/kristoferlund/ostt
+    - Language: Rust
+    - Open source voice-to-text for the terminal. Record from a hotkey, transcribe with any provider, pipe to AI or shell commands.
+
+- https://github.com/apex-shot/apexshot
+    - Language: Rust
+    - ApexShot: open-source Linux screenshot tool with annotation, screen recording, OCR, QR detection, and Wayland support.
+
+- https://github.com/y5-snowies/nourish
+    - Language: Rust
+    - Nourish OS. The modern way of using a computer.
+
+- https://github.com/Indra55/bezel
+    - Language: Rust
+    - A lightweight Rust daemon for trackpad gestures on Wayland compositor
+
+- https://github.com/marcelohdez/dim
+    - Language: Rust
+    - Native Wayland screen dimming tool
+
+- https://github.com/J-x-Z/cocoa-way
+    - Language: Rust
+    - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
+
+- https://github.com/SUPERCILEX/clipboard-history
+    - Language: Rust
+    - Ringboard—the clipboard manager for Linux
+
+- https://github.com/y0sif/whisrs
+    - Language: Rust
+    - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland & Sway, written in Rust
+
+- https://github.com/vincent-uden/miro
+    - Language: Rust
+    - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
+
+- https://github.com/peteonrails/voxtype
+    - Language: Rust
+    - Voice-to-text with push-to-talk for Wayland compositors
+
+- https://github.com/konkitoman/autoclicker
+    - Language: Rust
+    - A simple linux (xorg/wayland) autoclicker!
+
+- https://github.com/localdesktop/localdesktop.github.io
+    - Language: Rust
+    - Local Desktop helps you run a desktop Linux environment on your Android device.
+
+- https://github.com/malbiruk/driftwm
+    - Language: Rust
+    - A trackpad-first infinite canvas Wayland compositor.
+
+- https://github.com/kyleconciso/syd
+    - Language: Rust
+    - Event-driven state manager/backend for custom desktop shells
+
+- https://github.com/mryll/tickerbar
+    - Language: Rust
+    - A multi-market price ticker for Waybar — crypto, stocks, indices and forex in one module, no API key. Class-grouped multi-column tooltip, market-hours aware, Nerd Font/emoji icons, Omarchy theming, AUR. Argentine BYMA support included.
+
+- https://github.com/mryll/meteobar
+    - Language: Rust
+    - Fast Rust weather widget for Waybar powered by Open-Meteo, no API key. Day/night icons, daily/hourly forecast tooltips, smart geocoding, metric/imperial, Omarchy theming, AUR. wttrbar alternative.
+
+- https://github.com/satorisage/door
+    - Language: Rust
+    - Beautiful, security-first Wayland display manager (login manager) for Linux — a privilege-separated daemon + an animated GPU-shaded greeter. Reversible, Arch/AUR.
+
+- https://github.com/Mccalabrese/Genoa
+    - Language: Rust
+    - A battery-optimized, multi-compositor (Niri, GNOME, Sway) Arch Linux setup featuring custom Rust CLIs for Waybar, wallpaper management, and power control. ThinkPad X1 Extreme tuned."
+
+- https://github.com/MKSG-MugunthKumar/wallflow
+    - Language: Rust
+    - Elegant wallpaper manager with smooth transitions, daemon mode, and multiple sources. Supports Linux (Wayland/X11) and macOS.
+
+- https://github.com/VimYoung/Spell
+    - Language: Rust
+    - Make desktop widgets by the mystic arts of Spell  !!
+
+- https://github.com/x34-dzt/xwlm
+    - Language: Rust
+    - A TUI for managing Wayland monitor configurations (Hyprland, Sway, River)
+
+- https://github.com/zedddie/ctvtcntr
+    - Language: Rust
+    - Simple Hyprland activity counter written in Rust (blazingly fast btw)
+
+- https://github.com/TheAhumMaitra/Aurora
+    - Language: Rust
+    - A minimal, elegant Hyprland preconfigured rice
+
+- https://github.com/khalid151/hypr-window-rules
+    - Language: Rust
+    - Hyprland window rules in YAML.
+
+- https://github.com/jondkinney/hyprcorrect
+    - Language: Rust
+    - Hyprland-first keyboard-driven spelling/typo corrector
+
+- https://github.com/filipechagas/hyprchoosy
+    - Language: Rust
+    - Smart browser router for Hyprland
+
+- https://github.com/rosymati/pipfloat
+    - Language: Rust
+    - 🪟 Force Firefox Picture-in-Picture windows to always float under hyprland
+
+- https://github.com/mikkurogue/hyprsettings
+    - Language: Rust
+    - GUI tool to help configure hyprland
+
+- https://github.com/facundopanizza/super-whisper-linux
+    - Language: Rust
+    - AI-powered voice to text for Linux (Hyprland/Wayland)
+
+- https://github.com/cvusmo/hyprclock
+    - Language: Rust
+    - A sleek and customizable clock widget for your desktop, designed to seamlessly integrate with Hyprland and enhance your workflow with real-time time display and flexible theme support.
+
+- https://github.com/prime-run/wallrust
+    - Language: Rust
+    - 💥 A blazingly fast and feature-rich tool to auto theme and rice everything! based on wallpaper/image colors  | written in Rust
+
+- https://github.com/franlol/hyprscreen
+    - Language: Rust
+    - A first-class screenshot and screen-recording app built for Hyprland.
+
+- https://github.com/Iprime111/RsBar
+    - Language: Rust
+    - Simple status bar for hyprland, written in Rust  🦀⚡
+
+- https://github.com/vincbro/nest
+    - Language: Rust
+    - An adaptive window placement daemon for Hyprland. Uses heuristic learning to automate workspace management dynamically.
+
+- https://github.com/mirarr-app/StickyBoard
+    - Language: Rust
+    - Sticky Notes for Omarchy
+
+- https://github.com/tumrin/hyprland-focused-booster
+    - Language: Rust
+    - Active application VRAM booster for Hyprland
+
+- https://github.com/BitYoungjae/ChalKak
+    - Language: Rust
+    - Preview-first screenshot tool for Wayland + Hyprland  with a lightweight built-in annotation editor.
+
+- https://github.com/Zeus-Deus/diskord
+    - Language: Rust
+    - A fast, intuitive, TUI storage manager for Omarchy (Arch Linux + Hyprland).
+
+- https://github.com/AnatolyRugalev/hyprwallhaven
+    - Language: Rust
+    - Hyprland wallhaven integration
+
+- https://github.com/typester/hyprtag
+    - Language: Rust
+    - Tag based window management for Hyprland
+
+- https://github.com/leriart/cava-bg
+    - Language: Rust
+    - A high-performance audio visualizer for Wayland compositors
+
+- https://github.com/Da4ndo/hyprproxlock
+    - Language: Rust
+    - A proximity-based daemon for Hyprland that triggers screen locking and unlocking through hyprlock based on Bluetooth device proximity.
+
+- https://github.com/prankstr/vibepanel
+    - Language: Rust
+    - GTK4 panel for Wayland with notifications, OSD, and quick settings – between a status bar and a desktop shell.
+
+- https://github.com/BikramGole/hyprland-cava-underlay
+    - Language: Rust
+    - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
+
+- https://github.com/linuxmobile/hibiki
+    - Language: Rust
+    - Elevating the tactile dialogue. A high-fidelity visual and auditory companion that gives your keystrokes a modern resonance.
+
+- https://github.com/TheQmaks/justapk
+    - Language: Python
+    - Download any APK by package name. 6 sources, automatic fallback, Cloudflare bypass. CLI + Python API.
+
+- https://github.com/0xk1f0/rwpspread
+    - Language: Rust
+    - Multi-Monitor Wallpaper Spanning Utility
+
+- https://github.com/ThiagoAVicente/hyprexpose
+    - Language: Rust
+    - Lightweight workspace overview for hyprland. Shows active workspaces with real window thumbnails, navigate with keyboard, press Enter to switch.
+
+- https://github.com/rhythmcreative/rust-dock
+    - Language: Rust
+    - A rust dock for Hyprland
+
+- https://github.com/CoelhoFZ/Minecraft-Bedrock-Free
+    - Language: PowerShell
+    - Free unlocker for Minecraft Bedrock Edition (Windows 10/11, Xbox App). Self-contained closed-source binaries.
+
+- https://github.com/tuigreet/tuigreet
+    - Language: Rust
+    - Graphical console greeter for greetd
