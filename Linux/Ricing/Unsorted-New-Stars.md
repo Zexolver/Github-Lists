@@ -8082,3 +8082,19 @@
 - https://github.com/tuigreet/tuigreet
     - Language: Rust
     - Graphical console greeter for greetd
+
+- https://github.com/ravendevteam/alternet
+    - Language: Rust
+    - A completely decentralized alternative to the current-day web.
+
+- https://github.com/genkii/SubstrateMC
+    - Language: Rust
+    - The foundation of modern Minecraft Server panels
+
+- https://github.com/ethereum/webtor-rs
+    - Language: Rust
+    - A browser-focused Tor client written in Rust and compiled to WebAssembly (WASM)
+
+- https://github.com/systemlayer/raptor-cage
+    - Language: Rust
+    - Command line app that lets you play games in a restricted environment by blocking access to system and network resources. It helps enhancing your privacy and security.
