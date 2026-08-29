@@ -1,0 +1,31 @@
+## Terminal Emulators (mostly Rust)
+
+- https://github.com/xtoxico/tachyonterm
+    - A blazing fast, AI-native TUI terminal emulator written in Rust
+    - Platform: standalone, no X11/Wayland required
+- https://github.com/ardaku/wasium
+    - Terminal emulator built with Cala, implementing the Wasite API
+    - Platform: not X11/Wayland - runs on the Wasite/Cala API
+- https://github.com/Haranmes/termio
+    - A terminal emulator written in Rust
+    - Platform: not stated in description
+- https://github.com/ghreprimand/odytty
+    - Linux terminal emulator built around visual identity and in-app menu-driven configuration - theme builder, bloom/CRT/retro effects, GPU rendering
+    - Platform: not stated in description
+- https://github.com/jephersonRD/foxix-terminal
+    - Fast GPU-accelerated terminal emulator written in Rust
+    - Platform: Wayland (native, OpenGL renderer)
+- https://github.com/sanohiro/bcon
+    - GPU-accelerated terminal emulator for the Linux console (TTY)
+    - Platform: standalone, no X11/Wayland required
+
+- https://github.com/meh/cancer
+    - A terminal emulator
+    - Platform: not stated in description
+- https://github.com/parker-brown-family/terminal-delight
+    - GPU-native Linux terminal with hot-reloadable CRT-flavored themes, tiling multi-pane
+    - Platform: not stated in description
+- https://github.com/zeo/termie
+    - A fast, GPU-rendered terminal multiplexer for Windows and Linux
+- https://github.com/DavidLiedle/Ferrix
+    - A terminal multiplexer in Rust

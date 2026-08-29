@@ -1,0 +1,46 @@
+## Neofetch-style System Info Fetch Tools (mostly Rust)
+
+- https://github.com/hexedrevii/lyfetch.rs
+    - Small fetch script for Linux systems, written in Rust
+- https://github.com/Icelain/rin
+    - A small Rust library to fetch system information on Linux
+- https://github.com/Mhirii/fetchr
+    - A command-line, performance-oriented system information tool written in Rust
+- https://github.com/ahaoboy/neofetch
+    - A fast, cross-platform system information tool written in Rust
+- https://github.com/drunkleen/leenfetch
+    - Modern, minimal, fastest neofetch-like system information tool with remote fetch ability, written in Rust
+- https://github.com/Ly-sec/swiftfetch
+    - A fast and efficient fetch tool for system information, written in Rust
+- https://github.com/RubixDev/pixfetch
+    - Another fetch program with pixelized images, written in Rust
+- https://github.com/Evren-os/rustor
+    - A blazing fast fetch tool written in Rust
+- https://github.com/paolobettelini/rtfetch
+    - Neofetch but in Rust (rust-toml-fetch)
+- https://github.com/ozwaldorf/punfetch
+    - Command-line system information tool
+- https://github.com/sophed/ftch
+    - Tiny fetch tool in Rust
+- https://github.com/vars1ty/JustFetch
+    - A simple minimal neofetch alternative, written in Rust
+- https://github.com/Asthowen/AFetch
+    - A CLI system information tool written in Rust
+- https://github.com/Gobidev/pfetch-rs
+    - A rewrite of the pfetch system information tool in Rust
+- https://github.com/K4rakara/freshfetch
+    - A fresh take on neofetch
+- https://github.com/Macchina-CLI/macchina
+    - A system information frontend with an emphasis on performance
+- https://github.com/angelofallars/treefetch
+    - A plant-based system fetch tool made with Rust
+- https://github.com/LivacoNew/CrabFetch
+    - Extremely fast, featureful and customizable command-line fetcher
+- https://github.com/Phate6660/rsfetch
+    - A WIP rewrite of rsfetch from scratch
+
+- https://github.com/DeityLamb/dfetch
+    - Simply minimalist fetch tool written in Rust
+
+- https://github.com/fubuki4649/vega
+    - A super fast system information tool written in Rust

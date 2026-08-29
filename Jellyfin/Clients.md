@@ -1,0 +1,26 @@
+## Jellyfin Clients & Related Tools
+
+- https://github.com/zayedabdellah/FinTUI
+    - A terminal-based TUI for interacting with Jellyfin servers.
+- https://github.com/justradical/jellyfin-rpc-iced
+    - Graphical User Interface for Jellyfin-RPC (WIP!!)
+- https://github.com/pathetic/bloodin
+    - [WIP] A modern Rust self-hosted music player for Jellyfin
+- https://github.com/Fingel/gelly
+    - A native music client for Jellyfin and Navidrome/Subsonic
+- https://github.com/LSchallot/JellyRoller
+    - CLI Jellyfin Controller Utility for Linux and Windows
+- https://github.com/dhonus/jellyfin-tui
+    - 🪼 Modern music streaming client for the terminal
+- https://github.com/justradical/jellyfin-rpc
+    - Displays the content you're currently watching on Discord!
+- https://github.com/tsukinaha/tsukimi
+    - A simple third-party Jellyfin client for Linux
+- https://github.com/owo-uwu-nyaa/jellyhaj
+    - jellyfin tui in rust
+- https://github.com/avdept/JellyBoxPlayer
+    - The best native desktop and mobile music player for Jellyfin
+- https://github.com/finamp-app/finamp
+    - An open source Jellyfin music player
+- https://github.com/roethlar/vela
+    - Plex/Jellyfin/Emby front-end that leverages mpv for HDR playback on all OSes
