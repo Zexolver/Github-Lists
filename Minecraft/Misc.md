@@ -1,0 +1,74 @@
+## Misc Minecraft Tools and Novelty Projects
+
+- https://github.com/andrewgazelka/mcsound
+    - Add Minecraft sound effects to Claude Code
+- https://github.com/Arturr-H/obj-to-minecraft
+    - Quick way of converting any .obj file to minecraft blocks (mcfunction file)
+- https://github.com/codedcosmos/honeycomb
+    - Automatically types teleport commands to pre-generate a minecraft world.
+- https://github.com/CoelhoFZ/Minecraft-Bedrock-Free
+    - Free unlocker for Minecraft Bedrock Edition (Windows 10/11, Xbox App). Self-contained closed-source binaries.
+- https://github.com/CoelhoFZ/MinecraftBedrockUnlocker
+    - Free Minecraft Bedrock Edition unlocker for Windows 10/11. Download the EXE or run one PowerShell command!
+- https://github.com/dkbednarczyk/mup
+    - A swiss army knife for Minecraft servers
+- https://github.com/DomWilliams0/minecraft-fs
+    - 🧰 FUSE filesystem for querying and controlling Minecraft
+- https://github.com/doprz/minecraft_tunnel
+    - A terminal-based Minecraft voxel tunnel renderer using DDA ray casting
+- https://github.com/Drew-Chase/minecraft-sourcecode-tracker
+    - This will automatically decompile each version of minecraft and commit it to a git repository and create tags for each version.
+- https://github.com/everhaze/Minecraft-Stronghold-Triangulator
+    - Easily find the coordinates of the stronghold in <5min with 1-2 ender eyes.
+- https://github.com/Fancyflame/mcsh
+    - McShell - A programming language compiles to Minecraft mcfunction files
+- https://github.com/Fancyflame/mcvm
+    - programming language of Minecraft command
+- https://github.com/flammablebunny/tuxinjector
+    - Injection based minecraft speedrunning tool for Linux & MacOS
+- https://github.com/giammirove/jvmcraft
+    - JVM in rust to play minecraft
+- https://github.com/hack3rmann/terramine-rs
+    - A game Engine built with ideas of both Minecraft and Terraria
+- https://github.com/honnisha/rheia
+    - RPG multiplayer game written in Rust inspired by Minecraft RPG Servers and Hytale game.
+- https://github.com/lidarbtc/mcfind
+    - CLI tool for finding dropped items in Minecraft worlds. Helps locate your items after death.
+- https://github.com/localcc/enchant_calc
+    - Minecraft enchantment order calculator
+- https://github.com/mcbegamerxx954/draco-injector
+    - Automatic minecraft apk patcher
+- https://github.com/mmnvb/portal
+    - 🏕️ Find an End portal in Minecraft
+- https://github.com/mymatsubara/osucraft
+    - An implementation of the rhythm game osu! inside of minecraft using valence
+- https://github.com/NelsonJTSM/Minecraft-Timer
+    - A in-game timer for Minecraft
+- https://github.com/NoCompliers/MineGit
+    - Git-like version control system for Minecraft worlds in Rust programming language.
+- https://github.com/PanOlaf1101/Minecraft_art
+    - Give an image as the input data and get a Minecraft-ed one!
+- https://github.com/pipangry/kotik
+    - Pack encryption utility for Minecraft Bedrock
+- https://github.com/pj0620/minecraft-computer-sim
+    - Rust simulation of my Minecraft computer
+- https://github.com/PokeJofeJr4th/minescript
+    - Rust-based language to create Minecraft datapacks
+- https://github.com/RedGradient/MinecraftSkinEditor
+    - Skin editor for Minecraft
+- https://github.com/scribhneoir/villagers
+    - A Minecraft inspired management sim
+- https://github.com/Shrecknt/stonescript
+    - A programming language that compiles to Minecraft datapacks
+- https://github.com/siponentheparas/minecraft-distance-calculator
+    - A distance calculator using 3d/2d coordinates.
+- https://github.com/Skillter/MCXMRminer
+    - Mining cryptocurrency with your Minecraft server (and player) ⛏
+- https://github.com/solaris-wm/solaris
+    - The first multiplayer video world model in Minecraft
+- https://github.com/tropicbliss/buckshot
+    - A fast and capable Minecraft name sniper.
+- https://github.com/VilleOlof/all_minecraft_banners
+    - Contains all 1,475,646,641,940,097,552 banners in Minecraft
+- https://github.com/willyandan/minecraft-pixel-art-generator
+    - Transform images into minecraft pixel art

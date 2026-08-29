@@ -1,0 +1,91 @@
+## A list of Minecraft Clients (custom clients, cheat clients, and from-scratch clones/reimplementations)
+
+- https://github.com/Adamkob12/minecraft_bevy
+    - Minecraft using Bevy and Bevy-Meshem
+- https://github.com/Aliremu/minecraft-rust-client
+    - Minecraft Injection Client built in Rust
+- https://github.com/anima-libera/qwy3
+    - Wanna-be Minecraft-like
+- https://github.com/arthurBricq/crafty
+    - Multiplayer Minecraft clone in pure Rust with OpenGL (both backend and frontend)
+- https://github.com/aykamko/minecrust
+    - Minecraft clone that runs in the browser, written from scratch in Rust. Works on desktop and mobile.
+- https://github.com/bedrock-mc/Rust-LCE
+    - Minecraft LCE Rust Edition
+- https://github.com/BGR360/brine
+    - Work-in-progress Minecraft client written in Rust using the Bevy game engine.
+- https://github.com/Bixilon/Minosoft
+    - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
+- https://github.com/BreakingLead/blockworld
+    - A new minecraft-like game implementation. It aims to be source code-level compatible for minecraft mods.
+- https://github.com/c2i-junia/rustcraft
+    - Minecraft game clone written in Rust.
+- https://github.com/chrisGrando/MinecraftLCE-7thGen
+    - Minecraft Legacy Console Edition for Xbox 360, PS3 and PSVita
+- https://github.com/cowboy8625/rusty-craft
+    - A voxel based crafting game.... yes I like minecraft
+- https://github.com/dandn9/RustyCraft
+    - A Minecraft clone built with wgpu and Rust
+- https://github.com/DarkZek/RustCraft
+    - Rustcraft is a Voxel game similar to Minecraft, made as a personal hobby project
+- https://github.com/dskart/rustcraft
+    - Rustcraft is a simple Minecraft engine written in rust using wgpu.
+- https://github.com/ErrorNoInternet/ErrorNoWatcher
+    - A Minecraft bot with Lua scripting support
+- https://github.com/felixzsh/wgpucraft
+    - minecraft clone attempt made with rust and wgpu
+- https://github.com/furrysalamander/ansicraft
+    - Minecraft (Java Edition) Terminal Edition
+- https://github.com/gonegirl911/crustcrab
+    - A Minecraft clone written in Rust using wgpu and winit.
+- https://github.com/iceiix/stevenarella
+    - Multi-protocol Minecraft-compatible client written in Rust
+- https://github.com/iGutobreks/annag
+    - minecraft external cheat
+- https://github.com/imNaphy/Minecraft-Chat-Client
+    - A low-level Minecraft 1.16 console client built in Rust. Handles raw TCP packets, dynamic Zlib compression, and renders in-game chat with ANSI colors directly in the terminal.
+- https://github.com/Inspirateur/riverbed
+    - A Minecraft-inspired Bevy game
+- https://github.com/Karenina-na/mc-client
+    - A minecraft console client written in rust.
+- https://github.com/KernelFreeze/Litecraft
+    - Open source, clean room implementation of Minecraft Client
+- https://github.com/Lea-fish/Leafish
+    - A minecraft-like multi version client implemented in Rust.
+- https://github.com/mari-cult/mcpe
+    - Recreating Minecraft PE 0.2.0 in Rust???
+- https://github.com/mcre-engine/mcre
+    - MCRE is an experiment to build a modular, 1:1 Minecraft client in Rust.
+- https://github.com/pannous/Leafish
+    - A minecraft-like multi version client implemented in Rust.
+- https://github.com/PeterTiny1/minecraft
+    - My own Minecraft clone
+- https://github.com/PhaestusFox/MindCraft
+    - This is a minecraft clone made using the bevy game engine, you can watch the linesteams of it being made here https://www.youtube.com/playlist?list=PL6uRoaCCw7GPtfb4Xxue9NPNdd9ufXeVu
+- https://github.com/Possseidon/unbound
+    - A Minecraft inspired game using bevy
+- https://github.com/profsucrose/rustycraft
+    - Simple Minecraft/Voxel engine implementation in Rust using OpenGL
+- https://github.com/pvini07BR/mijocraft-bevy
+    - Yet another attempt at my stupid 2D Minecraft clone. This time using Rust/Bevy
+- https://github.com/raphamorim/minecraftty
+    - Minecraft on your terminal
+- https://github.com/roadrunner-craft/client
+    - A minecraft clone written in rust
+- https://github.com/sevanescence/mcclient
+    - A Minecraft client written in rust (currently only working on offline connections)
+- https://github.com/shwwwa/librecraft
+    - An open-source implementation of Minecraft client.
+- https://github.com/thatmagicalcat/minecraft
+    - Hopefully a minecraft clone written in rust for the sake of learning graphics programming.
+- https://github.com/TheDarkSword/DarkClient
+    - Minecraft Injection Client built with Rust
+- https://github.com/zuri-mc/zuri
+    - A not-so-complete Minecraft: Bedrock Edition client in Rust.
+- https://github.com/Zytronium/minecraft_vibed_edition
+    - I told myself I'd stop using AI in 2026. What did I do instead? Create a Minecraft clone in Rust using 99% AI.
+
+- https://github.com/shaoruu/mine.js
+    - A voxel world engine built with JS/TS/Rust (formerly mc.js)
+- https://github.com/Adamkob12/NovaCraft
+    - No description available (likely a voxel/Minecraft-like project - same author as Bevy Meshem)

@@ -1,0 +1,141 @@
+## A list of Game Launchers, Library Managers, and Steam-adjacent Tools (non-Minecraft)
+
+- https://github.com/Kumassy/ownserver
+    - Expose your local game server to the Internet.
+- https://github.com/GameServerManagers/LinuxGSM
+    - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+- https://github.com/AndrewKvalheim/little-a-map
+    - Renders a composite map from Valheim players' surveyed map data
+- https://github.com/RainbowCookie32/rusty-psn
+    - A GUI/CLI tool for downloading PS3, PS4, and PSVita game updates
+- https://github.com/ChrisRid/ToonSettings
+    - A simple tool for easily copying settings from one account to other(s) for the game Eve Online which runs on Ubuntu (Linux)
+- https://github.com/ekx/protonhax2
+    - Simple CLI utility to run a command inside the same Proton prefix as a currently running game
+- https://github.com/AriCuteGirl/save-guardian
+    - 🛡️ A sleek save game manager for Steam and non-Steam games built with Rust and egui
+- https://github.com/Brian-Conley/steam-db-builder
+    - A utility for building a database of every steam game.
+- https://github.com/nuxy/steam-workshop-bundler
+    - Manage multiple mod projects for a single game instance.
+- https://github.com/alpha-tango-kilo/steam-idler
+    - Pretends to be a Steam game to idle some hours for you
+- https://github.com/LennardKittner/SteamScraper
+    - A CLI application to scrape game images from games in your steam library.
+- https://github.com/johanhelsing/steam_dev_launcher
+    - Nice cross-platform ways of making steam launch your game like you want it to and not eat the logs
+- https://github.com/The-Noah/steam-screenshot-organizer
+    - This is a simple script that organizes your Steam screenshots into folders based on the game they were taken in.
+- https://github.com/timvisee/steam-rp2g
+    - Remote Play Together any Steam game.
+- https://github.com/Arian8j2/nonsteam-game-artwork-copier
+    - Copies original steam artworks (bannder, logo, icons, ...) and apply those to non-steam game that you added to steam
+- https://github.com/greshbasic/steam-recommender-site
+    - A site that uses a Steam user's game history to recommend games
+- https://github.com/greshbasic/steam-recommender
+    - A custom recommender algorithm that uses a Steam user's history to recommend a new game
+- https://github.com/kekonn/discord-rpc-helper
+    - Helps set Steam game activity as a Discord activity
+- https://github.com/ShadowMitia/steam_randomiser
+    - Randomly pick an installed Steam game!
+- https://github.com/mtkennerly/ludusavi
+    - Backup tool for PC game saves
+- https://github.com/WilliamVenner/steamlocate-rs
+    - 🎮 Rust Crate for locating Steam game installation directories (and Steam itself!)
+- https://github.com/Spencer-0003/aletheia
+    - Game save backup tool.
+- https://github.com/cohaereo/game-detector
+    - Rust crate to detect installed games on various platforms (Steam, Microsoft Store, Epic Games)
+- https://github.com/Drop-OSS/drop
+    - Drop is an open-source game distribution platform.
+- https://github.com/Monarch-Launcher/Monarch
+    - Monarch is an open source game launcher/manager. Monarch is an alternative to popular launchers such as Steam, Epic, GOG, etc... Currently under development.
+- https://github.com/Nytuo/Meteoric
+    - Video game library manager aiming to provide a unified interface.
+- https://github.com/Ludea/Sparus
+    - Start and keep your game up-to-date with Sparus game launcher
+- https://github.com/adithyasource/clear
+    - simple and lightweight game launcher
+- https://github.com/MathiewMay/tux-mod-manager
+    - TMM is a Linux native game modding tool. it allows to install and depoly mods for Linux native and wine games.
+- https://github.com/HurricaneInteractive/epic-games-scraper
+    - A simple Hyper API to extract game details from the Epic Games website
+- https://github.com/PyKnight8/SGM
+    - Steam Game Manager (SGM) is a CLI based program that can launch steam games when you provide their name in a string that resembles the closest match to your desired game and it should launch.
+- https://github.com/EmbarkStudios/quilkin
+    - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
+- https://github.com/Calinou/scoop-games
+    - Scoop bucket for open source/freeware games and game-related tools (Windows)
+- https://github.com/partydeck/partydeck
+    - A split-screen game launcher for Linux/SteamOS
+- https://github.com/RedstoneWizard08/Wormhole
+    - A centralized multi-game mod and modpack manager and launcher, supporting Steam, Epic Games, and the Private Division launcher.
+- https://github.com/NtrpyDev/satur8
+    - Per-game digital vibrance for Linux
+
+- https://github.com/Didstopia/starbound-server
+    - Provides a dedicated Linux server for Starbound running inside a Docker container
+- https://github.com/jaquobia/sbi
+    - Starbound instance manager
+
+- https://github.com/mbround18/valheim-docker
+    - Valheim Docker powered by Odin - a dedicated Valheim gameserver manager designed with resiliency in mind, automatic updates
+
+- https://github.com/ChrisDKN/Amethyst-Mod-Manager
+    - A Linux native mod manager for a variety of games
+
+- https://github.com/pezfisk/OxideManager
+    - Blazing fast modding tool for Linux, built with Rust
+
+- https://github.com/NeilSeligmann/rusty-mod-manager
+    - A Linux-native mod manager, built with Rust and Tauri
+- https://github.com/AchetaGames/Epic-Asset-Manager
+    - A frontend to assets purchased on the Epic Games Store
+- https://github.com/imjord/imjord_tauri_games_launcher
+    - A remake of an Electron game launcher, made in Tauri
+- https://github.com/BedrockPlus/launcher
+    - A launcher made with Tauri + Svelte for Bedrock+
+- https://github.com/HALLauncher/hal
+    - Paradox Launcher alternative, written in Rust with the Tauri framework
+- https://github.com/SynthLauncher/SynthLauncher
+    - The official repository for SynthLauncher
+- https://github.com/adumbidiot/itch-io-rs
+    - A Rust API for itch.io
+- https://github.com/Sreehari425/neutronlauncher
+    - A simple, fast, lightweight CLI tool to manage and launch Linux native and Wine games
+- https://github.com/Damillora/flora
+    - A seed for your Wine prefixes - quickly launch your favorite Windows apps and games on Linux
+- https://github.com/poljar/shm-bridge
+    - Shared memory bridge for Wine/Proton and Linux apps
+- https://github.com/Heroic-Games-Launcher/gog-proxy
+    - Proxy around GOG to extend API for Linux native games
+- https://github.com/playtron-os/gog-warp
+    - Rust library for interfacing with the GOG API
+- https://github.com/nicohman/gog-rs
+    - A Rust library for making calls to the GOG.com web API
+- https://github.com/AchetaGames/egs-api-rs
+    - Minimal Rust crate to access the Epic Games API
+- https://github.com/legendary-gl/legendary
+    - A free and open-source replacement for the Epic Games Launcher
+- https://github.com/lheintzmann1/gog-games-unofficial-client
+    - An unofficial client for searching and downloading GOG games through unofficial sources
+- https://github.com/nicohman/wyvern
+    - A simple CLI client for installing and maintaining Linux GOG games
+- https://github.com/imLinguin/comet
+    - Open source implementation of the GOG Galaxy Communication Service for the SDK bundled with GOG games
+
+- https://github.com/TwintailTeam/TwintailLauncher
+    - A multi-platform launcher for your anime games
+
+- https://github.com/Br1ght0ne/rusteam
+    - Manage your games on the terminal
+
+- https://github.com/Sigmachan/loadout
+    - Cross-desktop gaming control panel + software catalog - COSMIC/KDE/GNOME, cross-distro installs via LinuxToys
+
+- https://github.com/isomerc/nicotine
+    - A high performance Eve Online multiboxing and client management tool for Linux + Windows
+- https://github.com/localisprimary/esi
+    - Auto-generated TypeScript client for the EVE Online API
+- https://github.com/dvorakchen/dvorak-epic-games-launcher
+    - A better Epic Games Launcher (not completed)

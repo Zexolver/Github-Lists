@@ -1,0 +1,65 @@
+## Nix / NixOS Ecosystem Tools
+
+- https://github.com/different-name/steam-config-nix
+    - Declaratively manage Steam and your apps on NixOS or Home Manager
+- https://github.com/mikeroyal/NixOS-Guide
+    - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- https://github.com/gmodena/nix-flatpak
+    - Install flatpaks declaratively
+- https://github.com/nix-community/dream2nix
+    - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
+- https://github.com/nix-community/nix-init
+    - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
+- https://github.com/nix-community/nur-search
+    - NUR package search [maintainer=@Pandapip1]
+- https://github.com/nix-community/nixos-anywhere
+    - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
+- https://github.com/daskladas/nixmate
+    - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
+- https://github.com/km-clay/nixos-wizard
+    - A TUI installer for NixOS
+- https://github.com/trofi/nix-olde
+    - Show details about outdated packages in your NixOS system.
+- https://github.com/deltarocks/fleet
+    - NixOS cluster configuration tool
+- https://github.com/nix-community/nh
+    - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
+- https://github.com/nix-community/colmena
+    - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
+- https://github.com/EphraimSiegfried/gachix
+    - A decentralized binary cache for Nix over Git
+- https://github.com/bolivian-peru/os-moda
+    - An operating system built for AI agents - talk to your NixOS server instead of SSH-ing in. Typed, audited tool access with atomic rollback
+    - Built on NixOS, not a from-scratch kernel
+- https://github.com/juspay/omnix
+    - A Nix companion to improve developer experience
+- https://github.com/snowfallorg/nix-software-center
+    - A simple gtk4/libadwaita software center to easily install and manage nix packages
+- https://github.com/thefossguy/nixos-needsreboot
+    - Determine if you need to reboot your NixOS machine
+- https://github.com/redcode-labs/RedNixOS
+    - NixOS-based 'distro' for cybersecurity enthusiasts
+- https://github.com/zhaofengli/attic
+    - Multi-tenant Nix Binary Cache
+- https://github.com/NotAShelf/microfetch
+    - Microscopic fetch tool in Rust, for NixOS systems, with special emphasis on speed
+- https://github.com/nix-community/nixGL
+    - A wrapper tool for nix OpenGL application [maintainer=@guibou]
+- https://github.com/nix-community/NUR
+    - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- https://github.com/DeterminateSystems/nix-installer
+    - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
+- https://github.com/tvlfyi/tvix
+    - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
+- https://github.com/oxalica/rust-overlay
+    - Pure and reproducible nix overlay of binary distributed rust toolchains
+- https://github.com/DeterminateSystems/fh
+    - The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
+- https://github.com/Misterio77/nix-starter-configs
+    - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
+- https://github.com/oppiliappan/statix
+    - lints and suggestions for the nix programming language
+- https://github.com/railwayapp/nixpacks
+    - App source + Nix packages + Docker = Image
+- https://github.com/stuckj/nixos-update-notifier
+    - System-tray update notifier for flake-based NixOS — shows pending flake input updates as a package diff without downloading anything, then applies them via nixos-rebuild. Built for KDE Plasma 6 on Wayland.

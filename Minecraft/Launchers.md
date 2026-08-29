@@ -1,0 +1,80 @@
+## A list of Minecraft Launchers
+
+- https://github.com/BatuhanAksoyy/lyceris
+    - An open source minecraft launcher library.
+- https://github.com/conic-apps/launcher
+    - A versatile Minecraft launcher. WIP
+- https://github.com/DerCommander323/yamcl
+    - Yet Another Minecraft Launcher - An Application for managing Minecraft Modpack Instances (and much more) made with Tauri
+- https://github.com/Eatham532/NexusLauncher
+    - [WIP] A minecraft launcher built in Tauri
+- https://github.com/ElectronicWave/Elemental
+    - Elemental is a Modern Minecraft Launcher SDK⚛
+- https://github.com/firemonster612/ETlauncher
+    - An Alien's Minecraft Launcher.
+- https://github.com/g0dm0d/yogurt
+    - opensource minecraft launcher for windows and linux written in rust library tauri
+- https://github.com/glowsquid-launcher/glowsquid
+    - Next-gen hyperspeed minecraft launcher
+- https://github.com/HelixLauncher/HelixLauncher
+    - A Minecraft launcher built on Rust
+- https://github.com/hellfire-mc/zono
+    - An open source, multi-instance launcher for Minecraft.
+- https://github.com/HydroRoll-Team/DropOut
+    - This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
+- https://github.com/InfyniteHeap/gcl
+    - Grid Craft Launcher - A beautiful, fast and memory-safe Minecraft launcher.
+- https://github.com/JafKc/siglauncher
+    - A simple Minecraft Launcher made with Rust.
+- https://github.com/jafkc2/minelander
+    - Simple and intuitive Minecraft launcher written in Rust
+- https://github.com/KalmeMarq/minicraft-launcher-tauri
+    - A launcher for Minicraft (better than Minecraft). Now with Tauri.
+- https://github.com/KamiSenpai64/minecraft-tui
+    - A Prism Launcher TUI manager
+- https://github.com/KTrain5169/OneLauncher
+    - Sleek and easy to use launcher for Minecraft
+- https://github.com/liabri/rimca
+    - A CLI minecraft launcher (supports vanilla & fabric)
+- https://github.com/loystonpais/nixcraft
+    - A declarative minecraft launcher that uses nix / home-manager
+- https://github.com/MMonkeyKiller/minecraft-launcher-core
+    - A Rust library designed to manage and launch Minecraft game versions. It handles downloading game assets, libraries, and Java runtimes, as well as managing game versions and configurations.
+- https://github.com/Moulberry/PandoraLauncher
+    - Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features
+- https://github.com/Mrmayman/quantumlauncher
+    - A simple, powerful Minecraft launcher
+- https://github.com/Nitrolaunch/nitrolaunch
+    - The supercharged Minecraft launcher and server manager
+- https://github.com/noituri/MCTui
+    - TUI Minecraft Launcher
+- https://github.com/PMLcommandYT/tauri-mcl
+    - Tauri based minecraft launcher
+- https://github.com/reiva-dev/fractal-launcher
+    - For Modded Minecraft Launcher
+- https://github.com/reo6/rsxn
+    - Tiny Minecraft server launcher
+- https://github.com/smallauncher/smallauncher
+    - minimal cli minecraft(java) launcher
+- https://github.com/smokingplaya/mc-launcher
+    - 🌿 Rust crate that runs Minecraft
+- https://github.com/so1ve/unml
+    - 🚀 UNML - UNlimited Minecraft Launcher
+- https://github.com/Stoozy/SML
+    - A CLI based minecraft launcher
+- https://github.com/Team-Akiraka/akiraka
+    - A Minecraft Launcher written in Rust
+- https://github.com/Th0rgal/shard
+    - Minecraft launcher with deduplicated mod storage. Content-addressed library stores mods once, shares across profiles. CLI + desktop app. Supports Fabric, Forge, Quilt, NeoForge. Modrinth & CurseForge integration.
+- https://github.com/theorzr/portablemc
+    - Cross platform command line utility for launching Minecraft quickly and reliably with included support for Mojang versions and popular mod loaders such as Fabric, Forge, NeoForge and derived.
+- https://github.com/Umatriz/nomi
+    - Nomi - Minecraft launcher powered by Rust.
+- https://github.com/vesta-project/launcher
+    - Next-Gen Minecraft Launcher
+- https://github.com/wyatt-herkamp/nitro-launcher
+    - A Minecraft Launcher in Rust using Tauri
+- https://github.com/yetalauncher/yetalauncher
+    - Yet another Minecraft instance manager & launcher
+- https://github.com/zaralX/cast-launcher
+    - Minecraft Launcher written in Rustlang

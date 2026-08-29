@@ -1,0 +1,86 @@
+## Misc Steam CLI Tools & Utilities
+
+- https://github.com/Poussinou/FLOSS-Games-on-Steam
+    - A list of FLOSS games, mods and software available on Steam (86 so far)
+- https://github.com/Kamesuta/remoteplay-inviter
+    - Generate invite link for Steam Remote Play Together and you can get it in Discord!
+- https://github.com/changhe3/swd
+    - A Command Line Utility to Download Steam Workshop Items and Collections with SteamCMD
+- https://github.com/Kirottu/lssaid
+    - A small utility to match a Steam AppID to the corresponding name
+- https://github.com/steph0de/oni-mod-downloader
+    - Download steam workshop items and extract into the "mods" directory
+- https://github.com/dahvde/steam-price-cli
+    - Get the prices of your investments on steam
+- https://github.com/Yttrium-32/steam-icon-recovery
+    - Steam shortcuts icon recovery tool for linux
+- https://github.com/D3XX3R/steamguard-qr-login
+    - Tray application to scan Steam QR-Login codes and pass them to steamguard-cli
+- https://github.com/eiiko6/better-steam-cloud
+    - A simple CLI utility to backup and restore Steam games save data over SSH.
+- https://github.com/th0mes/steam-cli
+    - A steam cli written in rust to gather all the information you need on steam.
+- https://github.com/kvdlxne/steam-idler
+    - A simple application that allows you to seemingly run an application on the Steam platform.
+- https://github.com/LiamGallagher737/undiscovered_steam
+    - A CLI for finding Steam games nobody has heard of
+- https://github.com/jasonly027/steamsale_bot
+    - Track apps on Steam, and get alerts when they go on sale or release!
+- https://github.com/Bauke/steam-rss
+    - Command-line utility to get links to RSS feeds for Steam games
+- https://github.com/vuonojenmustaturska/steamlobbybot
+    - A simple bot that uses the steam api to fetch steam://joinlobby urls into discord
+- https://github.com/robmikh/steamscrape
+    - Determine how many of your Steam games you've actually played.
+- https://github.com/InfinityCity18/steamfetch
+    - Fetch steam data from the terminal
+- https://github.com/4o3F/SteamBulkSubscribe
+    - A tool for bulk subscribing steam community items
+- https://github.com/silvasch/steam_sales_calendar
+    - See the next steam sales right in your calendar.
+- https://github.com/xor-bits/vapour
+    - general steam cli tool
+- https://github.com/shijimasoft/steamat
+    - Gather statistics of steam games from steamcharts in your terminal
+- https://github.com/yobson1/steam-screenshot-importer
+    - Automatic importing of screenshots into Steam using the Steamworks SDK
+- https://github.com/yannickfunk/SteamAliasExplorer
+    - Service which caches all related steam profiles and their recent aliases starting from an enqueued user
+- https://github.com/dmadisetti/steam-tui
+    - Rust TUI client for steamcmd
+- https://github.com/dwunger/manifest-be-gone
+    - Manager to remove stray manifest files that confuse Steam's launcher
+- https://github.com/veteran29/workshop_cleaner
+    - Steam Workshop sometimes "forgets" to remove unsubscribed items, this little utility should help with that issue.
+- https://github.com/xtremegaida/steampatcher
+    - Patches Steam games to remove the need for the client to run.
+- https://github.com/fly9593/SteamWallpaperDeblur
+    - Removes blur effect from adult content images in Steam Wallpaper workshop.
+- https://github.com/adam1x/SteamDustman
+    - Remove hidden games from your Steam account
+- https://github.com/zero318/BegoneWhatsNew
+    - Steam skin to remove "What's New" from the library
+- https://github.com/BigBoiCJ/SteamAutoCracker
+    - An open-source script that automatically Cracks (removes DRM from) Steam games
+- https://github.com/vauxe/steam-log-visualizer
+    - A browser-based dashboard for exploring personal Steam play history
+- https://github.com/TurkeyMaster/steam-followed-games-enhancer
+    - Tampermonkey script for Steam Followed Games: Price, Discount, History & Sorting.
+- https://github.com/Jchuk99/steam_history
+    - basic parsing for steam history
+- https://github.com/ticky/lnshot
+    - 🧖🏻‍♀️ Symlink your Steam screenshots to a sensible place
+- https://github.com/Corecii/roblox_steam_launcher
+    - Allows one to have the Steam overlay and Steam Input in Roblox by launching it through Steam.
+- https://github.com/imjord/tauri_steam_clone
+    - Steam clone made with tauri
+- https://github.com/mdrokz/steam_price_tracker
+    - an price_tracker program made in rust that tracks steam prices by using the steam public api to fetch user games and scrapes the pages.
+- https://github.com/Daniel-Griffiths/vapour
+    - An alternative open source Steam client
+
+- https://github.com/eligamii/goldberg-patcher
+    - A simple cross-platform tool to automatically patch games with the Goldberg (Steamworks) Emulator
+
+- https://github.com/look-a-stegosaurus/SteamCleaner
+    - Python script for removing metadata from Steam, includes a rudimentary UI

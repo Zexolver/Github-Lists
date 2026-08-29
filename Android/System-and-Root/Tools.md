@@ -1,0 +1,22 @@
+## Android System / Root / Debloat Tools
+
+- https://github.com/topjohnwu/Magisk
+    - The Magic Mask for Android
+- https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation
+    - A Magisk Module Which Can Set Videos as Android Device BootAnimation
+- https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+    - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- https://github.com/gsekulski/knoxium
+    - A script that removes and automatically protects against carrier lock on Android devices.
+- https://github.com/AlirezaParsi/COPG
+    - Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Magisk / APatch.
+- https://github.com/FurLC/ZRAM-Module
+    - A Magisk/KernelSU module that provides ZRAM compression algorithm support for Android devices
+- https://github.com/leohearts/AlternativeUnlockXposed
+    - Unlock your Android phone with an alternative PIN. (Xposed)
+- https://github.com/beerphilipp/taptrap
+    - TapTrap is a new attack on Android that lures you into performing actions you did not intend to do.
+- https://github.com/lepras/bankingAOSP
+    - Run banking apps on Custom Android OS's
+- https://github.com/fuqiuluo/rnidbg
+    - 🍂An Android-ARM64 kernel emulator written in Rust. (Rewrite from unidbg)

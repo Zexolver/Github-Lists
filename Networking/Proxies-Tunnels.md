@@ -1,0 +1,89 @@
+## A list of Reverse Proxies and Tunneling Tools
+
+- https://github.com/ferro-labs/ferrotunnel
+    - Secure, embedded, High Performance API-first tunneling with public URLs, acting as a lightweight ingress and HTTP/3 proxy focused on low-latency forwarding
+- https://github.com/junkurihara/rust-rpxy-l4
+    - An L4 reverse proxy with protocol multiplexer, written in Rust
+- https://github.com/junkurihara/rust-rpxy
+    - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust
+- https://github.com/oowl/quicssh-rs
+    - QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
+- https://github.com/ErcinDedeoglu/proxma
+    - Rust-based reverse proxy automation for Docker. Auto-configures Nginx, manages SSL certificates and handles DNS records via container labels.
+- https://github.com/pingooio/pingoo
+    - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
+- https://github.com/DNSCrypt/encrypted-dns-server
+    - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- https://github.com/DNSCrypt/doh-server
+    - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+- https://github.com/zhboner/realm
+    - A network relay tool
+- https://github.com/cloudflare/pingora
+    - A library for building fast, reliable and evolvable network services.
+- https://github.com/narrowlink/narrowlink
+    - A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
+- https://github.com/vicanso/pingap
+    - A reverse proxy like nginx, built on pingora, simple and efficient.
+- https://github.com/svenstaro/proxyboi
+    - A super simple reverse proxy with TLS support
+- https://github.com/moparisthebest/wireguard-proxy
+    - proxy wireguard over TCP/TLS
+- https://github.com/xnuter/http-tunnel
+    - HTTP(S), QUIC Tunnel and TCP Proxy
+- https://github.com/Johni0702/mumble-web-proxy
+    - Mumble to WebSocket+WebRTC proxy for use with mumble-web
+- https://github.com/sozu-proxy/sozu
+    - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
+- https://github.com/shotover/shotover-proxy
+    - L7 data-layer proxy
+- https://github.com/rathole-org/rathole
+    - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- https://github.com/eycorsican/leaf
+    - A versatile and efficient proxy framework.
+- https://github.com/Xerxes-2/clewdr
+    - High Performance LLM Reverse Proxy
+- https://github.com/Watfaq/clash-rs
+    - custom protocol network proxy
+- https://github.com/monosans/proxy-scraper-checker
+    - Fast proxy scraper and checker written in Rust.
+- https://github.com/linkerd/linkerd2-proxy
+    - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
+- https://github.com/ihciah/shadow-tls
+    - A proxy to expose real tls handshake to the firewall
+- https://github.com/buhuipao/anyproxy
+    - Expose your local network and services to public safely
+- https://github.com/istio/proxy
+    - The Istio proxy components.
+- https://github.com/moparisthebest/xmpp-proxy
+    - XMPP reverse proxy and outgoing proxy
+- https://github.com/0x676e67/vproxy
+    - A high-performance HTTP/HTTPS/SOCKS5/MASQUE proxy server
+- https://github.com/holesail/holesail
+    - Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
+- https://github.com/dariubs/awesome-proxy
+    - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
+
+- https://github.com/erebe/wstunnel
+    - Tunnel all your traffic over WebSocket or HTTP2 - bypasses firewalls/DPI, static binary available
+
+- https://github.com/ekzhang/bore
+    - A simple CLI tool for making tunnels to localhost
+- https://github.com/AarambhDevHub/pingora-waf
+    - High-performance Web Application Firewall built with Rust and Cloudflare's Pingora - blocks SQL injection, XSS, and malicious traffic
+
+- https://github.com/kaichaosun/rlt
+    - Localtunnel implementation in Rust - expose a local API to the public
+- https://github.com/localtunnel/localtunnel
+    - Expose yourself - a localtunnel implementation
+
+- https://github.com/openziti/zrok
+    - Secure internet sharing made simple
+- https://github.com/UseInterstellar/Interstellar
+    - A modern web proxy with fast speeds and a variety of games
+
+- https://github.com/tun2proxy/tun2proxy
+    - Tunnel (TUN) interface for SOCKS and HTTP proxies
+- https://github.com/Sirherobrine23/go-pproxit
+    - Open source playit.gg alternative (mirror)
+- https://github.com/shadowsocks/shadowsocks-rust
+    - A Rust port of shadowsocks

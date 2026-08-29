@@ -1,0 +1,35 @@
+## Steam/Proton Compatibility Tools
+
+- https://github.com/sonic2kk/steamtinkerlaunch
+    - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+- https://github.com/yuiiio/proton-launcher
+    - Lets you run non-steam programs with Proton
+- https://github.com/WaterBread/steam-launch-option-manager
+    - Manage steam launch options and their Proton runner
+- https://github.com/Kojuma04/pkggez
+    - A package manager which can list, remove and of course install proton-ge into your steam directory.
+- https://github.com/gpskwlkr/protondb-check
+    - CLI tool for checking ProtonDB compatibility of your Steam games.
+- https://github.com/Ashley-Godden/protondb_lookup
+    - Simple command line tool to get ProtonDB ratings for steam games.
+- https://github.com/rfvgyhn/proton-usage
+    - Lists Steam applications that have specified a Steam Play compatibility tool
+- https://github.com/luxtorpeda-dev/luxtorpeda
+    - Steam Play compatibility tool to run games using native Linux engines
+- https://github.com/dreamer/luxtorpeda
+    - Steam Play compatibility tool to run games using native Linux engines
+- https://github.com/FyraLabs/boson
+    - Run Electron Steam games natively on Linux*
+- https://github.com/lanpatch/lanpatch
+    - LANpatch is a list of patches for steam games that allows you to play them in LAN without Steam.
+- https://github.com/albrektsson/warframe-lite
+    - Linux-native, Overwolf-free Warframe companion (KDE Wayland + Steam Proton)
+- https://github.com/RoGreat/steam-optionx
+    - An egui application to modify app launch options in Steam's config file.
+- https://github.com/ShadowBlip/steam-removable-media
+    - Automounts and imports removable media as a Steam library
+
+- https://github.com/florinDNL/eggrollify
+    - Script to download, install, list and remove Proton Glorious-Eggroll builds
+- https://github.com/auyer/Protonup-rs
+    - A Rust app to automate installing/updating Linux Gaming Compatibility tools like ProtonGE, Luxtorpeda, Boxtron

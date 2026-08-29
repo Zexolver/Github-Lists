@@ -1,0 +1,69 @@
+## A list of Minecraft Libraries, SDKs, and Protocol Implementations
+
+- https://github.com/360tetsu360/bers
+    - A pilot program for analyzing MCBE ( Minecraft Bedrock ) protocols written in Rust.
+- https://github.com/Andcool-Systems/mc-oauth-rs
+    - A simple way to add Minecraft authentication to your website or project
+- https://github.com/AnvilMC/anvil_bedrock
+    - An implementation of minecraft bedrock protocol in Rust
+- https://github.com/azalea-rs/azalea
+    - A collection of Rust crates for making Minecraft bots, clients, and tools.
+- https://github.com/bedrock-crustaceans/violinrs
+    - Rust framework for Rust-powered Minecraft addon development
+- https://github.com/BRA1L0R/netherite-rs
+    - Tokio implementation of the Minecraft Protocol with derive macros
+- https://github.com/Cldfire/mc-legacy-formatting
+    - A non-allocating parser for Minecraft's legacy formatting system
+- https://github.com/darkwater/minecraft-server
+    - Rust implementation of the Minecraft network protocol
+- https://github.com/GrizzlT/MinecraftChatRust
+    - Rust implementation of Minecraft's JSON chat/text format
+- https://github.com/ismaileke/minecraft-auth
+    - Impersonation of Minecraft Client connecting to Microsoft & Minecraft
+- https://github.com/janTatesa/ratatui-minecraft
+    - Valence screens port to ratatui
+- https://github.com/jsvana/async-minecraft-ping
+    - ServerListPing in Rust
+- https://github.com/KingRainbow44/rp-decrypt
+    - A Minecraft: Bedrock Edition resource pack decryptor.
+- https://github.com/lhitori/pwncraft
+    - A Rust program to deliver leet payloads through Minecraft SLP protocol
+- https://github.com/LuckyLuuk12/ResourceMerger
+    - API to merge Minecraft Resource packs
+- https://github.com/mat-1/msdsmchr
+    - A fast Minecraft head API.
+- https://github.com/Minecraft-Essentials/minecraft-essentials
+    - A Package that gives all Minecraft client launchers essentials.
+- https://github.com/minecraft-rs/minecraft-msa-auth
+    - A library for authenticating with Microsoft accounts to access Minecraft services.
+- https://github.com/Minecrevy/minecrevy
+    - A toolkit for building Rust-based Minecraft: Java Edition servers, using Bevy Engine.
+- https://github.com/Oery/Kagami
+    - A framework for building network based Minecraft modifications
+- https://github.com/ParadigmMC/mcapi
+    - Rust library for interacting with multiple sources related to Minecraft
+- https://github.com/rimecraft-rs/rimecraft
+    - [MIRROR] Fun with blocks. (WIP) Minecraft implementation in Rust
+- https://github.com/SuperCoolGuy855/minecraft_packet_sniffer
+    - A Minecraft packet sniffer/parser written in Rust
+- https://github.com/thrzl/crust
+    - ⛏️ a real fast minecraft api (wip)
+- https://github.com/Urpagin/Discraft
+    - Proxies Minecraft packets through Discord!
+- https://github.com/utfunderscore/loadbalancer-rs
+    - Minecraft loadbalancer using the new transfer packets
+- https://github.com/utilForever/minecraft-rs
+    - A reimplementation of Minecraft written in Rust
+- https://github.com/valence-rs/valence
+    - A Rust framework for building Minecraft servers.
+- https://github.com/VilleOlof/silverfish
+    - Easily edit Minecraft worlds with a simple, fast and powerful API.
+- https://github.com/Voxidian/voxidian-protocol
+    - Minecraft network protocol datastructures and implementations in Rust.
+- https://github.com/zrll12/yggdrasil-rs-server
+    - A Minecraft Yggdrasil API implementation of rust
+
+- https://github.com/bedrock-crustaceans/nbtx
+    - NBT (Minecraft's data format) implementation in pure Rust
+- https://github.com/gorilla-devs/ferinth
+    - A simple Rust wrapper for the official Modrinth API

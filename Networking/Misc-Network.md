@@ -1,0 +1,164 @@
+## Misc Networking Tools (scanners, monitors, managers, etc.)
+
+- https://github.com/wushilin/vswitch
+    - A Secure, High Performance, EPOLL based L2 Virtual Switch.
+- https://github.com/xlmnxp/bridge46
+    - Bridge between IPv4 and IPv6 networks, works by listen on IPv4 (A DNS Record) Http, Https and other services and make bridge to IPv6 (AAAA DNS Record)
+- https://github.com/xomvio/blossom
+    - Secure Decentralized TUI chat app via Yggdrasil Network
+- https://github.com/aashish-thapa/wlctl
+    - 🛜 TUI for managing wifi/ethernet/vpn on Linux with Network Manager
+- https://github.com/pythops/oryx
+    - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
+- https://github.com/ruma/ruma
+    - A set of Rust crates for interacting with the Matrix chat network.
+- https://github.com/chirpstack/chirpstack
+    - ChirpStack open-source LoRaWAN Network Server
+- https://github.com/Chleba/netscanner
+    - Terminal Network scanner & diagnostic tool with modern TUI
+- https://github.com/robgonnella/r-lanscan
+    - A network scanning CLI, TUI, and Rust Package that makes it easy to perform ARP & SYN scanning for a LAN
+- https://github.com/lucamazzza/angry_smurf
+    - Stealthy, modular network reconaissance tool with a focus on passive discovery and low-noise active scanning.
+- https://github.com/pallab-js/ShadowRecon
+    - A CLI-based network discovery and port/service scanning tool built using rust
+- https://github.com/rvido/LANwatch
+    - A Rust library and CLI tool for network device discovery and tracking via DHCP, mDNS, SSDP/UPnP, LLMNR, NetBIOS (NBNS), WS-Discovery (WSD), CoAP, Matter, KNXnet/IP, MQTT, Plex GDM, IP Camera discovery (SADP, Dahua, RTSP)
+- https://github.com/N3t7a1k/Device-Scanner
+    - 📡 Local network discovery tool written in Rust.
+- https://github.com/mikemiles-dev/rust_network_discovery_tool
+    - Rust Network Discovery Tool
+- https://github.com/nickd0/findi
+    - A local network discovery tool written in Rust
+- https://github.com/shellrow/nrev
+    - Cross-platform Network Mapper.
+- https://github.com/shellrow/nscan
+    - Network scan tool for host and service discovery. Written in Rust.
+- https://github.com/domcyrus/rustnet
+    - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
+- https://github.com/shellrow/ntap
+    - Network traffic monitor/analyzer, with TUI. Written in Rust.
+- https://github.com/ignlg/pingkeeper
+    - Command line application that monitorizes the exit status of a check (command or ping or network response) and, in case of failure, runs a command.
+- https://github.com/jardahrazdera/lantern
+    - Modern TUI for Linux network interface management with WiFi, VPN, and systemd-networkd integration
+- https://github.com/nmstate/nmstate
+    - Nmstate is a library with an accompanying command line tool that manages host networking settings in a declarative manner.
+- https://github.com/Wormarz/justrans
+    - A simple file exchange program for LAN networks. JusTrans allows you to easily transfer files between devices using a web browser.
+- https://github.com/FssAy/steam-blocker
+    - App for blocking outgoing network traffic from Steam. Useful if you want to play borrowed games.
+- https://github.com/HelloZeroNet/ZeroNet
+    - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+- https://github.com/0u44/Termux-Hotspot
+    - A wireless access point orchestration framework that leverages Linux networking subsystems to create software-defined network infrastructure with captive portal authentication, NAT routing capabilities, and DHCP services
+- https://github.com/CPT-Dawn/Nexus
+    - A blazing-fast, Wayland-native TUI WiFi manager built in Rust. Talks directly to NetworkManager over D-Bus via zbus — no polling, no subprocesses, no bloat.
+- https://github.com/Liktomee/NetworkManager-GUI-Rust
+    - A network manager for Linux written in Rust using NetworkManager (nmcli). A small exercise in building a GUI in Rust that can be integrated into window managers like i3, Hyprland, or Wayland.
+
+- https://github.com/samyk/pwnat
+    - Punches holes through firewalls/NATs so multiple clients & a server behind separate NATs can connect, with no 3rd party, port forwarding, DMZ, DNS, STUN/TURN/UPnP/ICE, or spoofing required
+
+- https://github.com/theopfr/somo
+    - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS
+- https://github.com/GyulyVGC/sniffnet
+    - Comfortably monitor your Internet traffic
+- https://github.com/lissy93/AdGuardian-Term
+    - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+
+- https://github.com/pythops/hoststatus
+    - Simple CLI to check website status
+- https://github.com/bee-san/RustScan
+    - The Modern Port Scanner
+- https://github.com/str4d/ire
+    - I2P router implementation in Rust
+- https://github.com/PurpleI2P/i2pdbrowser
+    - i2pd browser bundle
+- https://github.com/StudioGrails/ruknet
+    - Highly accurate reimplementation of the RakNet protocol in Rust
+- https://github.com/htrefil/rkvm
+    - Virtual KVM switch for Linux machines
+
+- https://github.com/feschber/lan-mouse
+    - Mouse & keyboard sharing via LAN
+- https://github.com/rustdesk/rustdesk
+    - An open-source remote desktop application designed for self-hosting, an alternative to TeamViewer
+- https://github.com/IngenuineIntel/adhcp
+    - TUI for managing your DHCP server
+    - Interface: TUI
+- https://github.com/morgverd/sms-terminal
+    - TUI for sms-server - send/receive SMS, view message history, and control GSM modems
+- https://github.com/lance0/xfr
+    - A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support
+- https://github.com/abhayymishraa/pingme-tui
+    - A lightweight CLI tool for creating in-house web status servers
+
+- https://github.com/cloudflare/wirefilter
+    - An execution engine for Wireshark-like filters
+
+- https://github.com/svenstaro/miniserve
+    - For when you really just want to serve some files over HTTP right now
+- https://github.com/vi/websocat
+    - Command-line client for WebSockets, like netcat/curl for ws://
+- https://github.com/palmispojk/wifi_gui
+    - A WiFi GUI for Linux
+- https://github.com/pythops/bluetui
+    - TUI for managing Bluetooth on Linux
+- https://github.com/e-tho/bzmenu
+    - Launcher-driven Bluetooth manager for Linux
+- https://github.com/eepnet/emissary
+    - Rust implementation of the I2P protocol stack
+
+- https://github.com/rustonbsd/iroh-lan
+    - Have a LAN party with iroh (like Hamachi, no account/install needed)
+
+- https://github.com/orf/gping
+    - Ping, but with a graph
+
+- https://github.com/acikgozb/wl
+    - Manage your WiFi connections, powered by nmcli
+- https://github.com/zeronet-conservancy/zeronet-conservancy
+    - A modern 0net (ZeroNet) client
+- https://github.com/pythops/impala
+    - TUI for managing WiFi on Linux
+
+- https://github.com/CPT-Dawn/VoidLink
+    - Memory-safe, keyboard-first Bluetooth TUI for Linux, talks directly to BlueZ over D-Bus
+- https://github.com/AsmrCodeZ-YT/Splinter-Net
+    - Split internet across 2+ network interfaces on Linux
+- https://github.com/wirdani84/project-mirage
+    - Cross-OS distributed window interaction system - drag windows between Linux and Windows laptops
+- https://github.com/ravendevteam/alternet
+    - A completely decentralized alternative to the current-day web
+
+- https://github.com/nginx/nginx
+    - The official NGINX Open Source repository
+
+- https://github.com/keys-i/tinyserve
+    - Superfast, ultra-lightweight Rust HTTP file server for in-browser preview/streaming (HTML, images, PDF, MP3, MP4)
+- https://github.com/lpfy/html2pdf-api
+    - Thread-safe browser pool for HTML to PDF conversion with web framework integration
+- https://github.com/loyal812/rust-webrtc
+    - A simple WebRTC streaming server - streams video/audio from a file to a browser client
+- https://github.com/zero2null/web-beam
+    - Real-time peer-to-peer data sharing between browsers - no storage, just instant transfer
+- https://github.com/jdrouet/browser-crypto
+    - A safe Rust interface to browser-based cryptographic operations using the Web Crypto API
+- https://github.com/privacy-ethereum/webtor-rs
+    - A browser-focused Tor client written in Rust and compiled to WebAssembly
+- https://github.com/ethereum/webtor-rs
+    - A browser-focused Tor client written in Rust and compiled to WebAssembly
+
+- https://github.com/argrento/huami-token
+    - Script to obtain a watch/band Bluetooth token from Huami servers
+- https://github.com/Mjkli/ObscuraLink
+    - Create your own encryption for securely browsing the web
+- https://github.com/michal-franc/goxide
+    - zoxide, but for browsing the web
+- https://github.com/AKASHAorg/akasha-core
+    - Monorepo for the AKASHA core framework (decentralized social)
+- https://github.com/DCT-Berinyuy/omarchy-hotspot
+    - An interactive, terminal-based WiFi hotspot manager for Arch Linux/Omarchy
+- https://github.com/ferronweb/ferron
+    - A fast, modern, easily configurable web server with automatic TLS

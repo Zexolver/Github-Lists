@@ -1,0 +1,165 @@
+## A list of Games and Game Engines (non-Minecraft)
+
+- https://github.com/Grasscutters/Grasscutter
+    - A server software reimplementation for a certain anime game.
+- https://github.com/AmbientRun/Ambient
+    - The multiplayer game engine
+- https://github.com/not-fl3/macroquad
+    - Cross-platform game engine in Rust.
+- https://github.com/DigitalExtinction/Game
+    - A 3D RTS game implemented in Rust.
+- https://github.com/bevyengine/bevy
+    - A refreshingly simple data-driven game engine built in Rust
+- https://github.com/titusvalid/Cataclysm-BN
+    - A mod friendly fork of BN. Download the latest release (not code) and drop with overwrite into your game folder. Or just run it like that, it will work regardless.
+- https://github.com/ianlintner/rust_punk
+    - Rust CLI/Curses Game fighting over dumpster scavenge rights in a dystopian future.
+- https://github.com/Ladvien/bevy_rts_cursor
+    - A game-world cursor crate for real-time strategy games, built for the Bevy engine
+- https://github.com/sirgallifrey/hero-curses
+    - TUI Role playing game written in Rust
+- https://github.com/CleverRaven/Cataclysm-DDA
+    - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- https://github.com/fayard4real/venomized
+    - An educational project demonstrating multiplayer game networking over QUIC, visualized in a Rust TUI
+- https://github.com/pronzzz/kernel-architect
+    - The Kernel Architect is a terminal-based cyberpunk simulation game built with Rust and Ratatui.
+- https://github.com/vladbat00/bevy_egui
+    - An Egui integration crate for the Bevy game engine
+- https://github.com/ggez/ggez
+    - Rust library to create a Good Game Easily
+- https://github.com/AdamKyle/flare
+    - A Simple Browser Based Game.
+- https://github.com/ChristopherDay/openPBBG
+    - An open source game framework written in PHP using MySQL
+- https://github.com/wesnoth/wesnoth
+    - An open source, turn-based strategy game with a high fantasy theme.
+- https://github.com/FyroxEngine/Fyrox
+    - 3D and 2D game engine written in Rust
+- https://github.com/pezfisk/hellscape
+    - Hellscape is a fast paced open-source game based around lighting.
+- https://github.com/0bOne/obelite
+    - Open source space game based on Oolite
+- https://github.com/FunkinCrew/Funkin
+    - A rhythm game made with HaxeFlixel
+- https://github.com/spicylobstergames/astratomic
+    - Survival game inspired by Noita and Starbound, fueled by Rust and Bevy.
+- https://github.com/jasonrohrer/OneLife
+    - a multiplayer survival game of parenting and civilization building
+- https://github.com/rossturner/mountaincore
+    - A simulation-based strategy game featuring dwarves, written in Java with LibGDX
+- https://github.com/hastur-dev/rust-learning-game
+    - This is an attempt to make a video game about learning rust. I'll probably put it up on the steam store for $1 when it's complete, but it will always be free here
+- https://github.com/BizzQuit7317/Space-Frontier
+    - A game made in gadot game engine, the style and visual are ripped from SPACEPLAN on steam.
+- https://github.com/endless-sky/endless-sky
+    - Space exploration, trading, and combat game.
+- https://github.com/indiv0/colonize
+    - A Dwarf Fortress/Rimworld-like game written in Rust
+- https://github.com/Thinkofname/UniverCity
+    - Source code of the game Univercity: https://store.steampowered.com/app/808160/UniverCity/
+- https://github.com/justinmimbs/rs-asteroids
+    - A variation on the game Asteroids, written in Rust
+- https://github.com/Zorz42/Terralistic
+    - Terralistic is a Terraria fan game. It has some technical stuff that I miss in Terraria, like: native mod support, good performance, online accounts, good ui and so on...
+- https://github.com/Tarator-Engine/Tarator
+    - Game Engine written in rust with a UI
+- https://github.com/Dreamtowards/Ethertum
+    - A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
+- https://github.com/hollowdll/terminal-game
+    - TUI game for the terminal.
+- https://github.com/yixuan-rs/yixuan-rs
+    - Experimental server emulator for the game Zenless Zone Zero
+- https://github.com/commandz0/dino-run-ce
+    - A clone of Google Chrome's dinosaur game for the TI-84+CE
+- https://github.com/JSLegendDev/Desktop-JS-Game-Tauri
+    - Desktop Flappy bird style game made in JavaScript with Kaplay and Tauri.
+- https://github.com/Emmaker/CosmicExpanse
+    - A massive modification for Starbound, utilizing OpenStarbound to overhaul the game
+
+- https://github.com/jss2a98aj/Starbound-Patch-Project
+    - A collection of patches and bug-fixes for Starbound
+- https://github.com/rwf93/Starbound
+    - Starbound source code
+- https://github.com/xStarbound/xStarbound
+    - Starbound source code fork and successor to xSB-2
+
+- https://github.com/Whales/Cataclysm
+    - A post-apocalyptic roguelike (Cataclysm: DDA fork/variant)
+- https://github.com/rewin123/space_editor
+    - Bevy prefab editor
+- https://github.com/cataclysmbn/Cataclysm-BN
+    - Cataclysm: Bright Nights - a fork/variant of Cataclysm: DDA, with a mod registry
+- https://github.com/amethyst/legion
+    - High performance Rust ECS library
+- https://github.com/Adamkob12/Meshem
+    - Bevy Meshem - a Rust crate providing meshing algorithms for voxel grids
+- https://github.com/amethyst/bracket-lib
+    - The Roguelike Toolkit (RLTK), implemented for Rust
+- https://github.com/stolencatkarma/CataclysmLD
+    - Cataclysm: Looming Darkness (Cataclysm: DDA variant)
+- https://github.com/AliceSavard/Terarria1405
+    - Terraria 1.4.0.5 decompiled, refactored, modified
+- https://github.com/Lonami/terry
+    - A Rust bot for Terraria 1.4
+
+- https://github.com/markusmoenig/Eldiron
+    - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools
+
+- https://github.com/amethyst/rustrogueliketutorial
+    - Roguelike Tutorial in Rust, using RLTK
+- https://github.com/doukutsu-rs/doukutsu-rs
+    - A faithful and open-source remake of Cave Story's engine, written in Rust
+- https://github.com/xDimGG/trust
+    - A Terraria server written in Rust
+
+- https://github.com/lanedirt/OGameX
+    - Open-source OGame redesign clone, powered by PHP Laravel
+- https://github.com/Shadowss/TravianZ
+    - Travian T3.6 with user-configurable features
+- https://github.com/andreapavoni/parabellum
+    - An attempt to build a Travian 3.x clone written in Rust
+- https://github.com/OoliteProject/oolite
+    - The main Oolite repository - a space trading/combat game (0bOne/obelite is based on this)
+
+- https://github.com/OpenStarbound/OpenStarbound
+    - An open-source reimplementation/continuation of Starbound
+- https://github.com/naev/naev
+    - A space trading/combat game (mirror, moved to Codeberg)
+- https://github.com/daid/EmptyEpsilon
+    - Open source bridge simulator (space), built with the SeriousProton engine
+- https://github.com/vegastrike/Vega-Strike-Engine-Source
+    - Vega Strike Engine - a space simulation game
+- https://github.com/NotLe0n/tMLAPIs
+    - A series of tModLoader (Terraria) APIs to help make dynamic websites
+
+- https://github.com/papow65/rustaclysm
+    - A 3D reimagining of Cataclysm: Dark Days Ahead, built with Rust and Bevy
+- https://github.com/Lonaasan/Animis
+    - Animis Avatar Suite - multiplayer compatible, requires OpenStarbound
+
+- https://github.com/tung/ruggrogue
+    - A simple web-playable roguelike made with Rust and SDL, with an Emscripten browser port
+- https://github.com/vertec-io/async_bevy_web
+    - Experimental project to run a Bevy application on the server while rendering ECS state as HTML in the browser
+- https://github.com/Kaetram/Kaetram-Open
+    - An open-source 2D HTML5 MMORPG - an extended version of BrowserQuest
+
+- https://github.com/envoyious/Ploom
+    - Pseudo 3D projection written in Python using Pygame
+- https://github.com/reyk/retris
+    - A Tetris clone written in Rust
+- https://github.com/theOGognf/private_poker
+    - A poker library, server, client, and TUI
+- https://github.com/Hugo-Dz/spritefusion-pixel-snapper
+    - A tool to snap pixels to a perfect grid, fixing messy AI-generated pixel art
+- https://github.com/facundoolano/rpg-cli
+    - Your filesystem as a dungeon - a novelty RPG game
+- https://github.com/blendogames/quadrilateralcowboy
+    - Source code for Quadrilateral Cowboy (2016)
+- https://github.com/wjakob/instant-meshes
+    - Interactive field-aligned mesh generator
+- https://github.com/jmdejong/battilde
+    - A top-down terminal shooter
+- https://github.com/SrWither/OpenSpeedRun
+    - Modern and minimalistic open-source speedrun timer

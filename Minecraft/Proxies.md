@@ -1,0 +1,52 @@
+## A list of Minecraft Proxies (Bungee/Velocity-style, reverse proxies, tunnels)
+
+- https://github.com/0x7d8/minecraft-server-proxy
+    - Simple Rust Application that proxies minecraft servers based on their host names
+- https://github.com/BRA1L0R/hopper-rs
+    - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
+- https://github.com/caelunshun/minecraft-quic-proxy
+    - head-of-line blocking mitigation for the modern age (don't bother)
+- https://github.com/chungchandev/ccproxy
+    - A lightweight reverse proxy for Minecraft Bedrock Edition servers.
+- https://github.com/DuncanUszkay1/Patchwork
+    - Peer to Peer Minecraft server that connects multiple server instances together
+- https://github.com/DusterTheFirst/mcproxy
+    - Reverse proxy for Minecraft: Java Edition servers
+- https://github.com/Folleach/mineginx
+    - A minecraft proxy like nginx
+- https://github.com/Gabeperson/mineshare
+    - A small, no portforwarding reverse proxy app for small Minecraft servers
+- https://github.com/GoobersInc/gooberproxy-plus
+    - The superior Minecraft proxy
+- https://github.com/hellfire-mc/magma
+    - Domain-switching reverse proxy for Minecraft servers.
+- https://github.com/illnet/mach
+    - The Minecraft ingress designed for high pressure under low resource.
+- https://github.com/JavaDerg/mc-router
+    - A very basic, domain based reverse Proxy for Minecraft
+- https://github.com/k-gruenberg/minecraft_reverse_proxy
+    - A Rust implementation of a reverse proxy, used for exposing a Minecraft server run on a friend's computer behind a firewall.
+- https://github.com/kauri-off/minecraft_mitm
+    - A Minecraft man-in-the-middle proxy for inspecting and logging packets
+- https://github.com/kubecraft-cloud/kubecraft-proxy
+    - A reverse proxy for Minecraft server using gRPC for configuration.
+- https://github.com/MiGoYAm/Rower
+    - A Minecraft server proxy written in Rust
+- https://github.com/Mondei1/mcsync
+    - Tunnel & share your Minecraft server with friends.
+- https://github.com/novastosha/rustyproxy
+    - A Minecraft proxy written Rust
+- https://github.com/Purdze/Gourd
+    - Proxy for Pumpkin Minecraft servers
+- https://github.com/sammwyy/Lure
+    - The true next-gen L7 minecraft proxy and load balancer. Built in Rust.
+- https://github.com/scrayosnet/passage
+    - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state.
+- https://github.com/scrayosnet/xenos
+    - Minecraft Profile Information Proxy
+- https://github.com/Shadowner/Infrarust
+    - High-Performance Minecraft Reverse Proxy in Rust
+- https://github.com/Unoqwy/trakt
+    - Reliable reverse proxy and load balancer for Minecraft: Bedrock Edition servers
+- https://github.com/yallxe/motion
+    - WIP Archived forever. High-performance Minecraft reverse proxy

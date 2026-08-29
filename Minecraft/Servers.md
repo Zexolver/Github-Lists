@@ -1,0 +1,109 @@
+## A list of Minecraft Server Software/Implementations
+
+- https://github.com/andrewgazelka/rgb
+    - A high-performance Minecraft server with hot-reloadable plugins and flat, readable code.
+- https://github.com/aripiprazole/tanso
+    - 🐙 | Minecraft motd server
+- https://github.com/bedrock-crustaceans/chorus
+    - Minecraft: Bedrock server software, open source and written in Rust
+- https://github.com/Bond-009/siderite
+    - WIP Minecraft server
+- https://github.com/Cactus-minecraft-server/CactusMC
+    - An attempt at implementing a Minecraft Server in Rust.
+- https://github.com/Cheezer1656/MiniBit
+    - A Minecraft minigame server network written in Rust.
+- https://github.com/chrrs/limbo
+    - A simple, very minimal Minecraft server implementation in Rust.
+- https://github.com/cyteon/mist
+    - A minecraft server reimplementation in rust
+- https://github.com/Distemi/ULE
+    - Rust-based minecraft server core
+- https://github.com/elftausend/betalpha
+    - A Minecraft Alpha 1.2.6 server implementation
+- https://github.com/FalconMC-Dev/FalconMC
+    - An elegant and multiversioned Minecraft server written in Rust!
+- https://github.com/feather-rs/feather
+    - A Minecraft server implementation in Rust
+- https://github.com/ferrumc-rs/ferrumc
+    - A reimplementation of the minecraft server in rust.
+- https://github.com/G2-Games/minecraft_alpha_server
+    - A Minecraft server for Alpha 1.2.6
+- https://github.com/GamingLiamStudios/SnapRS
+    - A Minecraft Server written in Rust with Performance in mind
+- https://github.com/garentyler/composition
+    - An extremely fast Minecraft server
+- https://github.com/gzachrisson/bedroxide
+    - A Minecraft Bedrock server written in Rust
+- https://github.com/Heavenston/mc_server_rs
+    - Implementation of a minecraft server
+- https://github.com/JanotLeLapin/Crust
+    - A Minecraft server implementation written in Rust and Elixir
+- https://github.com/luojia65/coruscant
+    - Centralized, massive and prosperous Minecraft server software library
+- https://github.com/macmv/bamboo
+    - A safe, fast, and secure Minecraft server optimized for minigames. This is a mirror of the Gitlab repo: https://gitlab.com/macmv/bamboo
+- https://github.com/MCHPR/MCHPRS
+    - A multithreaded Minecraft server built for redstone.
+- https://github.com/MojankStudios/yggoxide
+    - Rust implementation of the Minecraft authentication server (Yggdrasil)
+- https://github.com/Moulberry/Graphite
+    - 1.19.1 high-performance Minecraft server
+- https://github.com/netherite-rs/netherite
+    - Minecraft server implementation in Rust
+- https://github.com/NetrexMC/Netrex
+    - A powerful minecraft bedrock software written in Rust and Typescript with a powerful Typescript plugin API.
+- https://github.com/NikOverflow/ocelotmc
+    - A Minecraft server written in Rust.
+- https://github.com/ObsidiumMC/Obsidium
+    - A high-performance Minecraft server written in Rust.
+- https://github.com/Pumpkin-MC/Pumpkin
+    - Empowering everyone to host fast and efficient Minecraft servers.
+- https://github.com/Quozul/PicoLimbo
+    - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 26.2.
+- https://github.com/realmayus/rustcraft
+    - A PoC Minecraft server written in Rust.
+- https://github.com/rjacraft/rjacraft
+    - Minecraft server development suite
+- https://github.com/roccodev/bbCraft
+    - A barebones Minecraft server, written in Rust.
+- https://github.com/Rusty-Quartz/Quartz
+    - A reimplementation of a minecraft server in Rust
+- https://github.com/RustyNoedar/ancient
+    - Minecraft server written in Rust
+- https://github.com/sb-child/mc-auth
+    - [WIP] a third-party Minecraft Auth Server (Yggdrasil), in rust
+- https://github.com/Starfall-MC/whoami-minecraft-server
+    - Simple Minecraft server that shows information about who's connecting to it.
+- https://github.com/Steel-Foundation/SteelMC
+    - A Minecraft server in Rust focused on a strong foundation and performance
+- https://github.com/SugarcaneMC/ModularMC
+    - A modular Minecraft server made in Rust
+- https://github.com/Sycrosity/statik-rs
+    - A pure rust lightweight 'fallback' minecraft server.
+- https://github.com/T-x-T/oxide
+    - A reimplementation of the Minecraft Server in pure Rust
+- https://github.com/teampathfinders/mirai
+    - Robust dedicated server software for Minecraft: Bedrock Edition
+- https://github.com/tel-0s/ultimate-minecraft
+    - The ultimate Minecraft server, powered by Wolfram's causal graph rewriting-based theory of physics, implemented in Rust.
+- https://github.com/ThatOneToast/rust-minecraft-server
+    - A Minecraft server written in rust
+- https://github.com/theflyingbirdsmc/TFB-Network
+    - Probably the best open-source Minecraft server network in the world
+- https://github.com/theorzr/mc173
+    - A work-in-progress (80%) Minecraft beta 1.7.3 server made in Rust.
+- https://github.com/Vulae/pkmc
+    - Yet another Rust Minecraft server implementation.
+- https://github.com/ya7on/mine-rs
+    - [WIP] Minecraft server implementation on Rust
+- https://github.com/yuta0801/minecraft_server
+    - A tiny Minecraft Server implementation in Rust
+- https://github.com/zirkonya/zirconium-mc
+    - Minecraft server-side in rust
+
+- https://github.com/MultiPaper/MultiPaper
+    - Multi-server, single-world PaperMC implementation
+- https://github.com/marshmallowsunshinekitten1234/MCServerNap
+    - Turns your Minecraft server into a placeholder/serverless service when idle
+- https://github.com/maxomatic458/bedwa-rs
+    - A Minecraft Bedwars minigame server written in Rust

@@ -1,0 +1,49 @@
+## Steam API Bindings & Libraries (mostly Rust)
+
+- https://github.com/wr8fdy/steam_store_api
+    - Safe Rust bindings for the Steam Store API
+- https://github.com/ElmerByte/steam-profile
+    - simple library to get basic steam profile statistics
+- https://github.com/notrevenant/steamachievements
+    - This is a library for any Rust app which allows you to sync achievements over to Steam.
+- https://github.com/icewind1991/steam-vent
+    - Interact with the Steam network via rust
+- https://github.com/saskenuba/SteamHelper-rs
+    - Interact with Valve's Steam network with this collection of crates.
+- https://github.com/dumbapplee/crowbar
+    - Community-maintained API for accessing and integrating with Steam, providing up-to-date data on games, users, and inventory. Open-source, collaborative, and continuously evolving.
+- https://github.com/Kartonowy/corrosion
+    - Rust REST Api for Steam platform
+- https://github.com/Cryotheus/rgpr_steamworks
+    - High-level Rust bindings to Steamworks, the Steam API.
+- https://github.com/garhow/steam-rs
+    - Safe Rust bindings for the Steam Web API
+- https://github.com/bellackn/steamr
+    - A Rust-powered HTTP client library to interact with Valve's Steam API
+- https://github.com/tremwil/steamhook
+    - Hooking internal Steam APIs made easy
+- https://github.com/stijnbilliet/RustySteamAuth
+    - Implementation of steam OAuth in Rust
+- https://github.com/GitGhillie/phonon_rs
+    - Unofficial Steam Audio Rust Rewrite
+- https://github.com/MaxenceMaire/audionimbus
+    - Steam Audio in Rust
+- https://github.com/Yvonne-Aizawa/OpenSteamGuard
+    - An implementation for the steam guard app
+
+- https://github.com/dustinlacewell/steamworks-ts
+    - TypeScript bindings to the Steamworks SDK
+- https://github.com/HouraiTeahouse/bevy_steamworks
+    - A Bevy plugin for integrating with the Steamworks SDK
+- https://github.com/ceifa/steamworks.js
+    - A Steamworks implementation for nw.js/Electron games
+- https://github.com/drguildo/vdfr
+    - A Rust library for reading Valve's binary KeyValue (VDF) format
+- https://github.com/Noxime/steamworks-rs
+    - Rust bindings to the SteamWorks SDK
+- https://github.com/Sigma-dev/bevy_steam_p2p
+    - An opinionated networking framework for developing low-stakes online multiplayer games via the Steamworks API
+- https://github.com/Seeker14491/steamworks-rs
+    - Futures-enabled bindings to a portion of the Steamworks API
+- https://github.com/PhilipK/steamgriddb_api
+    - A wrapper for the SteamGridDB API, written in Rust

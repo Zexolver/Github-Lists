@@ -1,0 +1,59 @@
+## A list of Minecraft Mods, Plugins, and Modpack Tools
+
+- https://github.com/4JX/mCubed
+    - A GUI Minecraft mod manager
+- https://github.com/ALaggyDev/ncr-rs
+    - Rust implementation of chat encryption in the Minecraft mod No Chat Reports
+- https://github.com/Alaydriem/bedrock-voice-chat
+    - Voice Chat for Minecraft Bedrock Edition
+- https://github.com/BlackJar72/DoomlikeDungeons
+    - A procedural multi-room dungeon generator for Minecraft
+- https://github.com/ChacePratt/MinecraftModCounter
+    - A simple Rust console application that counts the amount of published mods on CurseForge
+- https://github.com/ComunidadAylas/PackSquash
+    - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
+- https://github.com/cqdetdev/j2be
+    - unfinished project to convert Minecraft Java packs to Bedrock
+- https://github.com/ElectronicWave/Packust
+    - Package Manager for Minecraft Modpacks
+- https://github.com/feather-rs/quill
+    - A WebAssembly-based plugin API for Minecraft servers
+- https://github.com/Frumple/mc-plugin-finder
+    - A search aggregator for finding Minecraft server plugins on Spigot, Modrinth, and Hangar.
+- https://github.com/joshuatic/MinecraftModChecker
+    - A CLI tool that allows you to either update your mod or check to see if the license allows for YouTube use.
+- https://github.com/KirillkoTankisto/minefetch
+    - Minecraft mods manager.
+- https://github.com/lupont/cdl
+    - A command-line application for downloading Minecraft mods with dependencies.
+- https://github.com/mapworks-rs/worldedit
+    - A minecraft worldedit implementation in rust for the minecraft server implmentation: feather-rs
+- https://github.com/Mr1cecream/Modbreeze
+    - Modbreeze is a fast and easy to use mod manager for Minecraft written in Rust that allows easy sharing of modpacks with your friends using TOML.
+- https://github.com/piuvas/velvet
+    - minecraft performance mod installer.
+- https://github.com/Seercat3160/fedimoji
+    - Custom emojis in Minecraft, using a server-provided resource pack
+- https://github.com/shiroyashik/sculptor
+    - Unofficial backend for minecraft mod Figura
+- https://github.com/Skidamek/Redstoh
+    - ⚡ Redstoh is a peer-2-peer Minecraft mod that "just works"
+- https://github.com/Skywalker8510/ModAutoUpdates
+    - Automaticly update mods for minecraft servers from the command line.
+- https://github.com/szeweq/mc-repack
+    - A Minecraft mod repacking tool to optimize size and loading speed of mods.
+- https://github.com/Thijzert123/packrinth
+    - A CLI tool for creating and maintaining your own Minecraft modpack
+- https://github.com/Ticxo/Model-Engine-Wiki
+    - A Minecraft plugin which allows you to create mod-like models for your mobs.
+- https://github.com/tn-lorenz/PumpkinSoup
+    - A simple Soup-PvP Plugin for the Pumpkin Minecraft Server.
+- https://github.com/wgpu-mc/wgpu-mc
+    - Rust-based replacement for the default Minecraft renderer
+
+- https://github.com/FrederoxDev/Amethyst
+    - Native C++ modding framework for Minecraft Bedrock Edition, for building client-side mods
+- https://github.com/JohnTheCoolingFan/mrpack-downloader
+    - Download Modrinth modpacks from mrpack files
+- https://github.com/ink0rr/rgl
+    - Fast and efficient Minecraft Bedrock Addon Compiler

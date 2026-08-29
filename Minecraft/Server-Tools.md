@@ -1,0 +1,142 @@
+## A list of Minecraft Server Management, Monitoring, and CLI Tools
+
+- https://github.com/aaronlindsay879/minecraft_status
+    - Simple webserver to display status of a minecraft server
+- https://github.com/ALinuxPerson/flightless-smc
+    - Manage a (dockerized) Minecraft server through Minecraft
+- https://github.com/andria-dev/minecraft-server-cli
+    - An interactive CLI designed to make running your Minecraft server easier.
+- https://github.com/arexon/haze
+    - 🌆 Dead simple world management tool for Minecraft Bedrock
+- https://github.com/aroncondosas/host-craft
+    - Host Craft is a personal project which tries to eliminate the need of understanding how to run a Minecraft Server.
+- https://github.com/Asapin/cloud_minecraft
+    - Dockerized minecraft server with custom admin panel
+- https://github.com/ateijelo/mcl
+    - Command line tools for Minecraft
+- https://github.com/benjamin-l-Renz/SubstrateMC
+    - The foundation of modern Minecraft Server panels
+- https://github.com/booleancoercion/ferrisquery
+    - A simple discord bot that will query your minecraft server and allow administrators to run commands without having to log in.
+- https://github.com/chrisvrose/mcdisco
+    - Manage a minecraft server from a Discord Server
+- https://github.com/Cldfire/mc-server-wrapper
+    - Lightweight Minecraft server wrapper binary for Discord chat bridge + enhanced management tools
+- https://github.com/CoderCharmander/rustone
+    - A Minecraft server manager, written in Rust.
+- https://github.com/connorslade/minecraft-discord-interface
+    - 🔥 Minecraft Discord Interface
+- https://github.com/cornbobtheone/minecraft-relay
+    - A Minecraft (Java Edition) LAN game relay
+- https://github.com/deniz-blue/mcman
+    - Powerful Minecraft Server Manager CLI. Easily install jars (server, plugins & mods) and write config files. Docker and git support included.
+- https://github.com/destruc7i0n/rust-bedrock-server-status
+    - Minecraft Bedrock server status in Rust
+- https://github.com/devwckd/rust-craft
+    - A collection of crates to make minecraft development (client, server) with rust possible.
+- https://github.com/Dolfirobots/ServerRawler
+    - ServerRawler is a Minecraft Server Crawler, written in Rust; [Dirty coded]
+- https://github.com/Duckulus/mc-honeypot
+    - Minecraft Server Scanner Honeypot
+- https://github.com/EbonJaeger/dolphin-rs
+    - Connects your Minecraft server chat to Discord
+- https://github.com/epic123123/Minecraft-Server-Scanner
+    - A internet-wide Minecraft server scanner.
+- https://github.com/ErrorNoInternet/minefetch
+    - Ping Minecraft servers from your terminal
+- https://github.com/flipbit03/minebot
+    - Minecraft Discord Bot in Rust
+- https://github.com/Funtimes909/ServerSeekerV2
+    - [MIRROR] Blazingly fast Minecraft server scanner written in rust, rewrite of the original ServerSeeker with more features and way faster!
+- https://github.com/genkii/SubstrateMC
+    - The foundation of modern Minecraft Server panels
+- https://github.com/GiyoMoon/EVE
+    - Discord bot which pipes a Minecraft server into a Discord channel
+- https://github.com/Greggster990/minecraft_manager
+    - Automated uptime manager for minecraft.
+- https://github.com/Guibi1/Nylium
+    - A lightweight Minecraft server GUI for Rust-based Minecraft server implementations.
+- https://github.com/jeremylvln/Shulker
+    - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
+- https://github.com/kiwiyou/craftping
+    - Minecraft Server List Ping in Rust
+- https://github.com/KizzyCode/MinecraftWebhook-rust
+    - A webhook to trigger predefined minecraft commands
+- https://github.com/kotatsuyaki/minecraft-telegram-bot
+    - Telegram bot that unifies in-game chat and group chat
+- https://github.com/kubastick/Minecraft-Discord-Alerts
+    - External Minecraft server monitor with Discord webhook notifications for player joins/leaves and server status changes
+- https://github.com/LGY07/ToyMine
+    - A toy for managing Minecraft server.
+- https://github.com/lnrtech/mc2me
+    - TCP forwarder for Minecraft servers
+- https://github.com/Lodestone-Team/lodestone
+    - A free, open source server hosting tool for Minecraft and other multiplayer games
+- https://github.com/louboecker/minecraft-exporter
+    - Track playercount of your favorite Minecraft Servers and write them to a time-series database
+- https://github.com/ltheinrich/webuniverse
+    - Webinterface for Minecraft servers (unmaintained)
+- https://github.com/MagicTeaMC/Minecraft-server-auto-setup
+    - Manage Minecraft server / proxy / plugins quickly and easily!
+- https://github.com/max-ishere/mcbe-lan-advertizer
+    - Minecraft Bedrock LAN Advertizer
+- https://github.com/mcjars/mcvcli
+    - mcvcli is a command-line tool for managing Minecraft server versions.
+- https://github.com/mcjars/www
+    - A simple website that lets you choose from all minecraft server jars of various providers.
+- https://github.com/MGlolenstine/open2internet
+    - A UPnP client for portforwarding Minecraft LAN worlds.
+- https://github.com/MHanak1/mcmanager
+    - A Minecraft server manager written in Rust
+- https://github.com/mkihr-ojisan/minecraftd
+    - Minecraft Server Manager
+- https://github.com/mxcop/minecraft-lan
+    - Minecraft LAN multicast scanner
+- https://github.com/Myuui/Free-Minecraft-Hosts
+    - Free Minecraft Hosting List aka. FMHL
+- https://github.com/NameOfShadow/rust-mc-status
+    - High-performance asynchronous Rust library for querying Minecraft server status (Java & Bedrock)
+- https://github.com/nicdgonzalez/celestia
+    - Linux command-line utility for managing locally-hosted Paper Minecraft servers.
+- https://github.com/nikhiljha/mycelium
+    - deploy planet-scale Minecraft server networks on Kubernetes
+- https://github.com/nix-community/mineflake
+    - Declarative Minecraft server in NixOS [unmaintained]
+- https://github.com/not-nullptr/waitress
+    - Minecraft hosting for the modern day.
+- https://github.com/notKimu/bakapanel
+    - A Minecraft network administration panel
+- https://github.com/NucleoidMC/server-wrapper
+    - Minecraft server wrapper with support to load artifacts from GitHub actions
+- https://github.com/PfisterFactor/minecraft-watcher
+    - A little command line program I whipped up to monitor my EC2 Minecraft Server and allow players to automatically start it when they wanted to play, then shut it down after a set time.
+- https://github.com/prushton2/minecraft-console
+    - A TUI console for monitoring a minecraft server. Includes chat, commands, player lists.
+- https://github.com/randomairborne/mcping
+    - Boring minecraft server pinger.
+- https://github.com/ReinoutA/mc-server-finder
+    - High-performance scanner for discovering hidden Minecraft servers across the internet with Discord integration.
+- https://github.com/rewrite/mcpot
+    - A somewhat configurable honeypot for Minecraft.
+- https://github.com/saltire/rmapbash
+    - Minecraft map renderer, written in Rust.
+- https://github.com/Shrecknt/minecraft-utilities
+    - A set of utilities for interacting with minecraft servers.
+- https://github.com/sleepingzzs/mcServerRemote
+    - A web remote for your minecraft server. Just host the site on vercel, setup the bash script and let your friends start your self-hosted minecraft server with a single button click!
+- https://github.com/spraints/minecraft-server-advertiser
+    - Advertise a Minecraft Server on your LAN
+- https://github.com/syusui-s/mcnotify-rust
+    - Minecraft status notifier
+- https://github.com/TgZ39/automc
+    - A CLI tool for downloading Minecraft server software
+- https://github.com/thesamgordon/Minecraft-Server-Installer
+    - A quick and easy way to download a Minecraft server.
+- https://github.com/timvisee/lazymc
+    - 💤 Put your Minecraft server to rest when idle.
+- https://github.com/tropicbliss/cuprite
+    - A fast and simple Minecraft server backup daemon
+- https://github.com/willemml/rust-mc
+    - Minecraft server and Headless Minecraft Client written in Rust.
+- https://github.com/Xanonymous-GitHub/minecraft-log-filter
+    - A very simple minecraft log filter.
