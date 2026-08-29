@@ -2,3 +2,138 @@
 
 - https://github.com/nferhat/fht-compositor
     - Standalone Wayland compositor built with Smithay, written in Rust
+
+- https://github.com/skissue/autowc
+    - (WIP) Wayland micro-compositor for input automation based on Smithay/Smallvil
+- https://github.com/haider-IQZ/Raven
+    - Wayland compositor written in Rust because 'I'll just build it myself' seemed reasonable at 3am
+- https://github.com/lx7/monotile
+    - A small and light tiling Wayland compositor in Rust.
+- https://github.com/pshirshov/brain-damage
+    - PoC Wayland compositor which draws apps in terminal through Kitty protocol. Totally Claude'd
+- https://github.com/wegel/stilch
+    - A Tiling Wayland Compositor with Virtual Outputs
+- https://github.com/PolyMeilex/Anodium
+    - WIP Wayland Compositor
+- https://github.com/Smithay/smithay
+    - A smithy for rusty wayland compositors
+- https://github.com/MagmaWM/MagmaWM
+    - A versatile and customizable Window Manager and Wayland Compositor
+- https://github.com/ashleyirispuppy143/corrosionwm
+    - Blazing fast wayland compositor written in rust
+- https://github.com/verdiwm/verdi
+    - 🎶 The elegant Wayland compositor
+- https://github.com/pinnacle-comp/pinnacle
+    - A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
+- https://github.com/schickst/waybox
+    - Waybox is a Wayland Compositor based on wlroots written in Rust
+- https://github.com/ChromaCat248/zland
+    - A tiling Wayland compositor controlled using the mouse
+- https://github.com/portaloffreedom/rudimento
+    - wayland compositor in rust
+- https://github.com/marcelohdez/hatchlingwm
+    - Experimental Wayland compositor
+- https://github.com/neoapps-dev/Wyvern
+    - A blazingly fast Wayland compositor built with Rust
+- https://github.com/Abdillah/wl-zoomy
+    - Mini wayland compositor.
+- https://github.com/m4rch3n1ng/mayland
+    - a bad wayland compositor
+- https://github.com/MaxVerevkin/ewc
+    - Wayland compositor from scratch in Rust
+- https://github.com/ohogb/hyu
+    - A wayland compositor
+- https://github.com/StrataWM/strata
+    - A cutting-edge, robust and sleek Wayland compositor with batteries included.
+- https://github.com/mahkoh/jay
+    - A Wayland Compositor
+- https://github.com/computer-whisperer/prism
+    - Vulkan-native, HDR-native Wayland compositor with first-class color management, fp16 BT.2020 compositing, multi-GPU scanout, YUV/HDR video, and EDID-keyed display calibration.
+- https://github.com/zoir-dev/zaytun-os
+    - A Wayland compositor and desktop shell in Rust. The compositor owns the motion: springs, not durations. Battery is an architectural constraint.
+- https://github.com/recelilious/nkdhr
+    - A self-contained Linux desktop environment built around a custom Wayland compositor where windows live on an infinite pannable, zoomable canvas.
+- https://github.com/Fi3w0/TideWM
+    - A Wayland desktop that feels like water: windows ripple, sway, and drift, on top of a real tiling window manager. Built in Rust on Smithay.
+- https://github.com/TheCodeVerseHub/Codeverse-compositor
+    - An experimental Wayland compositor written from scratch with a focus on performance, modular architecture, and modern Linux desktop experiences.
+- https://github.com/Fanaperana/canvaswm
+    - An infinite canvas Wayland compositor — arrange windows freely on a zoomable 2D surface
+- https://github.com/carrot-wm/carrot
+    - A pure Rust tiling Wayland compositor with zero linked C, all the way down to the kernel.
+- https://github.com/J-x-Z/cocoa-way
+    - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
+- https://github.com/malbiruk/driftwm
+    - A trackpad-first infinite canvas Wayland compositor.
+
+- https://github.com/bosseschum/WebWM
+    - A web technology based window manager, written in Rust, configured in XML/CSS/JS
+    - Platform: Wayland
+- https://github.com/lumalla/lumalla
+    - Window manager focused on configurability
+    - Platform: not stated in description
+- https://github.com/nongio/otto
+    - A stacking window manager built around animation, gesture, and spatial interaction
+    - Platform: not stated in description
+- https://github.com/sminez/penrose
+    - A library for writing an X11 tiling window manager
+    - Platform: X11
+- https://github.com/leftwm/leftwm
+    - A tiling window manager for Adventurers
+    - Platform: X11
+- https://github.com/daniel-junior-dube/comfywm
+    - GNU/Linux tiling window manager written in Rust
+    - Platform: not stated in description
+- https://github.com/GNUqb114514/vimiwm
+    - A vim-inspired window manager written in Rust
+    - Platform: not stated in description
+- https://github.com/TheNerdyHamster/tnh-wm
+    - Personal window manager written in Rust with Penrose
+    - Platform: X11 (built on Penrose)
+- https://github.com/Drakulix/fireplace
+    - Modular Wayland window manager written in Rust
+    - Platform: Wayland
+- https://github.com/w8ste/HippoWM
+    - X window manager written in Rust
+    - Platform: X11
+- https://github.com/justdprroz/rtwm
+    - DWM-like window manager written in Rust
+    - Platform: not stated in description
+- https://github.com/FelixSchladt/OxideWM
+    - X11 dynamic tiling window manager written in Rust
+    - Platform: X11
+- https://github.com/Kintaro/wtftw
+    - Window Tiling For The Win - a tiling window manager written in Rust
+    - Platform: not stated in description
+- https://github.com/MemerGamer/raklap
+    - Wayland-compatible tiling window manager written in Rust
+    - Platform: Wayland
+- https://github.com/FyraLabs-Graveyard/electrum
+    - A window manager and compositor for the Quicksilver project
+    - Platform: Wayland-only
+- https://github.com/StarWM/StarWM
+    - Extensible, floating and tiling window manager for Linux-based operating systems, written in Rust
+    - Platform: X11
+- https://github.com/Walker-00/sswm
+    - Minimal, flexible & user-friendly tiling window manager written in Rust
+    - Platform: both X11 and Wayland
+
+- https://github.com/Ella-0/warvk
+    - WAyland Rust VulKan compositor
+    - Platform: Wayland
+- https://github.com/TheHolyVeil/veilTDC
+    - lightweight compositor on wayland for running nested compositors and being nested. lightweight on 30mb of ram.
+    - Platform: Wayland
+
+- https://github.com/playfairs/YaWC
+    - Mirror of the YaWC Compositor Core
+
+- https://github.com/chc4/gallium
+    - Dynamic Rust window manager, inspired by wtftw and spectrwm
+    - Platform: likely X11 (inspired by X11 WMs wtftw/spectrwm), not explicitly stated
+
+- https://github.com/arlenos/compositor
+    - Arlen compositor - a cosmic-comp fork wired into the Arlen event bus and shell overlay protocol
+
+- https://github.com/hyprland-rs/hyprland-rs
+    - Claims to be "The Best Wayland Compositor, rewritten in Rust" (note: this is a different repo than hyprland-community/hyprland-rs, the real Hyprland IPC/bindings library already listed in Hyprland/Libraries.md - this one reads as a joke/troll repo, kept here per request)

@@ -16,3 +16,54 @@
     - Made with ??
 - https://github.com/gjabell/ingot
     - Made with ??
+
+- https://github.com/bmiww/shaderbar
+    - A status bar for wayland-based desktops, styled by writing your own shaders :D
+- https://github.com/Wem-o/rusty-bar
+    - A material looking wayland status bar written in rust and iced.
+- https://github.com/REALERvolker1/halobar
+    - A rusty, ice-cold statusbar for Wayland
+- https://github.com/HaruNashii/Icebar
+    - Icebar is a lightweight, Wayland status bar written in Rust, powered by iced and iced-layer-shell.
+- https://github.com/shantanubaddar/oxidebar
+    - A light-weight status bar for Linux made using entirely in Rust.
+- https://github.com/KoenTech/koekbar
+    - A minimal Wayland status bar written in Rust
+- https://github.com/The-Briel-Deal/gf-bar
+    - Wayland Status Bar Written in Rust.
+- https://github.com/sickhate/meh
+    - GTK4 Wayland status bar and widget system - reactive bindings, system tray, declarative animations (fork of eww)
+- https://github.com/prankstr/vibepanel
+    - GTK4 panel for Wayland with notifications, OSD, and quick settings - between a status bar and a desktop shell
+- https://github.com/Huddledhermit/starbar
+    - 🌟Status bar and startmenu for wayland compositors
+- https://github.com/danieldg/rwaybar
+    - A taskbar for wayland compositors.
+- https://github.com/BKSalman/YarrBar
+    - a top bar for wayland compositors written in Rust & Smithay
+- https://github.com/byhowe/coreshell
+    - Simple status bar for Wayland compositors.
+- https://github.com/elijahimmer/wlrs-bar
+    - Wlrs Bar: A Wayland Status Bar in Rust based on Smithay
+
+- https://github.com/thelonesomeprogrammer/rusty-bar
+    - A simple icon loving bar for wayland
+    - Platform: Wayland
+- https://github.com/VirtCode/liischte
+    - a blazingly fast wayland bar for my personal use
+    - Platform: Wayland
+- https://github.com/tukanoidd/rbar
+    - Rusty wayland bar based on iced_layershell
+    - Platform: Wayland
+- https://github.com/doleckijakub/ruwabar
+    - A wayland bar written in rust
+    - Platform: Wayland
+- https://github.com/lacarthur/widgets
+    - A very simple bar for Wayland made with iced.
+    - Platform: Wayland
+- https://github.com/4q4r/Ferrite
+    - Ferrite — a magnetically attractive sway bar. Near-zero CPU, fully TOML-configurable, written in Rust.
+    - Platform: Wayland
+- https://github.com/Gigas002/abar
+    - minimalistic wayland-native lightweight bar
+    - Platform: Wayland

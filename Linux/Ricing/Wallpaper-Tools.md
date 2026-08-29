@@ -6,3 +6,82 @@
     - Wallpaper engine using wlr-layer-shell
 - https://github.com/nikolaizombie1/waytrogen
     - Wallpaper setter for Wayland (nitrogen-style), GUI
+
+- https://github.com/Walker-00/reh
+    - live wallpaper.
+- https://github.com/Shizcow/smatrix
+    - "The Matrix" terminal wallpaper but it's live updating stock prices
+- https://github.com/larry-oates/doomfire-wallpaper
+    - Rust based live doom fire wallpaper for my arch setup
+- https://github.com/jaslrobinson/lava
+    - LAVA - Live Animated Visuals for Arch. Desktop live wallpaper engine with formulas, animations, and widgets.
+- https://github.com/hojjatabdollahi/glowberry
+    - An enhanced background/wallpaper service with live shader support for COSMIC DE
+- https://github.com/yadokani389/bevy_live_wallpaper
+    - A Bevy plugin to create live wallpapers.
+- https://github.com/Marck-G/wallman
+    - Wallman is a wallpaper management application designed for Sway / Wayland environments, focused on flexibility, simplicity, and future extensibility.
+- https://github.com/TKasperczyk/sentinel
+    - An intelligent live wallpaper for Wayland that reacts to your screen content
+- https://github.com/SamPertWasTaken/GPUBurden
+    - Shader-based wallpapers for Wayland, burdening your GPU with fancy animations.
+- https://github.com/Prepodobnuy/rpaper
+    - wallpaper setter & color palette generator written on rust
+- https://github.com/Nikitf777/wgpaper
+    - A GPU-accelerated Wayland wallpaper utility with custom shader support
+- https://github.com/chikof/momoi
+    - Yet another wayland wallpaper daemon
+- https://github.com/NaviHX/pwwwd
+    - Phillips's wgpu-based Wayland wallpaper daemon
+- https://github.com/YangYuS8/lwe
+    - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
+- https://github.com/Mjoyufull/Kaleidux
+    - Kaleidux is a high-performance, dynamic wallpaper daemon for Linux, supporting both Wayland (via Layer-Shell) and X11. It transforms your desktop with smooth, hardware-accelerated transitions between images and videos.
+- https://github.com/PandorasFox/pandora
+    - wayland wallpaper daemon that can bind to compositor IPC for dynamic scrolling
+- https://github.com/hack3rmann/waywe-rs
+    - Wallpaper engine built for Wayland written in Rust.
+- https://github.com/TornaxO7/vibe
+    - A desktop audio visualizer and shader player for your wayland wallpaper!
+- https://github.com/danyspin97/wpaperd
+    - Modern wallpaper daemon for Wayland
+- https://github.com/LGFae/swww
+    - A Solution to your Wayland Wallpaper Woes
+- https://github.com/hasnocool/rusty_wallhaven_browser
+    - A user-friendly web browser extension that allows users to browse and download wallpapers from Wallhaven.cc using the egui library in Rust.
+- https://github.com/yewvw/wvw
+    - Wayland video wallpaper
+- https://github.com/JSKitty/wallpape.rs
+    - A simple GUI wallpaper manager written in Rust.
+- https://github.com/vineetred/flowy
+    - A lean, privacy-preserving dynamic wallpaper changer written in Rust.
+- https://github.com/JaberChowdhury/wallmod
+    - Wallmod is a comprehensive, blazing-fast desktop wallpaper management, image processing, and color-grading suite built in Rust.
+- https://github.com/CPT-Dawn/Vellum
+    - Rust-powered Wayland wallpaper manager with daemon + TUI, playlist automation, favorites, previews, and session-safe startup via systemd or XDG autostart.
+- https://github.com/omaku2006/vivid-engine
+    - A Wallpaper Engine for Wayland in Linux that can set Images & Video as wallpaper & it's very Lightweight!
+- https://github.com/ShevelievS/wpick
+    - Native Wayland live wallpaper manager for Wallpaper Engine, written in Rust
+- https://github.com/programmersd21/wallr
+    - gpu accelerated animated wallpaper engine for wayland
+- https://github.com/MKSG-MugunthKumar/wallflow
+    - Elegant wallpaper manager with smooth transitions, daemon mode, and multiple sources. Supports Linux (Wayland/X11) and macOS.
+- https://github.com/0xk1f0/rwpspread
+    - Multi-Monitor Wallpaper Spanning Utility
+- https://github.com/callmenoodles/livelayer
+    - Web wallpaper utility for Wayland compositors
+- https://github.com/mremehr/FrostWall
+    - Intelligent wallpaper manager with screen-aware aspect ratio matching for Wayland compositors
+- https://github.com/hbatagelo/shaderbg
+    - Utility to render shaders as live wallpapers on Wayland compositors
+- https://github.com/MarkusVolk/hyprwall
+    - GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh. Written in blazingly fast Rust! 🚀🦀
+- https://github.com/rajchauhan28/WallLust
+    - 🎨 A modern, aesthetically pleasing wallpaper daemon and GUI for Wayland/Hyprland. Features smooth transitions, mpv-powered video wallpapers, and seamless Pywal color scheme integration.
+- https://github.com/HypaperEngine/hypaper-engine
+    - Native animated wallpaper engine for Hyprland — Rust, wgpu, Wayland
+- https://github.com/AnatolyRugalev/hyprwallhaven
+    - Hyprland wallhaven integration
+- https://github.com/jeffshee/hidamari
+    - Video wallpaper for Linux. Written in Python. 🐍

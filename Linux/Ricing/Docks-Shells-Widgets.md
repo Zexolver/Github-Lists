@@ -9,3 +9,110 @@
 - https://github.com/NetVar1337/vibe-island
     - Floating "dynamic island" style notch panel (monitors AI coding sessions), Rust + React/TS
     - Not strictly a ricing tool, but a floating desktop widget
+
+- https://github.com/42Pupusas/tear
+    - A simple dock application using wayland and niri.
+- https://github.com/y0usaf/nur
+    - GPU-accelerated Lua-scriptable Wayland desktop shell
+- https://github.com/vnuxa/astrum
+    - a desktop shell that depends on libcosmic, and is configured with lua
+- https://github.com/waydeerwm/layer-shika
+    - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
+- https://github.com/semanavasco/waypane
+    - A declarative, Lua-configurable desktop shell framework for Wayland.
+- https://github.com/kyleconciso/syd
+    - Event-driven state manager/backend for custom desktop shells
+
+- https://github.com/viewerofall/woven
+    - Global overview program for window managers on wayland with x11 support built into it
+    - Platform: Both X11 and Wayland
+- https://github.com/iondodon/witcher
+    - Wayland Alt+Tab window switcher
+    - Platform: Wayland
+- https://github.com/CodedNil/cantus
+    - A beautiful interactive music widget for wayland
+    - Platform: Wayland
+- https://github.com/dashu041120/rspin
+    - A GPU-accelerated, native Wayland desktop overlay image viewer. Features wlr-layer-shell support, real-time opacity control, context menus.
+    - Platform: Wayland
+- https://github.com/ishrut/raclettui
+    - Build terminal-themed wayland layer shell applications with Rust.
+    - Platform: Wayland
+- https://github.com/tsukinaha/yoake
+    - keypresses layer shell for wayland
+    - Platform: Wayland
+- https://github.com/id3v1669/iwwc
+    - Iced Wayland Widget Center
+    - Platform: Wayland
+- https://github.com/pinnacle-comp/snowcap
+    - A Wayland widget system built for Pinnacle
+    - Platform: Wayland
+- https://github.com/way-edges/way-edges
+    - Light weight wayland client focusing on widgets hidden in your screen edge.
+    - Platform: Wayland
+- https://github.com/justbechill/clockem
+    - Clock and other desktop widgets for Wayland.
+    - Platform: Wayland
+- https://github.com/BL-CZY/dvvidget
+    - A widget system that works under wayland written in Rust 🦀
+    - Platform: Wayland
+- https://github.com/rodolfocamara/battery-widget
+    - Floating battery widget for earbuds, keyboard and mouse. One small Rust binary, identical on Windows and Linux (Wayland/layer-shell) — 6 MB RSS, no UI framework.
+    - Platform: Wayland
+- https://github.com/Gigas002/trayd
+    - minimalistic wayland tray daemon wrapper around dbus for usage in tray-related applications, like bars
+    - Platform: Wayland
+- https://github.com/l-const/shortcuts-overlay
+    - A shortcuts overlay for wayland desktops supporting the wlr-layer-shell protocol.
+    - Platform: Wayland
+- https://github.com/nikooozzz/widget-engine
+    - A minimal, low-overhead Wayland desktop widget engine.
+    - Platform: Wayland
+- https://github.com/Just-Code-NET/PolterType
+    - Detects typing in the wrong keyboard layout, switches it and fixes the word. Tray app for Windows · macOS · Linux (Wayland & X11). Pure Rust, zero telemetry.
+    - Platform: Both X11 and Wayland
+- https://github.com/ryanabx/rbshell
+    - A compositor agnostic panel for wayland desktops
+    - Platform: Wayland
+- https://github.com/wayle-rs/wayle
+    - Wayland Elements -  A compositor agnostic shell with extensive customization
+    - Platform: Wayland
+
+- https://github.com/Inparsian/gray-meadows-shell
+    - An over-engineered Rust GTK desktop shell with an AI assistant that can shut down your computer
+    - Platform: not stated in description (GTK-based)
+- https://github.com/wuliuqii/mgs
+    - My Gpui Shell - a Wayland desktop shell built with GPUI
+    - Platform: not stated in description (GPUI-based, likely Wayland)
+
+- https://github.com/Julien-cpsn/desktop-tui
+    - A desktop environment without graphics
+    - Interface: TUI, no display server required
+
+- https://github.com/Wachamuli/morpheus
+    - Desktop environment built using the EWW library
+    - Platform: not stated in description
+
+- https://github.com/chiyuki0325/lyrica
+    - Linux desktop lyrics widget focused on simplicity and integration
+- https://github.com/glzr-io/zebar
+    - A tool for creating customizable and cross-platform taskbars, desktop widgets, and popups
+
+- https://github.com/elkowar/eww
+    - ElKowars wacky widgets - a widget system for Wayland/X11
+
+- https://github.com/stelleritehq/shell
+    - The Stellerite Shell, made in Rust, Slint & OpenGL
+    - Platform: not stated in description
+- https://github.com/supermarsx/liquide
+    - LiquiDE - a remote-first desktop environment
+- https://github.com/cybershaman666/Shaman-DE
+    - Shaman Desktop Environment
+- https://github.com/Elvyria/Caffi
+    - A simple widget calendar for Linux
+- https://github.com/Ewwii-sh/ewwii
+    - Eww rewrite with focus on extensibility, simplicity, and power
+- https://github.com/VimYoung/Spell
+    - Make desktop widgets with a scripting/plugin system
+- https://github.com/Julio0Cesar/lyricslens
+    - Synced lyrics overlay for Linux - reads MPRIS, fetches from LRCLIB, floats above any window

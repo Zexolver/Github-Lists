@@ -16,3 +16,86 @@
     - Another keybind hub/cheatsheet tool
 - https://github.com/FieldofClay/hyprland-workspaces
     - Workspace indicator widget/module for Hyprland
+
+- https://github.com/kazuha046/discord-dynamic-status-wayland
+    - Dynamic Discord Rich Presence based on active Hyprland / Niri windows
+- https://github.com/OneNoted/nighterrors
+    - Ultra-light Rust Wayland blue-light filter daemon for Hyprland/Niri and wlroots compositors
+- https://github.com/44David/hyprwindow
+    - Minimal application switching for hyprland workspaces
+- https://github.com/fedeMaidana/hyprbar
+    - A minimalist, highly customizable Wayland status bar written in Rust using SCTK.
+- https://github.com/danyspin97/waysettings
+    - A settings center for Wayland based WM (sway, hyprland, etc...)
+- https://github.com/rafaelzimmermann/trebuchet
+    - An application launcher for Hyprland/Wayland.
+- https://github.com/spinualexandru/hyprsnow
+    - Snow for Hyprland made in Rust
+- https://github.com/andre-brandao/gpui-shell
+    - Wayland desktop shell and status bar in Rust with GPUI, featuring a modular bar, launcher, and control center for Hyprland and Niri.
+- https://github.com/111nation/hyprclock
+    - A simple clock widget for Linux! (Also Windows and MacOS)
+- https://github.com/Abishek-Pechiappan/status_Bar
+    - A highly customizable Wayland status bar for Hyprland built in Rust featuring a modular widget system, deep IPC integration, advanced ricing, power-user system monitoring, and a future visual layout editor.
+- https://github.com/Amitminer/HyprUtility
+    - Personal Hyprland utilities for my Arch Linux setup — modular Rust workspace, single hyprcli binary
+- https://github.com/jacquesh82/hyprdmc
+    - Hypr Dynamic Monitor Configuration — detect, position, rotate and flip your Hyprland displays from a CLI or a browser, with automatic hotplug profiles.
+- https://github.com/IoannisNezis/hyprmon
+    - Hyprland monitor manager — visual drag-and-drop layout editor built with Rust and iced
+- https://github.com/Rise-zen/astrium
+    - Wallpaper-driven Material You theming for Linux — instant palettes for kitty, Hyprland, Neovim, cava and Quickshell. Rust + Nix.
+- https://github.com/CPT-Dawn/Zenith
+    - Zenith is a fast, native Wayland status bar for Hyprland, built in Rust with GTK4 and layer-shell.
+- https://github.com/Vega-0b1/hypr-relay
+    - Hyprland daemon that bridges system events to your notification daemon
+- https://github.com/dhruvkumar1805/nekopet
+    - A desktop pet cat for Hyprland and wlr-based Wayland compositors. Sits as a transparent overlay, reacts to keyboard input, and can be dragged anywhere on screen. Built in Rust.
+- https://github.com/simonwinther/breakd
+    - Lightweight Wayland-native break reminder for Hyprland.
+- https://github.com/yugaaank/shy
+    - Auto-hide floating windows for Hyprland — switch to tiled, they vanish; switch back, they're instantly restored
+- https://github.com/MasonRhodesDev/linux-multi-theme-toggle
+    - High-performance async theme switching for Hyprland/Wayland desktops with Material You color schemes
+- https://github.com/sashetophizika/hyprscratch
+    - Improved scratchpad functionality for Hyprland
+- https://github.com/zedddie/ctvtcntr
+    - Simple Hyprland activity counter written in Rust (blazingly fast btw)
+- https://github.com/khalid151/hypr-window-rules
+    - Hyprland window rules in YAML.
+- https://github.com/filipechagas/hyprchoosy
+    - Smart browser router for Hyprland
+- https://github.com/rosymati/pipfloat
+    - 🪟 Force Firefox Picture-in-Picture windows to always float under hyprland
+- https://github.com/cvusmo/hyprclock
+    - A sleek and customizable clock widget for your desktop, designed to seamlessly integrate with Hyprland and enhance your workflow with real-time time display and flexible theme support.
+- https://github.com/franlol/hyprscreen
+    - A first-class screenshot and screen-recording app built for Hyprland.
+- https://github.com/Iprime111/RsBar
+    - Simple status bar for hyprland, written in Rust  🦀⚡
+- https://github.com/vincbro/nest
+    - An adaptive window placement daemon for Hyprland. Uses heuristic learning to automate workspace management dynamically.
+- https://github.com/tumrin/hyprland-focused-booster
+    - Active application VRAM booster for Hyprland
+- https://github.com/BitYoungjae/ChalKak
+    - Preview-first screenshot tool for Wayland + Hyprland  with a lightweight built-in annotation editor.
+- https://github.com/typester/hyprtag
+    - Tag based window management for Hyprland
+- https://github.com/Da4ndo/hyprproxlock
+    - A proximity-based daemon for Hyprland that triggers screen locking and unlocking through hyprlock based on Bluetooth device proximity.
+- https://github.com/BikramGole/hyprland-cava-underlay
+    - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
+- https://github.com/ThiagoAVicente/hyprexpose
+    - Lightweight workspace overview for hyprland. Shows active workspaces with real window thumbnails, navigate with keyboard, press Enter to switch.
+- https://github.com/rhythmcreative/rust-dock
+    - A rust dock for Hyprland
+- https://github.com/x34-dzt/xwlm
+    - A TUI for managing Wayland monitor configurations (Hyprland, Sway, River)
+
+- https://github.com/sxndmxn/circadian-plus
+    - Solar-aware color temperature scheduler for hyprsunset
+
+- https://github.com/jondkinney/hyprcorrect
+    - Hyprland-first keyboard-driven spelling/typo corrector
+- https://github.com/Zeus-Deus/diskord
+    - A fast, intuitive TUI storage manager for Omarchy (Arch Linux + Hyprland)

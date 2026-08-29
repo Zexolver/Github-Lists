@@ -10,3 +10,659 @@
     - On-screen keypress visualizer
 - https://github.com/Itz-Agasta/metrocity
     - Terminal screensaver (animated pixel-art scenes on idle), written in Rust
+
+- https://github.com/inker0/wl-termshot
+    - A TUI screenshot tool on Wayland
+- https://github.com/piny4man/crabture
+    - Standalone Linux screenshot tool written in Rust. No external dependencies required — works on both X11 and Wayland.
+- https://github.com/Kirottu/watershot
+    - A simple wayland native screenshot tool.
+- https://github.com/pub-struct/ashot
+    - Agentic screenshot tool in Rust — headless JSON CLI for AI agents + CleanShot-style GPUI desktop app (Linux/Wayland)
+- https://github.com/apex-shot/apexshot
+    - ApexShot: open-source Linux screenshot tool with annotation, screen recording, OCR, QR detection, and Wayland support.
+- https://github.com/prime-run/wallrust
+    - 💥 A blazingly fast and feature-rich tool to auto theme and rice everything! based on wallpaper/image colors  | written in Rust
+- https://github.com/radiantly/alttabway
+    - An alt-tab window switcher for wayland compositors
+- https://github.com/muni-corn/cadenza-lock
+    - A simple screenlocker for wayland compositors
+- https://github.com/callmenoodles/waysaver
+    - Screensaver for wlroots-based Wayland compositors.
+- https://github.com/sysraccoon/wlrune
+    - Mouse gestures utility for wayland compositors
+- https://github.com/Jappie3/vigiland
+    - Inhibit idle behaviour of a Wayland compositor
+- https://github.com/ac5307/roguauto
+    - A lightweight power menu for Wayland compositors supporting wlr-layer-shell.
+- https://github.com/waycrate/wayshot
+    - screenshot tool for wayland compositors.
+- https://github.com/vremyavnikuda/grim-rs
+    - screenshot utility for Wayland compositors and Windows
+- https://github.com/Indra55/bezel
+    - A lightweight Rust daemon for trackpad gestures on Wayland compositor
+- https://github.com/leriart/cava-bg
+    - A high-performance audio visualizer for Wayland compositors
+
+- https://github.com/catpranks/WaywardGriffin
+    - X11 -> Wayland local display proxy (lets X11-only apps render under a Wayland session)
+
+- https://github.com/adi1090x/plymouth-themes
+    - A huge collection (80+) of plymouth (Linux boot splash) themes ported from Android boot animations
+
+- https://github.com/exilonium/KeyOverlay
+    - Show the keyboard keys and mouse overlay in wayland
+    - Platform: Wayland
+- https://github.com/emskin/zskins
+    - A small sute of Wayland desktop components
+    - Platform: Wayland
+- https://github.com/BBaoVanC/waypower
+    - Simple Wayland power management tool for wlroots-adjacent compositors (anything supporting ext-idle-notify-v1).
+    - Platform: Wayland
+- https://github.com/aarmea/shepherd-launcher
+    - Child-friendly, parent-guided Wayland desktop environment alternative that puts parents, not platforms, in control
+    - Platform: Wayland
+- https://github.com/Nikola-Milovic/locallm
+    - A small chat interface that works with Wayland, connects to a local ollama server
+    - Platform: Wayland
+- https://github.com/0xdilo/nyamote
+    - Use your phone as a wireless mouse and keyboard for Linux (wayland/x11)
+    - Platform: Both X11 and Wayland
+- https://github.com/Lowband21/subwave
+    - Wayland subsurface video playback for Iced, built on GStreamer and featuring zerocopy GPU accerated native HDR playback with cross-platform fallback.
+    - Platform: Wayland
+- https://github.com/MehmetMelik/matrix-rain
+    - Matrix-style falling character screensaver in Rust + SDL2 for Raspberry Pi / Wayland
+    - Platform: Wayland
+- https://github.com/rszyma/killa
+    - Ultra lightweight GUI process monitor for Linux desktop (X and Wayland)
+    - Platform: Wayland
+- https://github.com/yv-was-taken/miku-overlay
+    - Animated Miku APNG overlay for Helium browser on Sway/Wayland
+    - Platform: Wayland
+- https://github.com/giacomofm/clipvh
+    - Clipboard history for Wayland that I open with SUPER + V
+    - Platform: Wayland
+- https://github.com/dsociative/pinentry-egui
+    - A modern, native Wayland pinentry implementation for GPG using egui.
+    - Platform: Wayland
+- https://github.com/laveez/olsvr
+    - OLED screensaver for Wayland — fade-animated clock on pure black
+    - Platform: Wayland
+- https://github.com/quinnjr/rustky
+    - A modern conky-like system monitor for Wayland
+    - Platform: Wayland
+- https://github.com/xunuwu/waymouse
+    - a simple wayland app for simulating mouse inputs
+    - Platform: Wayland
+- https://github.com/Ind-E/waygaps
+    - Configurable hot corners and hot edges for wayland
+    - Platform: Wayland
+- https://github.com/naurissteins/Kwybars
+    - Kwybars is a GTK4 based desktop audio visualizer for GNU/Linux (Wayland) that renders real-time audio bars on your screen
+    - Platform: Wayland
+- https://github.com/KukicVidan/vidan-tui-video-player
+    - A terminal-based video player (TUI) for Wayland. Beta version, no additional features yet.
+    - Platform: Wayland
+- https://github.com/destructatron/soundthemed
+    - Freedesktop sound theme daemon for Wayland desktops
+    - Platform: Wayland
+- https://github.com/creeperkafasi/abstouch
+    - Absolute input mapper for Wayland and X11
+    - Platform: Both X11 and Wayland
+- https://github.com/Jestzer/CrosshairsLinux
+    - Screen crosshair overlay for Linux (Wayland/KDE)
+    - Platform: Wayland
+- https://github.com/Xavrir/tuxtuner
+    - Wayland-native performance control for ASUS gaming laptops. GPU modes, CPU threads, refresh rates.
+    - Platform: Wayland
+- https://github.com/frnsys/vu
+    - extremely simple image viewer for wayland
+    - Platform: Wayland
+- https://github.com/stefur/wib
+    - Wayland Idle Blocker [read-only mirror]
+    - Platform: Wayland
+- https://github.com/meeusnietmeus/momand
+    - Automation daemon for Wayland monitor management
+    - Platform: Wayland
+- https://github.com/Quackdoc/EleViewr
+    - A lightweight image viewer for Wayland
+    - Platform: Wayland
+- https://github.com/shadr/opencrosshair
+    - Wayland crosshair overlay, inspired by HudSight
+    - Platform: Wayland
+- https://github.com/naokiri/wlcskk
+    - Wayland input daemon under development
+    - Platform: Wayland
+- https://github.com/AidoP/wl-protocols
+    - Wayland Protocols translated to TOML
+    - Platform: Wayland
+- https://github.com/pocalyps/shield
+    - Wayland sound volume overlay
+    - Platform: Wayland
+- https://github.com/marcelohdez/nightlight
+    - Wayland color temperature shift
+    - Platform: Wayland
+- https://github.com/xegrox/minlock
+    - Minimal lockscreen for Wayland
+    - Platform: Wayland
+- https://github.com/OldUser101/nlock
+    - Customisable, minimalist screen locker for Wayland
+    - Platform: Wayland
+- https://github.com/bhood239/DevChron
+    - A stunning TUI pommodoro timer for Hyperland/Wayland
+    - Platform: Wayland
+- https://github.com/0xPD33/sonori
+    - Sonori is a fully local STT app for Linux (Wayland).
+    - Platform: Wayland
+- https://github.com/NotAShelf/stash
+    - Wayland clipboard "manager" with fast persistent history and multi-media support
+    - Platform: Wayland
+- https://github.com/waycrate/waysip
+    - Wayland native area selector for compositors implementing zwlr_layer_shell.
+    - Platform: Wayland
+- https://github.com/Supreeeme/xwayland-satellite
+    - Xwayland outside your Wayland
+    - Platform: Wayland
+- https://github.com/wez/evremap
+    - A keyboard input remapper for Linux/Wayland systems, written by @wez
+    - Platform: Wayland
+- https://github.com/xremap/xremap
+    - Key remapper for X11 and Wayland
+    - Platform: Both X11 and Wayland
+- https://github.com/danielhe4rt/raindesk-rs
+    - RainDesk is a Tauri 2 desktop app (Rust backend + Vue.js 3 frontend) that renders animated rain over a Linux/Wayland desktop. It includes configurable rain settings and a Pomodoro timer.
+    - Platform: Wayland
+- https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit
+    - Inhibit wayland idle when computer is playing sound
+    - Platform: Wayland
+- https://github.com/waycrate/ColdLock
+    - Wayland session lock built using iced_sessionlock
+    - Platform: Wayland
+- https://github.com/DevonEvant/keyvibe
+    - KeyVibe is an app that plays keyboard sound effects globally on Wayland whenever you press a key.
+    - Platform: Wayland
+- https://github.com/Linus789/wl-clip-persist
+    - Keep Wayland clipboard even after programs close
+    - Platform: Wayland
+- https://github.com/BlankParenthesis/visualiser
+    - A low level audio visualiser program for Linux using Wayland, Vulkan, and Pipewire, written in Rust.
+    - Platform: Wayland
+- https://github.com/zeffo/glowworm
+    - bias lighting for wayland
+    - Platform: Wayland
+- https://github.com/keifufu/dimland
+    - wayland screen dimmer
+    - Platform: Wayland
+- https://github.com/Smithay/wayland-rs
+    - Rust implementation of the wayland protocol (client and server).
+    - Platform: Wayland
+- https://github.com/deliriouspork/DePk-Sensitivity-Matcher-Rust
+    - A Rust-based tool for matching mouse sensitivity between 3D games on Linux using evdev and uinput. Works on both X11 and Wayland.
+    - Platform: Both X11 and Wayland
+- https://github.com/rijverse/meowverlay
+    - 🐱 Fast, native Bongo Cat input overlay for osu! in Rust. Transparent, always-on-top, GPU-accelerated. Windows, macOS, Linux (X11 & Wayland).
+    - Platform: Both X11 and Wayland
+- https://github.com/0xPD33/attn
+    - A local attention ledger for Niri + Quickshell. Track where focus actually goes.
+    - Platform: Wayland
+- https://github.com/zvchei/hourglass
+    - A Linux screen time limiter daemon written in Rust. Hourglass enforces daily screen time limits for users on graphical sessions (X11/Wayland), with configurable warnings and automatic session termination when time runs out.
+    - Platform: Both X11 and Wayland
+- https://github.com/hamidlabs/LifeSync
+    - LifeSync — a proactive Linux/Wayland companion that plans your day, tracks time automatically, and keeps your money in an accurate transfer-aware ledger with envelope budgets.
+    - Platform: Wayland
+- https://github.com/oldnordic/aethermap
+    - Low-level Linux evdev input remapper + macro engine — human-speed macros, analog-stick response curves, layer system, COSMIC/Wayland. Iced GUI.
+    - Platform: Wayland
+- https://github.com/Peterc3-dev/eye-tracker-rust
+    - Realtime CNN-based binocular pupil/gaze tracker driving the Wayland cursor on Linux. Pure Rust + Vulkan via wgpu/burn.
+    - Platform: Wayland
+- https://github.com/MiguelLopesDel/nexora
+    - Featherweight AI overlay assistant for Linux — ask about anything on your screen, from any provider. Wayland-first.
+    - Platform: Wayland
+- https://github.com/modelmiser/mm-warp
+    - Native Wayland remote desktop for COSMIC - 4K H.264 streaming with keyboard/mouse control
+    - Platform: Wayland
+- https://github.com/clemenscodes/evglow
+    - Broadcast live keyboard state from the Linux kernel to the browser over WebSocket — no X11/Wayland required
+    - Platform: Standalone (no X11/Wayland required)
+- https://github.com/eondcom/clea
+    - Claude Listening Ear Assistant — voice-to-typing for Linux/Wayland with Whisper(CUDA)/Clova/Kakao/Google STT
+    - Platform: Wayland
+- https://github.com/caueshaze/nilock
+    - A secure, modern and customizable Wayland session locker written in Rust.
+    - Platform: Wayland
+- https://github.com/johnlepikhin/app-powerd
+    - User-level Linux daemon that saves battery by automatically freezing/throttling unfocused GUI apps via cgroup v2, with X11/Wayland support and configurable per-app rules
+    - Platform: Both X11 and Wayland
+- https://github.com/slhad/yash-app-events
+    - Linux-first Wayland HUD observation and event service for games without native telemetry APIs
+    - Platform: Wayland
+- https://github.com/knightinfected/stremio-native
+    - Native Wayland Stremio client for Linux — Rust + iced, no Electron
+    - Platform: Wayland
+- https://github.com/Gigas002/imgvwr
+    - a minimal, fast image viewer for Wayland, written in Rust
+    - Platform: Wayland
+- https://github.com/LueApp/translation
+    - AI Translate — native KDE/Wayland translator for Linux. Landing page + download + Cloudflare deploy.
+    - Platform: Wayland
+- https://github.com/jondkinney/vernier
+    - Cross-platform measurement tool written in Rust (macOS, Windows, Linux X11+Wayland)
+    - Platform: Both X11 and Wayland
+- https://github.com/mikahama/GamepadKey
+    - Map Xbox controller to keyboard and mouse on Linux (Wayland)
+    - Platform: Wayland
+- https://github.com/itsfuad/Bornika
+    - Bornika is a lightweight, secure, pure-Rust background Input Method Editor (IME) for Linux. Designed natively for modern desktop systems (like Fedora running Wayland and GNOME), it allows typing Bangla phonetically using a standard QWERTY layout.
+    - Platform: Wayland
+- https://github.com/Geisterhand-io/linux
+    - Linux screen automation tool with HTTP API and CLI. Automate any Linux app — click, type, read accessibility trees, capture screenshots. Built on AT-SPI2 for GNOME (X11 & Wayland).
+    - Platform: Both X11 and Wayland
+- https://github.com/Antosser/KeyResolve
+    - Snap Tap / SOCD-style keyboard input handling for Linux using evdev + uinput. Last-pressed-wins movement keys. Works on Wayland & games.
+    - Platform: Wayland
+- https://github.com/Jca56/Lantern-DE
+    - Linux Arch Wayland  DE
+    - Platform: Wayland
+- https://github.com/wrzonance/HonkHonk
+    - A modern, Wayland-native soundboard for Linux. Rust + Iced + Pipewire.
+    - Platform: Wayland
+- https://github.com/sreevarshan-xenoz/Linux-Link
+    - Remote desktop for Linux with Wayland streaming + KDE Connect features over Tailscale. Pure Rust, <100ms latency, no port forwarding needed.
+    - Platform: Wayland
+- https://github.com/mishl-dev/mouse-debounce
+    - Software mouse button debounce daemon for Linux (Wayland/X11).
+    - Platform: Both X11 and Wayland
+- https://github.com/burlone0/TinyTask-Linux
+    - Macro recorder for KDE Plasma on Wayland, modelled on TinyTask for Windows
+    - Platform: Wayland
+- https://github.com/SavasTanriverdi/PipeShare
+    - Seamless and event-driven application audio routing for Linux/Wayland during screen sharing.
+    - Platform: Wayland
+- https://github.com/assembledev/edgepad
+    - Touchpad edge gestures for Linux/Wayland.
+    - Platform: Wayland
+- https://github.com/marcelohdez/dim
+    - Native Wayland screen dimming tool
+    - Platform: Wayland
+- https://github.com/vincent-uden/miro
+    - A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
+    - Platform: Both X11 and Wayland
+- https://github.com/peteonrails/voxtype
+    - Voice-to-text with push-to-talk for Wayland compositors
+    - Platform: Wayland
+- https://github.com/konkitoman/autoclicker
+    - A simple linux (xorg/wayland) autoclicker!
+    - Platform: Both X11 and Wayland
+- https://github.com/satorisage/door
+    - Beautiful, security-first Wayland display manager (login manager) for Linux — a privilege-separated daemon + an animated GPU-shaded greeter. Reversible, Arch/AUR.
+    - Platform: Wayland
+- https://github.com/creonuae/matea-switcher
+    - AI-powered keyboard layout switcher для билингвов RU↔EN. Linux Wayland-first, с локальной LLM для контекстной коррекции.
+    - Platform: Wayland
+- https://github.com/GhostKellz/nvcontrol
+    - nvcontrol is a modern, fully featured NVIDIA settings manager for Linux. Think: NVIDIA Control Panel & GeForce Experience, but for Linux + Wayland.
+    - Platform: Wayland
+- https://github.com/Xuepoo/satori
+    - Wayland screen translator for manga and visual novels, designed for the Niri compositor.
+    - Platform: Wayland
+- https://github.com/pimpale/electrode
+    - A standalone and efficient status bar for Wayland compositors
+    - Platform: Wayland
+
+- https://github.com/PSeitz/lz4_flex
+    - Fastest pure Rust implementation of LZ4 compression/decompression
+- https://github.com/Freaky/Compactor
+    - A user interface for Windows 10 filesystem compression
+- https://github.com/LittleSaya/wasm-zip-stream
+    - A stream style zip compressing tool running in web browsers
+- https://github.com/ustclug-dev/brotli-dec-wasm
+    - Brotli decompressor for browsers and web workers with WASM, in about 200KB
+- https://github.com/ouch-org/ouch
+    - Painless compression and decompression in the terminal
+
+- https://github.com/moseeh/wget
+    - A Rust implementation of wget with support for concurrent downloads, website mirroring, and progress tracking
+- https://github.com/mihaigalos/aim
+    - A command line download/upload tool with resume
+- https://github.com/otavio/rsget
+    - A simple command line utility to download a remote file, similar to wget
+- https://github.com/rayylee/mwget
+    - A high-performance, multi-threaded wget implementation written in Rust
+- https://github.com/ksk001100/ruget
+    - Alternative to wget written in Rust
+- https://github.com/derniercri/snatch
+    - A simple, fast and interruptable download accelerator, written in Rust
+- https://github.com/tarunzoot/atom
+    - A download manager written in Rust
+- https://github.com/sumoduduk/terminusdm
+    - Cross platform terminal download manager
+- https://github.com/pleco-rs/Pleco
+    - A Rust-based re-write of the Stockfish Chess Engine
+- https://github.com/niklasf/shakmaty
+    - A Rust library for chess and chess variant rules and operations
+- https://github.com/jeff-pow/Titan
+    - A terminal based chess engine
+
+- https://github.com/stevenxxiu/dogky
+    - A custom Conky-like Linux system monitor written in Rust
+
+- https://github.com/orhun/kmon
+    - Linux Kernel Manager and Activity Monitor
+- https://github.com/p-e-w/hegemon
+    - A modular system monitor written in Rust
+- https://github.com/wtfutil/wtf
+    - The personal information dashboard for your terminal
+- https://github.com/gizak/termui
+    - Golang terminal dashboard library
+
+- https://github.com/woelper/oculante
+    - A fast and simple image viewer/editor for many operating systems
+- https://github.com/tu500/pavucontrolrs
+    - A TUI (curses) clone of pavucontrol, written in Rust
+    - Interface: TUI
+- https://github.com/pot-app/Selection
+    - Get the text selected by the cursor
+- https://github.com/dmyTRUEk/peeky
+    - Simple image viewer
+- https://github.com/mucahitkurtlar/pudding
+    - Dead simple mouse jiggler
+    - Platform: not stated in description
+- https://github.com/Deeerain/dvc
+    - Simple volume control panel
+    - Platform: not stated in description
+- https://github.com/karlb/termstack
+    - Terminal workflow with GUI app support (experimental)
+- https://github.com/I60R/javelin
+    - Better touchpad experience on laptops with large displays
+- https://github.com/dend/heartkelp
+    - GIF recorder for Linux
+- https://github.com/intgr/ego
+    - Alter Ego: run Linux desktop applications under a different local user
+- https://github.com/arkarmin-gg/curlio
+    - Rewriting the cURL CLI in Rust
+- https://github.com/OSSystems/EasySplash
+    - A tool for animated bootsplash screens
+
+- https://github.com/hasezoey/yt-downloader-rust
+    - A better youtube-dl/yt-dlp CLI interface
+- https://github.com/dertuxmalwieder/yaydl
+    - Yet another YouTube downloader (git mirror)
+- https://github.com/Hyde46/hoard
+    - CLI command organizer written in Rust
+- https://github.com/Misterio77/flavours
+    - An easy to use base16 scheme manager that integrates with any workflow
+- https://github.com/ismaelgv/rnr
+    - A command-line tool to batch rename files and directories
+- https://github.com/Miserlou/Loop
+    - UNIX's missing `loop` command
+- https://github.com/systemd/zram-generator
+    - Systemd unit generator for zram devices
+- https://github.com/konradsz/igrep
+    - Interactive Grep
+
+- https://github.com/chaqchase/lla
+    - A blazing fast `ls` replacement with superpowers
+- https://github.com/thomasschafer/scooter
+    - Interactive find-and-replace in the terminal
+- https://github.com/willdoescode/nat
+    - `ls` alternative with useful info and a splash of color
+
+- https://github.com/bgreenwell/xleak
+    - A fast terminal Excel viewer with an interactive TUI - full-text search, formula display, lazy loading, clipboard support
+- https://github.com/bgreenwell/lstr
+    - A fast, minimalist directory tree viewer, written in Rust
+- https://github.com/orhun/gpg-tui
+    - Manage your GnuPG keys with ease
+- https://github.com/jkfran/killport
+    - A command-line tool to kill processes and containers running on specified ports
+- https://github.com/pvolok/dekit
+    - Run multiple commands in parallel
+- https://github.com/Canop/dysk
+    - A Linux utility to get information on filesystems, like df but better
+- https://github.com/Aloxaf/silicon
+    - Create beautiful images of your source code
+- https://github.com/oxipng/oxipng
+    - Multithreaded PNG optimizer written in Rust
+- https://github.com/alexpasmantier/television
+    - A very fast, portable and hackable fuzzy finder
+- https://github.com/bensadeh/tailspin
+    - A log file highlighter
+- https://github.com/atuinsh/atuin
+    - Making your shell history magical
+- https://github.com/cantino/mcfly
+    - Fly through your shell history
+- https://github.com/ducaale/xh
+    - Friendly and fast tool for sending HTTP requests
+- https://github.com/Arcticons-Team/Arcticons-Linux
+    - A monotone line-based icon pack for Linux desktops
+- https://github.com/MolassesLover/Nordzy-icon
+    - A free and open-source icon theme for Linux desktops, using the Nord color palette
+- https://github.com/bvaisvil/zenith
+    - Zenith - sort of like top or htop but with zoom-able charts for CPU, GPU, network, and disk usage
+- https://github.com/nmp-apps/nmp-settings
+    - Settings GUI for Linux - all settings in one place, extensible with plugins
+- https://github.com/coastalwhite/lemurs
+    - A customizable TUI display/login manager written in Rust
+- https://github.com/tealdeer-rs/tealdeer
+    - A very fast implementation of tldr in Rust
+
+- https://github.com/tldr-pages/tlrc
+    - Official tldr client written in Rust
+- https://github.com/muesli/duf
+    - Disk Usage/Free Utility - a better 'df' alternative
+- https://github.com/imsnif/diskonaut
+    - Terminal disk space navigator
+
+- https://github.com/ajeetdsouza/zoxide
+    - A smarter cd command, supports all major shells
+- https://github.com/skim-rs/skim
+    - Fuzzy Finder in Rust
+- https://github.com/Umio-Yasuno/amdgpu_top
+    - Tool to display AMDGPU usage
+- https://github.com/pop-os/cosmic-osd
+    - No description available - a COSMIC desktop on-screen-display component
+- https://github.com/rust-motd/rust-motd
+    - Beautiful, useful, configurable MOTD generation with zero runtime dependencies
+- https://github.com/acarl005/toerings
+    - A clone of Conky Seamod using Tauri
+
+- https://github.com/Fierthraix/rmatrix
+    - Rust port of cmatrix
+- https://github.com/stablestud/adsorber
+    - Ad-blocker for Linux systems, purely built on POSIX-compliant shell scripts
+- https://github.com/volllly/rotz
+    - Fully cross platform dotfile manager and dev environment bootstrapper, written in Rust
+- https://github.com/pier-cli/pier
+    - A CLI to organize and run short Unix shell scripts
+- https://github.com/Jupiee/rawst
+    - Rawst is a CLI downloader, written in Rust
+- https://github.com/H-M-H/Weylus
+    - Use your tablet as a graphic tablet/touch screen on your computer
+- https://github.com/tailwags/bread
+    - A modern UEFI bootloader for the Linux kernel
+- https://github.com/starship/starship
+    - The minimal, blazing-fast, and infinitely customizable prompt for any shell
+- https://github.com/orhun/systeroid
+    - A more powerful alternative to sysctl(8) with a terminal user interface
+- https://github.com/r-darwish/alma
+    - Create Arch Linux based bootable USB drives
+- https://github.com/ngirard/lolcate-rs
+    - A comically fast way of indexing and querying your filesystem, replaces locate/mlocate/updatedb
+- https://github.com/KarsMulder/evsieve
+    - A utility for mapping events from Linux event devices
+- https://github.com/mrmekon/circadian
+    - Suspend-On-Idle Daemon for GNU/Linux power management
+- https://github.com/conundrumer/audioscope
+    - Audio visualizers true to the sound
+- https://github.com/ShadowBlip/InputPlumber
+    - Open source input router and remapper daemon for Linux
+- https://github.com/WindSoilder/hors
+    - Instant coding answers via the command line (howdoi in Rust)
+
+- https://github.com/xen0n/autojump-rs
+    - A fast drop-in replacement of autojump, written in Rust
+- https://github.com/eza-community/eza
+    - A modern alternative to ls
+- https://github.com/svenstaro/genact
+    - A nonsense activity generator
+- https://github.com/DerekCorniello/8BitBeats
+    - A terminal-based 8-bit music generator - create, customize, and replay chiptune-style music
+- https://github.com/PsychedelicShayna/jw
+    - Blazingly fast CLI filesystem traverser and multithreaded mass file hasher/hash index generator
+- https://github.com/efskap/sefr
+    - Terminal program for interactively opening search engines/parametric URLs
+- https://github.com/Jamyw7g/rmatrix
+    - Terminal-based 'The Matrix' like implementation, written in Rust
+- https://github.com/meli/meli
+    - Terminal mail client
+- https://github.com/adamsky/globe
+    - Interactive ASCII globe generator
+
+- https://github.com/Itz-Agasta/breez
+    - Lightweight screen recorder and demo editor for developers - record, add zooms and styled backgrounds
+- https://github.com/lucasly-ba/mole
+    - Teleport your cursor anywhere on your screen
+- https://github.com/TripleJumpStudios/HeadtrackRS
+    - Native headtracking for Linux
+- https://github.com/nolindnaidoo/pixelcoords
+    - Freeze your screen, mark regions, and get pixel-exact coordinates
+- https://github.com/cityji/pawpause
+    - A Pomodoro timer for the COSMIC desktop with an animated cat break-video overlay
+- https://github.com/guitaripod/recview
+    - GPU-accelerated review window for screen recordings
+- https://github.com/mika2go/Wreath
+    - Local instant replay recorder for Windows and Arch Linux, GPU-encoded and held in memory
+- https://github.com/andriidrok1/freeflow
+    - Local voice dictation with AI cleanup - Linux first, no cloud, no subscription
+- https://github.com/hpjansson/chafa
+    - Terminal graphics for the 21st century
+- https://github.com/my7bropx/SmartType
+    - System-wide autocomplete and autocorrect for Linux, implemented as an IBus input method engine
+- https://github.com/itsdevcoffee/mojovoice
+    - GPU-accelerated voice dictation for Linux & macOS, privacy-first, offline
+- https://github.com/Agzes/LBS
+    - Linux Battle Shaper - control per-process CPU usage on Linux
+- https://github.com/kristoferlund/ostt
+    - Open source voice-to-text for the terminal
+- https://github.com/SUPERCILEX/clipboard-history
+    - Ringboard - the clipboard manager for Linux
+- https://github.com/y0sif/whisrs
+    - Linux-first voice-to-text dictation tool for Wayland, X11, Niri, Hyprland & Sway
+    - Platform: both X11 and Wayland
+- https://github.com/facundopanizza/super-whisper-linux
+    - AI-powered voice to text for Linux (Hyprland/Wayland)
+    - Platform: Wayland
+- https://github.com/linuxmobile/hibiki
+    - A high-fidelity visual and auditory companion for your keystrokes
+- https://github.com/asidko/kb-panel
+    - Minimal on-screen keyboard panel for Linux
+- https://github.com/heng30/wayshot
+    - Video creation tool: video editing (AI-assisted), screen recording, streaming, and screen sharing
+    - Platform: Wayland
+- https://github.com/devmobasa/wayscriber
+    - Live overlay for drawing/annotating with zoom, hiding text, and capturing screenshots on Linux
+    - Platform: Wayland
+
+- https://github.com/uutils/coreutils
+    - Cross-platform Rust rewrite of the GNU coreutils
+
+- https://github.com/cross-rs/cross
+    - "Zero setup" cross compilation and cross testing of Rust crates
+- https://github.com/jacobdeichert/mask
+    - A CLI task runner defined by a simple markdown file
+- https://github.com/TaKO8Ki/gobang
+    - A cross-platform TUI database management tool written in Rust
+- https://github.com/pimalaya/himalaya
+    - CLI to manage emails
+- https://github.com/andrewchambers/bupstash
+    - Easy and efficient encrypted backups
+- https://github.com/jdx/fnox
+    - Encrypted/remote secret manager
+- https://github.com/alexheretic/ab-av1
+    - AV1 re-encoding using ffmpeg, svt-av1 & vmaf
+
+- https://github.com/Jkeyuk/JDbrowser
+    - A terminal SQLite database browser, written in Rust
+
+- https://github.com/jliljebl/flowblade
+    - Video Editor for Linux
+- https://github.com/Roboticela/Animator
+    - Free, open-source 3D model animation studio - import rigged models, inspect bones, author keyframe animations, export GLB (browser + desktop)
+- https://github.com/nikstur/userborn
+    - Declaratively manage Linux users and groups
+- https://github.com/hxpe-dev/kotofetch
+    - A small, configurable CLI that displays Japanese quotes in the terminal
+- https://github.com/mephesto1337/rust-tools
+    - Some small Rust utilities for Linux
+- https://github.com/github-linguist/linguist
+    - Language detection library - if your repo's language is reported incorrectly, this is why
+- https://github.com/mikemiles-dev/kronforce
+    - Automation software
+- https://github.com/GitanElyon/qst
+    - The Community Driven CLI User Script Tool
+- https://github.com/grigio/obs-cmd
+    - OBS Command Line interface for obs-websocket v5 - useful on Wayland Linux or to control OBS via terminal
+- https://github.com/jonaylor89/netbook
+    - Lightweight TUI request collection manager and runner - a Postman alternative for the terminal
+- https://github.com/blopker/codebook
+    - An unholy spell checker for code
+- https://github.com/jrnxf/thokr
+    - A sleek typing TUI with visualized results and historical logging
+- https://github.com/Doctave/doctave
+    - A batteries-included developer documentation site generator
+- https://github.com/buyukakyuz/install-nothing
+    - A terminal application that simulates installing things but doesn't actually install anything
+- https://github.com/godzie44/BugStalker
+    - Rust debugger for Linux x86-64
+- https://github.com/Daniel-Liu-c0deb0t/uwu
+    - The fastest text uwuifier in the west
+- https://github.com/gchp/iota
+    - A terminal-based text editor written in Rust
+- https://github.com/qarmin/Rusty-Linux
+    - Simple script to install the most basic Rust apps as alternatives to defaults
+- https://github.com/xmb9/anuraOS
+    - A web "OS" and development environment with full Linux emulation
+- https://github.com/maaaaz/GPartedPlusPlus
+    - The original GParted Live image with several additions
+- https://github.com/kunkunsh/kunkun
+    - An open source, cross-platform, extensible app launcher
+- https://github.com/RX0FA/raptor-cage
+    - Play games in a restricted environment that blocks access to system and network resources, for privacy/security
+- https://github.com/systemlayer/raptor-cage
+    - Play games in a restricted environment that blocks access to system and network resources, for privacy/security
+- https://github.com/Ahwxorg/Binternet
+    - A custom Pinterest frontend, made in PHP
+- https://github.com/tonsky/FiraCode
+    - Free monospaced font with programming ligatures
+- https://github.com/srsholmes/yal
+    - Yet Another Launcher
+- https://github.com/MatijaNovosel/montage
+    - A clip editor made with Tauri
+- https://github.com/VeerDev-hub/esp32-fake-virus-prank
+    - Turns an ESP32 into a fake "hacked" WiFi access point for harmless pranks
+- https://github.com/ri-char/eStrace
+    - A tool that traces system calls using eBPF
+- https://github.com/onur/cargo-license
+    - Cargo subcommand to see the license of dependencies
+- https://github.com/curlpipe/ox
+    - The simple but flexible text editor
+- https://github.com/limahigor/hyprvault
+    - A terminal-first secret manager for Linux, keeping passwords, tokens, and keyrings close to your workflow
+- https://github.com/psygreg/linuxtoys
+    - A user-friendly collection of tools for Linux
+- https://github.com/Mr-Bossman/RickASCII
+    - Rickroll in the terminal
+- https://github.com/dalance/amber
+    - A code search/replace tool
+- https://github.com/jblindsay/whitebox-tools
+    - An advanced geospatial data analysis platform
+- https://github.com/MaarifaMaarifa/series-troxide
+    - A simple and modern TV series tracker
+- https://github.com/lusingander/stu
+    - TUI explorer application for Amazon S3
+
+- https://github.com/sharkdp/hyperfine
+    - A command-line benchmarking tool - runs a given command repeatedly with warmup runs and reports timing statistics

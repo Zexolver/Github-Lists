@@ -25,3 +25,10 @@
     - Could be used to help make the new RibreChat look more polished
 - https://github.com/Cosmental/Social-Chat-V2
     - Same as V1, just a V2
+
+- https://github.com/AsertCreator/NetBlox
+    - A Roblox clone written in C#
+    - Could be useful reference for understanding/re-engineering Roblox's client-server protocol
+
+- https://github.com/Polytoria/Docs
+    - Polytoria (a Roblox-like platform) scripting API documentation

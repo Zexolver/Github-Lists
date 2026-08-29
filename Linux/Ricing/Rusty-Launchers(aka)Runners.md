@@ -28,3 +28,77 @@
     - Made with one commit, so was made closed sourced and then pushed to Github once done
 - https://github.com/zortax/zlaunch
     - Fast application launcher & window switcher for Wayland
+
+- https://github.com/SzilBalazs/portunus
+    - A keyboard-first application launcher and search tool for Wayland.
+- https://github.com/Wachamuli/lucien
+    - Lucien is a refined application launcher tailored for Linux users who demand a premium experience.
+- https://github.com/kgilmer/elbey
+    - Bare bones deskop app launcher with iced for Linux
+- https://github.com/kyoheiu/feu
+    - A minimal application launcher for tiling window managers.
+- https://github.com/thorio/gravel
+    - Cross-platform application launcher for Linux and Windows
+- https://github.com/project-gauntlet/gauntlet
+    - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- https://github.com/anyrun-org/anyrun
+    - A wayland native, highly customizable runner.
+- https://github.com/DorianRudolph/sirula
+    - Simple app launcher for wayland written in rust
+- https://github.com/crab-wm/launcher
+    - A simple and modern Crab app launcher written in Rust programming language
+- https://github.com/HaruNashii/Icelauncher
+    - Icelauncher is a lightweight, Wayland application launcher written in Rust, powered by iced and iced-layer-shell.
+- https://github.com/vst93/floter
+    - A floating terminal and app launcher - one hotkey away. macOS, Linux, Windows.
+- https://github.com/javif89/waycast
+    - A wayland native application launcher with file search, calculator, and project launching
+- https://github.com/nyadiia/tehda
+    - A launcher/menu program written in Rust for wlroots-based Wayland compositors
+- https://github.com/jiggak/waymenu
+    - Waymenu is a launcher/menu written in Rust/GTK4 for wlroots based wayland compositors inspired by wofi
+- https://github.com/zeak-z/RustRocket
+    - A Blazing fast application launcher for wlroots based wayland compositors made in rust.
+
+- https://github.com/VKKKV/Waypie
+    - A radial menu for Wayland
+    - Platform: Wayland
+- https://github.com/ArchUsr64/fzf_gui
+    - A fuzzy finder for Wayland
+    - Platform: Wayland
+- https://github.com/Misiix9/Vanta
+    - A hyper-fast, scriptable command palette for Wayland (Rust + Svelte).
+    - Platform: Wayland
+- https://github.com/Guibi1/Waystart
+    - A start menu for Wayland-based window managers
+    - Platform: Wayland
+- https://github.com/l4l/yofi
+    - yofi is a minimalistic menu for wayland
+    - Platform: Wayland
+- https://github.com/PooDoge/oxidemx
+    - Radial menu, DPI control and haptics for Logitech MX Master mice on Linux — all-Rust, Wayland-native. Began as a fork of JuhLabs/juhradial-mx.
+    - Platform: Wayland
+- https://github.com/CPT-Dawn/BaryCenter
+    - Fast, Wayland-native Rust launcher and command hub with modular runners for application search, calculations, and system actions.
+    - Platform: Wayland
+- https://github.com/zer0bav/rustcast
+    - Raycast-class Linux launcher in Rust with a built-in cybersecurity toolkit — fuzzy apps, native clipboard history, file search, cyber tools (codec/hash/JWT/CIDR/payloads/OSINT). GTK4, Wayland + X11.
+    - Platform: Both X11 and Wayland
+- https://github.com/zackham/wisp
+    - A hotkey command palette for firing quick payloads at things — native Linux/Wayland, Rust + GPUI. Pick a target, type, Enter.
+    - Platform: Wayland
+
+- https://github.com/simon-danielsson/kast-launcher
+    - A launcher for applications, scripts, and .AppImage files, built for the i3 window manager
+    - Platform: X11 (i3)
+- https://github.com/fxdave/vonal-rust
+    - Modern customizable global menu with an unlimiting plugin system, written in Rust
+
+- https://github.com/ParthJadhav/Verve
+    - A lightweight and blazingly fast launcher for accessing and opening applications, files and documents
+
+- https://github.com/szaffarano/rofi-tools
+    - Rofi extensions
+
+- https://github.com/dngulin/gpcl
+    - GamePad Controlled Launcher, written in Rust & Slint

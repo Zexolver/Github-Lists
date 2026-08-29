@@ -6,3 +6,8 @@
     - Another GUI config editor for Hyprland
 - https://github.com/olafkfreund/r-hyprconfig
     - TUI (ratatui) for editing Hyprland config, written in Rust
+
+- https://github.com/mikkurogue/hyprsettings
+    - GUI tool to help configure hyprland
+- https://github.com/KyaroruKYO/hyprland-settings
+    - Rust + GTK4/libadwaita settings app for Hyprland with 341/341 official scalar settings modeled and gated high-risk config-write support.
