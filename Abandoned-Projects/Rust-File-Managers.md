@@ -1,0 +1,46 @@
+## Rust File Managers (many small/hobby projects - good candidates for mining ideas)
+
+- https://github.com/Joao-Tolentino/FileExplorer
+    - A simple File explorer app made using rust with the Iced lib for the GUI, uses msvc toolchain in windows and opens/start in the current directory.
+- https://github.com/monokrome/mkfm
+    - A native Wayland file manager
+- https://github.com/JayanAXHF/filessh
+    - A fast and convenient TUI file browser for remote servers
+- https://github.com/spacedriveapp/spacedrive
+    - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- https://github.com/kyoheiu/felix
+    - tui file manager with vim-like key mapping
+- https://github.com/sayanarijit/xplr
+    - A hackable, minimal, fast TUI file explorer
+- https://github.com/hjylxmhzq/filego-rs
+    - A file browser based on web
+- https://github.com/CEbbinghaus/file-browser
+    - A small Rust-based SSR web file browser
+- https://github.com/triplean/hyperexplorer
+    - File Explorer in Rust and egui
+- https://github.com/alexm-dev/runa
+    - A fast and lightweight terminal file manager written in Rust
+- https://github.com/alcatraz-alf/Filane
+    - A high-performance, feature-rich dual-pane file manager written in Rust. Available in both GUI (graphical) and TUI (terminal) versions for seamless file management across Windows, Linux, and macOS.
+- https://github.com/PerkyZZ999/ZManager
+    - A fast, dual-pane file manager for Windows, built in Rust with both TUI and GUI interfaces
+- https://github.com/brainmod/heike
+    - GUI based file manager created with Rust and egui.
+- https://github.com/schctl/doseer
+    - Graphical file manager
+- https://github.com/RickyDane/CoDriver
+    - ´Blazingly´ fast file explorer.
+- https://github.com/visnkmr/filedime
+    - A High Performance File explorer made using rust for PC. Support multi-window, tabs, fzf like search, swift folder size compute, hot reload for markdown, html.
+- https://github.com/kimlimjustin/xplorer
+    - Xplorer, a customizable, modern file manager
+- https://github.com/kamiyaa/joshuto
+    - ranger-like terminal file manager written in Rust
+- https://github.com/velzie/lx
+    - a lightweight directory picker/file manager for bash, written in rust
+- https://github.com/vincent-uden/trooper
+    - A terminal file manager inpired by Ranger
+- https://github.com/ifeigen/red
+    - Terminal File Manager
+- https://github.com/slastra/hoja
+    - GPU-accelerated file manager for Linux, built with GPUI

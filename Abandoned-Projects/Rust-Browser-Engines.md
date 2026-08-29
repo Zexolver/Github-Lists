@@ -1,0 +1,186 @@
+## Toy/Hobby Web Browsers & Browser Engines Written in Rust
+#### From-scratch HTML/CSS/JS rendering engines and toy browsers - mostly learning projects, not production browsers.
+
+- https://github.com/moto-browser/moto
+    - An experimental browser based on Servo.
+- https://github.com/versotile-org/verso
+    - Mirror of https://gitlab.com/verso-browser/verso
+- https://github.com/mateolafalce/DecenwserBlockchainProgram
+    - A decentralized browser with the purpose of promoting anonymity🕶️ and the transmission of information in a public and unchangeable manner. This program has the ability to store web page data🖼️
+- https://github.com/elyas-code/grob
+    - A web browser engine written in Rust, designed to be fast, efficient, and modular.
+- https://github.com/saravenpi/calm
+    - A minimalist, privacy-focused web browser built with Rust - 18 layers of fingerprinting protection
+- https://github.com/abghim/airbrowse
+    - Extremely minimal web browser for MacOS, written in Rust with Slint UI & wry. Utilizes native web renderer WKWebView2.
+- https://github.com/SignalWalker/Construct
+    - Proof-of-Concept web browser for generic XML data instead of HTML
+- https://github.com/mamidon/newt
+    - What if we designed a web browser specifically for making desktop GUIs?
+- https://github.com/andrewabela/YetAnotherAIBrowser
+    - Yet Another AI Browser is a web browser that replaces fetching HTML content from websites with AI-generated content.
+- https://github.com/Hdpbilly/LuminaEngine
+    - webGPU, wasm based web browser world engine with web3 and AI
+- https://github.com/alyque12/lightyear
+    - Toy Web Browser Engine for learning experience. First time using Rust
+- https://github.com/rtleong/browser-engine
+    - A Rust web rendering engine able to parse a small subset of HTML and build a DOM tree, parse a small subset of CSS, perform selector matching to apply styles to elements, and format basic block layout.
+- https://github.com/carlosmndzg/ferrum
+    - Web browser layout engine from scratch written in Rust - TFG
+- https://github.com/Hugo4IT/Growser
+    - A web browser made in Godot, just because I can.
+- https://github.com/signalreason/lester-2026
+    - the web browser you didn't know you needed
+- https://github.com/sanagaya/minimal-rust-browser
+    - A minimal web browser in rust that implements a HTML parser, CSS parser, block layout formatting, and HTTP protocols
+- https://github.com/OmChillure/webbrowser
+    - A simple browser Made Using RUST , using TCP IP Listeners and Thread Pooling
+- https://github.com/SieloBrowser/sielo-core
+    - Core module of Sielo Browser. It make an interface between user interface and modules/data manipulation/web engine.
+- https://github.com/SinaBYR/astronaut
+    - a simple web browser engine written in rust
+- https://github.com/0xlax/juul
+    - Web Browser build in Rust (a toy project)
+- https://github.com/babalolajnr/webwraith
+    - A toy browser engine inspired by https://github.com/mbrubeck/robinson
+- https://github.com/vedantwpatil/Rust-Toy-Web-Engine
+    - Created a toy web engine following the Web Browser Engineering Book
+- https://github.com/samziz/neutron
+    - ⚛ An alternative Web, with browser included.
+- https://github.com/lapla-cogito/mercurius
+    - A toy web browser written in Rust
+- https://github.com/vats98754/rust-web-browser-from-scratch
+    - Since I have built an HTTP protocol server atop TCP/IP as well as a concurrent WSGI from scratch, I'm building my own web browser engine and thus web browser.
+- https://github.com/jpiggg/wave
+    - A toy web browser rendering engine
+- https://github.com/wowkster/bowser
+    - Web Browser written entirely in Rust
+- https://github.com/cLazyZombie/web-browser-engineering-rs
+    - A Rust implementation of the Web Browser Engineering book
+- https://github.com/PeterWrighten/PetersBrowserEngine
+    - A re-implementation of Web Engine by Rust.
+- https://github.com/theinfinityglitch/rusted-webkit
+    - A simple browser engine in rust
+- https://github.com/SkuldNorniern/celeris
+    - Celeris is a high-performance, ground-up browser engine designed to redefine speed, reliability, and efficiency.
+- https://github.com/sidharthk9/RustBrowser
+    - Miniature web browser with tiny parsers. Sponsored by Rust.
+- https://github.com/EthanRStokes/stokes-browser
+    - A (bad) web browser
+- https://github.com/RobertBergman/rustbrowser
+    - Web Browser written in Rust
+- https://github.com/ubugeeei/kurt
+    - Toy web browser in Rust
+- https://github.com/stanig2106/Fluxa
+    - Homemade web browser in rust
+- https://github.com/Adamlip1334/finch-browser
+    - A full featured, web engine written in Rust
+- https://github.com/huzaifah0x00/rusty-web
+    - Learning rust by making web browser.
+- https://github.com/peikfeiring/rust-browser
+    - Learning rust with the web browser engineering book
+- https://github.com/puripuri2100/sabani
+    - A toy web browser
+- https://github.com/AllMight2099/whiteboard-browser
+    - A canvas style web browser
+- https://github.com/toms74209200/tiny-browserbook
+    - Web browser implementation by Rust
+- https://github.com/remimimimimi/wbp
+    - Web browser project
+- https://github.com/cakebaker/rbrowser
+    - Following "Web Browser Engineering", using Rust to implement it
+- https://github.com/usadson/retina
+    - 🔗 Retina is a web engine ✨, written in Rust. It aims to stay close to web standards and specifications, focusing on correctness, performance, and safety.
+- https://github.com/abhishek-bhatkar/renderkit
+    - RenderKit is an experimental, ground-up implementation of a web browser rendering engine in Rust, designed to explore the intricacies of browser internals and web rendering technologies.
+- https://github.com/DitherDude/browser
+    - A webstack that uses the web:// protocol instead of http:// or https://. Inspired by face-hh's webx.
+- https://github.com/3webs-org/vector
+    - A web browser. Currently prototype-quality.
+- https://github.com/aryan-madan/Photon-Browser
+    - A minimal web browser that renders html, parses css, executes javascript.
+- https://github.com/AlexandrosLiaskos/Nous
+    - Pure mind, pure web. The best Web Browser
+- https://github.com/sswahn/browser
+    - This is a simple web browser written in Rust.
+- https://github.com/andrewjensen/skelly
+    - A bare-bones web browser
+- https://github.com/DrapNard/vulkan_browser_engine
+    - A high-performance web browser engine built with Rust and Vulkan, featuring JavaScript JIT compilation, PWA support, and advanced sandboxing.
+- https://github.com/kntt32/ferrum
+    - A browser and a rendering engine abide by WHATWG HTML living standard written by Rust
+- https://github.com/lavignes/web
+    - a hand-rolled web browser for fun
+- https://github.com/hobo0xcc/browser
+    - Web browser written in Rust
+- https://github.com/mariluski/reSearch
+    - The web browser
+- https://github.com/AustinHen/Web-Browser
+    - Written in Rust
+- https://github.com/fwcd/trails
+    - Experimental web browser and rendering engine written from scratch
+- https://github.com/Hexilee/rover
+    - A toy web browser
+- https://github.com/tathyagarg/harbor
+    - Custom web browser written from scratch in Rust
+- https://github.com/ritsource/browser
+    - A very simple web browser built from the first principles. An HTML/CSS parser, a simple view-renderer, and the networking layer.
+- https://github.com/UMASHIBA1/violet
+    - This is web browser for studying.
+- https://github.com/abhaynayar/browser
+    - Web browser research.
+- https://github.com/simonwuelker/Stormlicht
+    - The Stormlicht browser engine.
+- https://github.com/MQuy/mbrowser
+    - A toy web browser developed from scratch
+- https://github.com/face-hh/webx
+    - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+- https://github.com/inokawa/rust-browser
+    - A toy browser engine implementation with Rust.
+- https://github.com/geeknik/citadel-browser
+    - A browser engineered to obliterate tracking, crush fingerprinting, and restore user sovereignty with extreme technical precision.
+- https://github.com/arata-nvm/shigi
+    - 🧰A toy browser engine written in Rust.
+- https://github.com/hieudo-dev/chrusty
+    - Toy browser engine written with Rust
+- https://github.com/quittle/wowser
+    - An (un)impressive browser being written from scratch in Rust
+- https://github.com/Shinyaigeek/Shinyaic
+    - Shinyaic is browser made by @shinyaigeek for learning.
+- https://github.com/zaki-yama/rust-toy-browser-engine
+    - Written in Rust
+- https://github.com/lincolixavier/nami-browser
+    - A simple browser build with rust from scratch
+- https://github.com/dontpanic92/feca
+    - A web browser prototype.
+- https://github.com/hayatoito/serval
+    - An Experimental Web Browser Engine written in Rust
+- https://github.com/haojiang99/egui_browser
+    - A test web browser using rust and egui
+- https://github.com/keiya01/kamaitachi
+    - `kamaitachi` is a toy browser.
+- https://github.com/d0iasm/vulbr
+    - Toy browser on single process / thread
+- https://github.com/ZeroX-DG/moon
+    - :earth_americas: :moon: A hobby web browser developed from scratch
+- https://github.com/antoyo/titanium
+    - A keyboard-driven web browser written in Rust
+- https://github.com/hikalium/wasabi
+    - Toy web browser + OS in Rust = wasabi
+- https://github.com/maekawatoshiki/naglfar
+    - A toy web browser implemented in Rust from scratch
+- https://github.com/gosub-io/gosub-engine
+    - The Gosub browser engine
+- https://github.com/AnimeshAgarwal28/orionium
+    - A web engine written in rust 🦀.
+
+- https://github.com/OkuBrowser/oku
+    - Browse & express yourself - a web browser written in Rust
+
+- https://github.com/DioxusLabs/blitz
+    - A radically modular HTML/CSS rendering engine
+- https://github.com/servo/servo
+    - Servo - a lightweight, high-performance browser engine for embedding web technologies in applications, written in Rust
+
+- https://github.com/yazaldefilimone/webcore
+    - An experimental web render engine

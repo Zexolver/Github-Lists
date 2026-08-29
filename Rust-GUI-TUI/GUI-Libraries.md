@@ -1,0 +1,73 @@
+## Rust GUI Libraries/Frameworks
+#### Each entry notes whether it needs an external dependency (system toolkit, C library, browser/webview, etc.) to actually run.
+
+- https://github.com/RibirX/Ribir
+    - Non-intrusive GUI framework for Rust/WASM
+    - Dependency: none - has its own GPU renderer, no external system toolkit required
+- https://github.com/marc2332/freya
+    - Cross-platform and non-web GUI library for Rust
+    - Dependency: Skia (bundled via skia-safe bindings)
+- https://github.com/quinnjr/openkit
+    - A cross-platform CSS-styled UI framework for Rust with Tailwind-inspired theming, GPU-accelerated
+    - Dependency: GPU-based rendering (backend not clearly documented), no OS-native toolkit needed
+- https://github.com/AdaStaysSilly/native-ui-rs
+    - A Rust library providing UI abstractions to be implemented by different toolkits
+    - Dependency: whichever native toolkit backend you implement/use (e.g. GTK, Win32) - it's an abstraction layer, not a renderer itself
+- https://github.com/audulus/rui
+    - Declarative Rust UI library
+    - Dependency: none - custom renderer, no external toolkit
+- https://github.com/parasyte/pixels
+    - A tiny hardware-accelerated pixel frame buffer
+    - Dependency: GPU via wgpu
+- https://github.com/vizia/vizia
+    - A declarative GUI library written in Rust
+    - Dependency: GPU via wgpu/OpenGL (own renderer, no OS toolkit)
+- https://github.com/devfans/wand
+    - UI framework targeted at web canvas based web applications
+    - Dependency: runs in a web browser (canvas/WASM)
+- https://github.com/NazarK0/e172
+    - UI framework for Rust
+- https://github.com/a55uka/nozomi-ui
+    - The Nozomi main user interface, made in Rust
+- https://github.com/mrrbrilliant/origami-ui
+    - A Rust UI library
+- https://github.com/marek-g/rust-fui
+    - MVVM Rust UI Framework Library
+    - Dependency: unclear from description, renderer backend not documented
+- https://github.com/lumi-rs/lumi-ui
+    - A graphics library
+    - Dependency: likely GPU-based, backend not clearly documented
+- https://github.com/makepad/makepad
+    - Creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11, linux/opengl
+    - Dependency: none beyond the platform's native GPU driver - self-contained, no external toolkit
+- https://github.com/iced-rs/iced
+    - A cross-platform GUI library for Rust, inspired by Elm
+    - Dependency: none beyond GPU driver - uses wgpu (or a software tiny-skia renderer), no OS-native toolkit
+- https://github.com/lvgl/lv_binding_rust
+    - LVGL bindings for Rust - embedded GUI with widgets and visual effects
+    - Dependency: the LVGL C library (must be linked)
+- https://github.com/yewstack/yew
+    - Rust/Wasm framework for creating reliable and efficient web applications
+    - Dependency: runs in a web browser (WASM) - not a native desktop toolkit
+- https://github.com/lapce/floem
+    - A native Rust UI library with fine-grained reactivity
+    - Dependency: none beyond GPU driver - uses wgpu
+
+- https://github.com/specta-rs/tauri-specta
+    - Completely typesafe Tauri commands
+- https://github.com/lucasmerlin/hello_egui
+    - A collection of useful crates for egui
+- https://github.com/kvark/blade
+    - Sharp and simple graphics library
+
+- https://github.com/igorsantos07/webapp-wrappers
+    - Simple Tauri wrappers to run web applications as standalone desktop apps, independent from the main browser, with their own icons
+- https://github.com/webui-dev/rust-webui
+    - Use any web browser or WebView as a GUI, with Rust in the backend and modern web technologies in the frontend
+- https://github.com/amodm/webbrowser-rs
+    - Rust library to open URLs in the web browsers available on a platform
+
+- https://github.com/crabnebula-dev/taurify-examples
+    - Project examples for Taurify
+- https://github.com/vially/flust
+    - Flutter embedder for desktop Linux

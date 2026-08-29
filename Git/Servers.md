@@ -1,0 +1,66 @@
+## Self-Hosted Git Server Implementations (mostly Rust)
+#### Status noted per entry based on last-push date (checked 2026-08-28). Not formally archived, but several have had no commits in 1.5+ years.
+
+- https://github.com/josh-project/josh
+    - Git at scale platform
+    - Status: actively maintained (pushed 2026-08-28)
+- https://github.com/ThomasGireaudot/my_git
+    - A simple reproduction of the Git system in Rust, containing a client and a server
+    - Status: stale, no commits since 2025-02 (~1.5 years)
+- https://github.com/iapain/hippo
+    - Manage your git repo on server from CLI
+    - Status: dead, no commits since 2023-07 (~3 years)
+- https://github.com/b-dont/git-rs
+    - Rust-based git client and remote-repository hosting server
+    - Status: dead, no commits since 2023-07 (~3 years)
+- https://github.com/KwaminaWhyte/rivetr
+    - Single-binary PaaS to deploy applications from Git with minimal resource usage - think Coolify, but ~30MB RAM instead
+    - Status: actively maintained (pushed 2026-07-18)
+- https://github.com/hydroid7/gitenator
+    - A git server written in Rust
+    - Status: dead, no commits since 2023-11 (~2.75 years)
+- https://github.com/hyprstream/gittorrent-rs
+    - Distributed Git Table - Git extension, server, and Rust library
+    - Status: actively maintained (pushed 2025-09-26)
+- https://github.com/antonio-hickey/git-api
+    - API for a personal git server
+    - Status: recently active (pushed 2025-08-26)
+- https://github.com/lowlevl/furrow
+    - A git-configured git server supporting SSH
+    - Status: stale, no commits since 2024-11 (~1.75 years)
+- https://github.com/Kenttleton/grust
+    - A git client and server written in Rust
+    - Status: dead, no commits since 2022-01 (~4.5 years)
+- https://github.com/glacyr/giraffe
+    - Implementation-agnostic git server in Rust
+    - Status: dead, no commits since 2020-11 (~6 years)
+- https://github.com/ubnt-intrepid/gallium-rs
+    - [hobby] Git hosting server written in Rust
+    - Status: dead, no commits since 2017-07 (~9 years)
+- https://github.com/MWGuy/paper-git
+    - Fast and lightweight git server
+    - Status: dead, no commits since 2020-04 (~6 years)
+- https://github.com/Axosoft/git-rs
+    - Git CLI Server written in Rust
+    - Status: dead, no commits since 2018-06 (~8 years)
+- https://github.com/Kayleexx/veridian
+    - A lightweight, from-scratch git implementation in Rust
+    - Status: actively maintained (pushed 2025-10-11)
+- https://github.com/alexwennerberg/mygit
+    - Small self-hosted git, written in Rust
+    - Status: dead, no commits since 2021-08 (~5 years)
+- https://github.com/bantamhq/cutman
+    - Lightweight, self-hostable git server built for organizing code, experiments, and AI context
+    - Status: actively maintained (pushed 2026-02-03)
+- https://github.com/wayverd/bile
+    - A simple self-hosted git server
+    - Status: actively maintained (pushed 2026-02-27)
+- https://github.com/charmbracelet/soft-serve
+    - The mighty, self-hostable Git server for the command line (Go, not Rust)
+    - Status: actively maintained (pushed 2026-08-12)
+- https://github.com/w4/rgit
+    - Blazingly fast web frontend for git repositories
+    - Status: actively maintained (pushed 2025-10-01)
+- https://github.com/chrisdickinson/git-rs
+    - git, implemented in rust, for fun and education
+    - Status: dead, no commits since 2023-08 (~3 years)

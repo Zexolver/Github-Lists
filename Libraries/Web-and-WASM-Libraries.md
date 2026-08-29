@@ -1,0 +1,42 @@
+## Web/WASM-Focused Rust Libraries and Dev Tooling
+
+- https://github.com/juliog922/rust_yew_frontend
+    - A Yew (Rust/WASM web framework) tutorial project covering auth, routing, forms, and state management
+- https://github.com/rail44/squark
+    - Rust frontend framework, for web browser and more
+- https://github.com/chinedufn/percy
+    - Build frontend browser apps with Rust + WebAssembly, supports server side rendering
+- https://github.com/zduny/js-utils
+    - Utilities for browser Rust applications
+- https://github.com/AlvinHon/webmessage
+    - Rust-Wasm library that stores a sequence of messages in the browser's local storage with hashing and signatures
+- https://github.com/rfwatson/weblog
+    - A crate defining macros for calling console.log() and other browser console API members when targeting WASM
+- https://github.com/cunarist/tokio-with-wasm
+    - Mimicking Tokio functionalities on web browsers
+- https://github.com/npetrangelo/BFTML
+    - Blazingly Fast Text Markup Language - standards for web apps, browser implementation in Rust
+- https://github.com/newDINO/web-fs
+    - WASM filesystem for the browser, based on the File System API
+- https://github.com/erichdongubler-mozilla/moz-webgpu-cts
+    - A fast, opinionated tool for working with WPT metadata while developing a WebGPU implementation in a browser
+
+- https://github.com/YusufB5/ASCILINE
+    - A high-performance ASCII video rendering engine with real-time WebSocket binary streaming, for HTML5 Canvas
+- https://github.com/HerringtonDarkholme/vue-compiler
+    - Vue's template compiler reimplemented in Rust
+- https://github.com/Pauan/rust-dominator
+    - Zero-cost, ultra-high-performance declarative DOM library using FRP signals for Rust
+- https://github.com/saschagrunert/webapp.rs
+    - A web application completely written in Rust
+- https://github.com/farm-fe/farm
+    - Extremely fast Vite-compatible web build tool written in Rust
+- https://github.com/flosse/rust-web-framework-comparison
+    - A comparison of some web frameworks and libraries written in Rust
+- https://github.com/surrealdb/indxdb
+    - A key-value database engine abstraction layer for IndexedDB in WASM
+- https://github.com/p2js/webless
+    - Web without the Web - an alternative web protocol/concept
+
+- https://github.com/denoland/deno
+    - A modern runtime for JavaScript and TypeScript, built substantially in Rust (embeds V8, uses Tokio) - used as a standalone runtime/platform, not a Rust library dependency

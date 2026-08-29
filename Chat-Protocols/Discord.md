@@ -1,0 +1,46 @@
+## Discord Clients, Mods, Plugins, and Bots
+
+- https://github.com/GooseMod/OpenAsar
+    - Open-source alternative of Discord desktop's app.asar
+- https://github.com/ScattrdBlade/bigFileUpload
+    - A Vencord plugin that bypasses Discord's upload limit by uploading files to external sites
+- https://github.com/EionRobb/purple-discord
+    - A libpurple/Pidgin plugin for Discord
+- https://github.com/DvorakDwarf/disrust
+    - A Discord TUI client written entirely in Rust
+- https://github.com/japandotorg/LemonCord
+    - A fast & lightweight Discord client written in Rust
+- https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties
+    - A non-exhaustive collection of third-party clients and mods for Discord
+- https://github.com/sioaeko/Equicord-splitLargeFile
+    - A Vencord/Equicord plugin that bypasses Discord's 10MB file size limit by splitting/merging uploads
+- https://github.com/wakatime/vencord-wakatime
+    - Vencord plugin for automatic time tracking and stats about your Discord usage
+- https://github.com/erogaki-dev/erogaki-discord
+    - A Discord bot which takes censored hentai and returns a decensored version
+- https://github.com/SpikeHD/Orbolay
+    - Quick, small, performant, multi-platform Discord overlay alternative
+- https://github.com/SpikeHD/Dorion
+    - Tiny alternative Discord client with a smaller footprint, snappier startup, themes and plugins
+- https://github.com/bunny-mod/Bunny
+    - A Discord mobile app client modification
+- https://github.com/ayn2op/discordo
+    - A lightweight, secure, and feature-rich Discord terminal (TUI) client
+- https://github.com/marioparaschiv/unbound
+    - Cross-platform mobile Discord client modification focused on control, stability, and customisation
+- https://github.com/Boocord/discord-client
+    - A lightweight open-source Discord client
+
+- https://github.com/aurickk/SilentEdit-Vencord
+    - A Vencord plugin that edits messages without showing the edit tag and bypasses Vencord's message logger
+- https://github.com/YLohkuhl/personalBadges
+    - A Vencord plugin to create profile badges only visible to you, via locally stored data
+- https://github.com/eightcon/FakeVoiceOptions
+    - A Vencord plugin which shows you as deafened & muted to others while you can still hear them
+- https://github.com/D3SOX/vc-betterActivities
+    - Vencord BetterActivities user plugin
+- https://github.com/KrstlSkll69/messageNitroBadge
+    - Vencord plugin to enable the Social Proofing Message Nitro Badge experiment
+
+- https://github.com/yofukashino/DiscordBypasses
+    - A collection of Discord bypasses and utilities

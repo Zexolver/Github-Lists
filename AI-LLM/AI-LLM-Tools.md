@@ -1,0 +1,113 @@
+## AI/LLM Tools (agents, coding assistants, inference, misc)
+
+- https://github.com/ccurme/chesster
+    - AI Chess teacher
+- https://github.com/agentscope-ai/QwenPaw
+    - Your Personal AI Assistant - easy to install, deploy on your own machine or on the cloud; supports multiple chat apps
+- https://github.com/lyogavin/airllm
+    - AirLLM 70B inference with single 4GB GPU
+- https://github.com/tinyhumansai/openhuman
+    - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+- https://github.com/gabotechs/MusicGPT
+    - Generate music based on natural language prompts using LLMs running locally
+- https://github.com/dustinblackman/oatmeal
+    - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+- https://github.com/EricLBuehler/mistral.rs
+    - Fast, flexible LLM inference
+- https://github.com/0xPlaygrounds/rig
+    - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- https://github.com/AlexsJones/llmfit
+    - Hundreds of models & providers. One command to find what runs on your hardware.
+- https://github.com/mufeedvh/code2prompt
+    - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- https://github.com/LostRuins/koboldcpp
+    - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+- https://github.com/Cormanz/smartgpt
+    - A program that provides LLMs with the ability to complete complex tasks using plugins.
+- https://github.com/Aider-AI/aider
+    - aider is AI pair programming in your terminal
+- https://github.com/sourcegraph/awesome-code-ai
+    - A list of AI coding tools (assistants, completions, refactoring, etc.)
+- https://github.com/sopaco/deepwiki-rs
+    - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
+- https://github.com/screenpipe/screenpipe
+    - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- https://github.com/just-every/code
+    - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
+- https://github.com/agent-of-empires/agent-of-empires
+    - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+- https://github.com/moltis-org/moltis
+    - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
+- https://github.com/openpista/openpista
+    - OpenPistaCrab is a Rust-based, local-first AI agent that unifies QUIC networking, CLI/Telegram channels, tool execution, and persistent SQLite memory.
+- https://github.com/PantherApex/Panther
+    - A self-hosted AI agent daemon built in Rust.
+- https://github.com/ShaikhWarsi/free-ai-tools
+    - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building AI apps
+- https://github.com/OpenHands/OpenHands
+    - 🙌 OpenHands: AI-Driven Development
+- https://github.com/AI-App/OpenDevin.OpenDevin
+    - 🐚 OpenDevin: Code Less, Make More
+- https://github.com/Gitlawb/openclaude
+    - runs anywhere. uses anything
+- https://github.com/JuliusBrussee/caveman
+    - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- https://github.com/drona23/claude-token-efficient
+    - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
+- https://github.com/AayushBahukhandi/cgx
+    - Turn any Git repo into a queryable knowledge graph. Tree-sitter + git history + DuckDB + WebGL graph. MCP server for Cursor & Claude Code.
+- https://github.com/bnomei/raymon
+    - Ray logging TUI and MCP Server
+- https://github.com/ChenMiaoi/llm-meter
+    - Local-first LLM usage, cost, and quota monitor for OpenAI and Codex, with Hyprland and Noctalia integration.
+- https://github.com/rtk-ai/rtk
+    - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- https://github.com/spider-rs/spider
+    - Get web data for AI agents and LLMs
+- https://github.com/makalin/rustagent
+    - An open-source AI web automation tool written in Rust that runs in the browser via WebAssembly (WASM).
+- https://github.com/DevMaan707/surfai
+    - A modern, AI-enhanced browser automation framework built in Rust. Designed for AI agents, automated testing, and web scraping with intelligent element detection and interaction.
+- https://github.com/zTgx/llmweb-rs
+    - Webpage to structured data in Rust & LLM
+- https://github.com/duydang2311/askkit
+    - AI Chatbot w/ launcher application built with Rust
+- https://github.com/kwaroran/Risuai
+    - Make your own story. User-friendly software for LLM roleplaying
+- https://github.com/chatman-media/timeline-studio
+    - Timeline Studio - Video Editing with AI
+
+- https://github.com/Picovoice/porcupine
+    - On-device wake word detection powered by deep learning
+- https://github.com/Picovoice/picovoice
+    - On-device voice assistant platform powered by deep learning
+- https://github.com/Haidra-Org/AI-Horde
+    - A crowdsourced distributed cluster for AI art and text generation
+- https://github.com/eeemoon/perchance
+    - Unofficial Python API for Perchance (AI generator site)
+- https://github.com/kirill-markin/repo-to-text
+    - Convert a repository structure and contents into a single text file (tree + file contents) for LLM context
+
+- https://github.com/tracel-ai/burn
+    - Burn - a next generation tensor library and Deep Learning Framework
+- https://github.com/zahidkhawaja/rusty
+    - AI-powered CLI tool to help you remember bash commands
+- https://github.com/guywaldman/magic-cli
+    - AI-powered command line utility to make you a magician in the terminal
+
+- https://github.com/mediar-ai/terminator
+    - Playwright-style computer use automation for Windows
+- https://github.com/afshinm/juggernaut
+    - Neural Network in Rust
+
+- https://github.com/Eyalm321/hyperpanes
+    - A native, cross-platform tiling terminal workspace for AI agents
+- https://github.com/Peterc3-dev/screen-click
+    - Linux CLI: click on-screen UI from a natural-language target via screenshot + CV heuristics + Qwen2.5-VL grounding + ydotool
+
+- https://github.com/SempreBurrasca/agent-os
+    - AgentOS - an agentic Linux desktop OS (Rust workspace: AI daemon, Wayland compositor, semantic filesystem)
+- https://github.com/Marketscrape/marketscrape-web
+    - An AI-powered web scraper for Facebook Marketplace that analyzes listings to help find deals
+- https://github.com/cecli-dev/cecli
+    - A neat CLI assistant
