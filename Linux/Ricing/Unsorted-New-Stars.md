@@ -32,3 +32,15 @@
 - https://github.com/apache/opendal-yinyang
     - Language: Rust
     - Apache OpenDAL™ YinYang: a cross-platform filesystem foundation.
+
+- https://github.com/thetuxinator/nextcloud_providers
+    - Language: ?
+    - community-maintained list of Nextcloud providers
+
+- https://github.com/azukaar/Cosmos-Server
+    - Language: Go
+    - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+
+- https://github.com/ahpropo/shield
+    - Language: Rust
+    - Wayland sound volume overlay
