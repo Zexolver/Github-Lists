@@ -44,3 +44,30 @@
 - https://github.com/ahpropo/shield
     - Language: Rust
     - Wayland sound volume overlay
+
+- https://github.com/YuKongA/ghostlock-app
+    - Language: C
+    - GhostLock One-Tap Execution App (CVE-2026-43499)
+
+- https://github.com/Chill-Astro/FOSS-Root-Checker
+    - Language: Kotlin
+    - A Modern Open-Source Root Checker App for Android 6+!
+
+- https://github.com/EucalyZ/justapk
+    - Language: ?
+    - Download any APK by package name. 6 sources, automatic fallback, Cloudflare bypass. CLI + Python API.
+
+- https://github.com/mmalmi/nostr-vpn
+    - Language: Rust
+
+- https://github.com/jmcorgan/fips
+    - Language: Rust
+    - The Free Internetworking Peering System
+
+- https://github.com/mikaeww/Wreath
+    - Language: Rust
+    - Local instant  replay recorder for Windows and Arch Linux, GPU-encoded and held in memory
+
+- https://github.com/crashbashash/protondb_lookup
+    - Language: Rust
+    - Simple command line tool to get ProtonDB ratings for steam games.
