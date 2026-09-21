@@ -71,3 +71,111 @@
 - https://github.com/crashbashash/protondb_lookup
     - Language: Rust
     - Simple command line tool to get ProtonDB ratings for steam games.
+
+- https://github.com/derekross/plektos
+    - Language: TypeScript
+    - Plektos is a decentralized meetup, events, and calendar platform built on Nostr.
+
+- https://github.com/obelisk-app/obelisk
+    - Language: TypeScript
+    - Decentralized Obelisk: Nostr-native chat & voice with WoT filtering and mediasoup SFU
+
+- https://github.com/nostr-protocol/nostr
+    - Language: ?
+    - a truly censorship-resistant alternative to Twitter that has a chance of working
+
+- https://github.com/concord-protocol/concord
+    - Language: ?
+    - Private & Decentralised Communities on Nostr Protocol
+
+- https://github.com/hyprwm/Hyprland
+    - Language: C++
+    - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+- https://github.com/MuntashirAkon/AppManager
+    - Language: Java
+    - A full-featured package manager and viewer for Android
+
+- https://github.com/BuSung-dev/Root-My-Galaxy-Payloads
+    - Language: C
+    - Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
+
+- https://github.com/awesome-android-root/awesome-android-root
+    - Language: Markdown
+    - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
+
+- https://github.com/anderspitman/awesome-tunneling
+    - Language: Python
+    - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
+
+- https://github.com/redecentralize/alternative-internet
+    - Language: ?
+    - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+
+- https://github.com/cjdelisle/cjdns
+    - Language: C
+    - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+
+- https://github.com/emersonbusson/ramshared
+    - Language: Rust
+    - Hardware-accelerated Linux kernel block driver and multi-tier memory cascade (ZRAM ➔ PCIe VRAM ➔ NVMe). Opportunistically leases idle GPU memory as a zero-allocation, revocable swap cache with sub-millisecond latency, zero SSD wear, and crash-safety on Linux & WSL2.
+
+- https://github.com/leaningtech/webvm
+    - Language: JavaScript
+    - Virtual Machine for the Web
+
+- https://github.com/nefarius/DsHidMini
+    - Language: C#
+    - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
+
+- https://github.com/hxreborn/hxreborn-tiktok-patches
+    - Language: Java
+    - Feed filters for ads, AI slop, paid partnerships, live and shop cards, plus telemetry blocking.
+
+- https://github.com/icysymmetra/tiktok-patches-for-morphe
+    - Language: Java
+    - This repository is a Morphe patch source for TikTok.  It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 46.2.3
+
+- https://github.com/visioncortex/vtracer
+    - Language: Rust
+    - Raster to Vector Graphics Converter
+
+- https://github.com/patrickjaja/claude-desktop-extra
+    - Language: JavaScript
+    - Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
+
+- https://github.com/boa-dev/boa
+    - Language: Rust
+    - Boa is an embeddable Javascript engine written in Rust.
+
+- https://github.com/fltk-rs/demos
+    - Language: Rust
+    - Repo containing demo apps using the fltk crate
+
+- https://github.com/fltk-rs/fltk-theme
+    - Language: Rust
+    - A theming crate for fltk-rs
+
+- https://github.com/finnconor/nm-wayland
+    - Language: Rust
+    - A lightweight NetworkManager GUI for Wayland compositors
+
+- https://github.com/husseinhareb/beewm
+    - Language: Rust
+    - A fast, lightweight tiling compositor for Wayland, written in Rust.
+
+- https://github.com/theaddonn/violinrs
+    - Language: Rust
+    - Rust framework for Rust-powered Minecraft addon development
+
+- https://github.com/sbilliet/RustySteamAuth
+    - Language: Rust
+    - Implementation of steam OAuth in Rust
+
+- https://github.com/ibigbug/clash-rs
+    - Language: Rust
+    - custom protocol network proxy
+
+- https://github.com/ScoopInstaller/Games
+    - Language: PowerShell
+    - Scoop bucket for open source/freeware games and game-related tools
