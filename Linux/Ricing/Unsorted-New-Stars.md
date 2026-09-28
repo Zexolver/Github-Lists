@@ -179,3 +179,43 @@
 - https://github.com/ScoopInstaller/Games
     - Language: PowerShell
     - Scoop bucket for open source/freeware games and game-related tools
+
+- https://github.com/Fennec-AI/Fennec
+    - Language: Python
+    - Open-source, AI-driven penetration testing framework.
+
+- https://github.com/zydou/arti
+    - Language: Rust
+    - An implementation of Tor, in Rust. [NOT Official, Mirrors Only, NO PR here]
+
+- https://github.com/rafael-leal-mccormack/toast-pos-sdk
+    - Language: TypeScript
+    - A node.js sdk library for Toast POS
+
+- https://github.com/wuchendi/jsc
+    - Language: Rust
+    - A from-scratch, ahead-of-time JavaScript/TypeScript to WebAssembly compiler in Rust — swc frontend, a small enum IR, wasm-encoder codegen, wasmtime runtime. No JIT, no interpreter.
+
+- https://github.com/drogus/jawsm
+    - Language: Rust
+    - JavaScript to WASM compiler
+
+- https://github.com/manh9011/Perchance-T2I-Desktop
+    - Language: Vue
+    - Desktop Client for Perchance Text to Image
+
+- https://github.com/mozilla-firefox/firefox
+    - Language: JavaScript
+    - The official repository of Mozilla's Firefox web browser.
+
+- https://github.com/xXBlackPlasmaXx/freedns-filter
+    - Language: JavaScript
+    - Scrape FreeDNS public domains and bulk-check them against Lightspeed filter categories.
+
+- https://github.com/smartfoloo/filter-checker
+    - Language: JavaScript
+    - A URL checker for multiple content filters
+
+- https://github.com/zenithblue-oss/fluxlinux
+    - Language: Kotlin
+    - FluxLinux is Linux on Android, advanced orchestrator application that transforms your Android device into a versatile Linux workstation.
