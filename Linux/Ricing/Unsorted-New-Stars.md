@@ -219,3 +219,35 @@
 - https://github.com/zenithblue-oss/fluxlinux
     - Language: Kotlin
     - FluxLinux is Linux on Android, advanced orchestrator application that transforms your Android device into a versatile Linux workstation.
+
+- https://github.com/yonigofman/BluetoothRadar
+    - Language: Kotlin
+    - This is a simple Android app built with Kotlin and Jetpack Compose, designed to scan and display a list of nearby Bluetooth signals within a range of 1 meter. The app leverages Bluetooth scanning to provide real-time proximity data, making it ideal for discovering and tracking Bluetooth devices in close proximity.
+
+- https://github.com/mnhmasum/ble-device-scanner
+    - Language: Kotlin
+    - BLE Device Scanner is an Android app designed to find nearby Bluetooth Low Energy (BLE) enabled peripheral devices and perform read, write, notify and indiacation operation on connected peripheral devices. It features continuous scanning and demonstrates a multi-module architecture using MVVM, Kotlin, Hilt, Jetpack Compose and Unit Test..
+
+- https://github.com/danielhathaway/wifi-bluetooth-recorder
+    - Language: Kotlin
+    - An android app that stores nearby device and wifi information with a timestamp and GPS location.
+
+- https://github.com/rukamori/ArchiveTune
+    - Language: Kotlin
+    - 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
+
+- https://github.com/mikaeww/Rewa
+    - Language: Rust
+    - Local instant  replay recorder for Windows and Arch Linux, GPU-encoded and held in memory
+
+- https://github.com/Twigpine/openclaude
+    - Language: TypeScript
+    - runs anywhere. uses anything
+
+- https://github.com/lively-community/lively
+    - Language: C#
+    - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+
+- https://github.com/sjdms/rustyproxy
+    - Language: Rust
+    - A Minecraft proxy written Rust
