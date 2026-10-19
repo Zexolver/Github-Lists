@@ -251,3 +251,39 @@
 - https://github.com/sjdms/rustyproxy
     - Language: Rust
     - A Minecraft proxy written Rust
+
+- https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering
+    - Language: C
+    - A look at inner workings of Joycon and Nintendo Switch
+
+- https://github.com/TomOstt/SwitchBlade
+    - Language: Python
+    - Purpose-built reverse engineering platform for Nintendo Switch firmware analysis. Parses NSO binaries, decodes AArch64 instructions, maps syscalls, and diffs firmware versions — designed to find what Ghidra can't.
+
+- https://github.com/SPIRIT-org/SPIRIT
+    - Language: MATLAB
+    - Smartphone based on the Raspberry Pi CM 5.
+
+- https://github.com/evanman83/OURS-project
+    - Language: Python
+    - Step-by-step instructions to build a smartphone that is open-source, upgradeable, repairable, and Big Tech free.
+
+- https://github.com/androoAGI/starnet
+    - Language: JavaScript
+    - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+
+- https://github.com/oxen-io/lokinet
+    - Language: C++
+    - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+
+- https://github.com/Droid-Deck/DroidDeck
+    - Language: Kotlin
+    - DroidDeck brings the SteamOS experience to Android
+
+- https://github.com/sreevarshan-xenoz/Pocketdesk
+    - Language: Rust
+    - Pocketdesk — your desktop from your phone. Low-latency remote desktop for Linux (Wayland-native) and Windows, with KDE Connect features, over LAN, Tailscale or iroh. Pure Rust server + native Android app; no port forwarding.
+
+- https://github.com/offluencer-com/vidan-tui-video-player
+    - Language: Rust
+    - A terminal-based video player (TUI) for Wayland. Beta version, no additional features yet.
