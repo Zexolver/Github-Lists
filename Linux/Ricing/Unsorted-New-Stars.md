@@ -287,3 +287,15 @@
 - https://github.com/offluencer-com/vidan-tui-video-player
     - Language: Rust
     - A terminal-based video player (TUI) for Wayland. Beta version, no additional features yet.
+
+- https://github.com/runa-fm/runa
+    - Language: Rust
+    - A fast and lightweight terminal file manager written in Rust
+
+- https://github.com/clickswave/crossfyre-toolchain
+    - Language: Rust
+    - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
+
+- https://github.com/adam-wier/globe
+    - Language: Rust
+    - Interactive ASCII globe generator
