@@ -299,3 +299,7 @@
 - https://github.com/adam-wier/globe
     - Language: Rust
     - Interactive ASCII globe generator
+
+- https://github.com/PavelMilanov/gwu
+    - Language: Go
+    - Wireguard cli manager
