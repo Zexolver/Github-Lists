@@ -303,3 +303,7 @@
 - https://github.com/PavelMilanov/gwu
     - Language: Go
     - Wireguard cli manager
+
+- https://github.com/kora-desktop/gog-warp
+    - Language: Rust
+    - Rust library for interfacing with GOG API
