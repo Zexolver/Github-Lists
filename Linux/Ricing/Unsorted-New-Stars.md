@@ -307,3 +307,11 @@
 - https://github.com/kora-desktop/gog-warp
     - Language: Rust
     - Rust library for interfacing with GOG API
+
+- https://github.com/Inspirateur/bevy-voxel
+    - Language: Rust
+    - A voxel example in bevy 0.20
+
+- https://github.com/lumi-rs/lumi-ui-legacy
+    - Language: Rust
+    - A graphics library
